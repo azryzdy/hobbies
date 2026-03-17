@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.1">
   <diagram name="Page-1" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="742" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1850" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,6 +180,42 @@
         </mxCell>
         <mxCell id="yb8Yuji2DkAxrVri0Os5-30" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Kaʿb ibn al-Ashraf" vertex="1">
           <mxGeometry height="60" width="120" x="290" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-3" edge="1" parent="1" source="Uei_kTVExLXPiuFEWOEJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Uei_kTVExLXPiuFEWOEJ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banu Salimah" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abu Qatadah ibn Rib&#39;i ibn Baldamah " vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-4" edge="1" parent="1" source="Uei_kTVExLXPiuFEWOEJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Uei_kTVExLXPiuFEWOEJ-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banu Bar" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="As&#39;ad ibn Haram" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-10" edge="1" parent="1" source="Uei_kTVExLXPiuFEWOEJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Uei_kTVExLXPiuFEWOEJ-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū ʿAmr ibn ʿAwf" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Thābit ibn Aqram" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-14" edge="1" parent="1" source="Uei_kTVExLXPiuFEWOEJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Uei_kTVExLXPiuFEWOEJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū&lt;br&gt;al-Ḥārith ibn Fihr" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2600" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abū ʿUbaydah ibn al-Jarrāḥ" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
