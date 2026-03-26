@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.6">
   <diagram name="Page-1" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="1303" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Ali Faction?&lt;/b&gt;" vertex="1">
+          <mxGeometry height="230" width="550" x="1130" y="470" as="geometry" />
+        </mxCell>
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-3" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qJ_IyJLSKGIYtHuj0SZ1-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -81,7 +84,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1310" y="230" />
-              <mxPoint x="1450" y="230" />
+              <mxPoint x="1400" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -109,6 +112,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-17" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="-9igcFsoWAtxM9-ccB3T-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhammad" vertex="1">
           <mxGeometry height="60" width="120" x="1250" y="140" as="geometry" />
         </mxCell>
@@ -125,7 +131,7 @@
           <mxGeometry height="60" width="120" x="1060" y="350" as="geometry" />
         </mxCell>
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saʿd ibn Muʿādh" vertex="1">
-          <mxGeometry height="60" width="120" x="1220" y="350" as="geometry" />
+          <mxGeometry height="60" width="120" x="1250" y="370" as="geometry" />
         </mxCell>
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Qushayr" vertex="1">
           <mxGeometry height="60" width="120" x="1680" y="260" as="geometry" />
@@ -146,7 +152,7 @@
           <mxGeometry height="60" width="120" x="2140" y="360" as="geometry" />
         </mxCell>
         <mxCell id="30kUu9-l0aI8omg1kScr-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Sahl ibn Ḥunayf&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="350" as="geometry" />
+          <mxGeometry height="60" width="120" x="1320" y="480" as="geometry" />
         </mxCell>
         <mxCell id="30kUu9-l0aI8omg1kScr-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;al-Zubayr&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2520" y="260" as="geometry" />
@@ -162,6 +168,64 @@
         </mxCell>
         <mxCell id="30kUu9-l0aI8omg1kScr-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="ʿUtbah ibn Abī Waqqāṣ" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alī ibn Abī Ṭālib" vertex="1">
+          <mxGeometry height="60" width="120" x="1160" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Āṣim&lt;br&gt;ibn Thābit ibn al-Aqlaḥ" vertex="1">
+          <mxGeometry height="60" width="120" x="1450" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Ḥārith ibn al-Ṣimmah" vertex="1">
+          <mxGeometry height="60" width="120" x="1530" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-7" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-9igcFsoWAtxM9-ccB3T-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1310" y="230" />
+              <mxPoint x="1590" y="230" />
+              <mxPoint x="1590" y="525" />
+            </Array>
+            <mxPoint x="1450" y="270" as="sourcePoint" />
+            <mxPoint x="1590" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-9" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-9igcFsoWAtxM9-ccB3T-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="200" />
+              <mxPoint x="1270" y="330" />
+              <mxPoint x="1220" y="330" />
+            </Array>
+            <mxPoint x="1270" y="450" as="sourcePoint" />
+            <mxPoint x="1400" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-10" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-9igcFsoWAtxM9-ccB3T-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1310" y="230" />
+              <mxPoint x="1520" y="230" />
+              <mxPoint x="1520" y="470" />
+              <mxPoint x="1510" y="470" />
+            </Array>
+            <mxPoint x="1580" y="440" as="sourcePoint" />
+            <mxPoint x="1860" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū Zurayq" vertex="1">
+          <mxGeometry height="60" width="120" x="2270" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="ʿUqbah ibn ʿUthmān" vertex="1">
+          <mxGeometry height="60" width="120" x="2380" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Saʿd ibn ʿUthmān " vertex="1">
+          <mxGeometry height="60" width="120" x="2200" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-15" edge="1" parent="1" source="-9igcFsoWAtxM9-ccB3T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.485;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="-9igcFsoWAtxM9-ccB3T-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-16" edge="1" parent="1" source="-9igcFsoWAtxM9-ccB3T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="-9igcFsoWAtxM9-ccB3T-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
