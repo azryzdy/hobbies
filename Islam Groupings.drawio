@@ -7,6 +7,12 @@
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-3" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qJ_IyJLSKGIYtHuj0SZ1-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="30kUu9-l0aI8omg1kScr-12" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="30kUu9-l0aI8omg1kScr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30kUu9-l0aI8omg1kScr-13" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="30kUu9-l0aI8omg1kScr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Sufyan ibn Harb" vertex="1">
           <mxGeometry height="60" width="120" x="30" y="170" as="geometry" />
         </mxCell>
@@ -150,6 +156,12 @@
         </mxCell>
         <mxCell id="30kUu9-l0aI8omg1kScr-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;al-Ḥārith ibn al-Ṣimmah of the Banū al-Najjār&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1590" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="30kUu9-l0aI8omg1kScr-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū al-Ḥārith ibn ʿAbd Manāt called Ibn Qami’ah." vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="30kUu9-l0aI8omg1kScr-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="ʿUtbah ibn Abī Waqqāṣ" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
