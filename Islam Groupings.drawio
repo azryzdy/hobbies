@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.6">
   <diagram name="Page-1" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="2893" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1654" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,13 +346,13 @@
           <mxGeometry height="60" width="120" x="490" y="1890" as="geometry" />
         </mxCell>
         <mxCell id="O1e01ZQ45r4bCQnxBYB_-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Ḥārith ibn ʿAwf" vertex="1">
-          <mxGeometry height="60" width="120" x="-210" y="1510" as="geometry" />
+          <mxGeometry height="60" width="120" x="-230" y="1540" as="geometry" />
         </mxCell>
         <mxCell id="O1e01ZQ45r4bCQnxBYB_-32" edge="1" parent="1" source="O1e01ZQ45r4bCQnxBYB_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="O1e01ZQ45r4bCQnxBYB_-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O1e01ZQ45r4bCQnxBYB_-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Murrah&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="-170" y="1420" as="geometry" />
+          <mxGeometry height="60" width="120" x="-230" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="O1e01ZQ45r4bCQnxBYB_-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banu Asad" vertex="1">
           <mxGeometry height="60" width="120" x="294" y="1850" as="geometry" />
@@ -433,6 +433,35 @@
         </mxCell>
         <mxCell id="O1e01ZQ45r4bCQnxBYB_-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khawwāt ibn Jubayr" vertex="1">
           <mxGeometry height="60" width="120" x="2020" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="tvih4suVSQaQg1Cgggx0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nawfal ibn Abdillah al-Makhzumi " vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="tvih4suVSQaQg1Cgggx0-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ḥibbān ibn Qays" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="tvih4suVSQaQg1Cgggx0-6" edge="1" parent="1" source="tvih4suVSQaQg1Cgggx0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tvih4suVSQaQg1Cgggx0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tvih4suVSQaQg1Cgggx0-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū ʿĀmir ibn Lu’ayy" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="tvih4suVSQaQg1Cgggx0-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū al-ʿAriqah" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="tvih4suVSQaQg1Cgggx0-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abū Usāmah al-Jushamī" vertex="1">
+          <mxGeometry height="60" width="120" x="-430" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="tvih4suVSQaQg1Cgggx0-11" edge="1" parent="1" source="tvih4suVSQaQg1Cgggx0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tvih4suVSQaQg1Cgggx0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tvih4suVSQaQg1Cgggx0-13" connectable="0" parent="tvih4suVSQaQg1Cgggx0-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Usamah ally of" vertex="1">
+          <mxGeometry relative="1" x="0.0185" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvih4suVSQaQg1Cgggx0-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Makhzūm" vertex="1">
+          <mxGeometry height="60" width="120" x="-430" y="1410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
