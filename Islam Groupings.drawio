@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Page-1" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="1656" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -479,13 +479,37 @@
           <mxGeometry height="60" width="120" x="1160" y="2740" as="geometry" />
         </mxCell>
         <mxCell id="JDiMcN2ZP3LB9s7N0LE_-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banu Qurayzah" vertex="1">
-          <mxGeometry height="60" width="120" x="760" y="2620" as="geometry" />
+          <mxGeometry height="60" width="120" x="590" y="2630" as="geometry" />
         </mxCell>
         <mxCell id="JDiMcN2ZP3LB9s7N0LE_-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ḥuyayy ibn Akhṭab" vertex="1">
           <mxGeometry height="60" width="120" x="695" y="2720" as="geometry" />
         </mxCell>
         <mxCell id="JDiMcN2ZP3LB9s7N0LE_-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abū Lubābah ibn ʿAbd al-Mundhir " vertex="1">
           <mxGeometry height="60" width="120" x="1330" y="2740" as="geometry" />
+        </mxCell>
+        <mxCell id="UPH4-Zo22ghiqHizhpS4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saʿd ibn Muʿādh" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="2740" as="geometry" />
+        </mxCell>
+        <mxCell id="UPH4-Zo22ghiqHizhpS4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="A man from the Banū ʿAbd al-Ashhal" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="UPH4-Zo22ghiqHizhpS4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Amr ibn Suʿdā&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="UPH4-Zo22ghiqHizhpS4-6" edge="1" parent="1" source="UPH4-Zo22ghiqHizhpS4-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="UPH4-Zo22ghiqHizhpS4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPH4-Zo22ghiqHizhpS4-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū al-Ḥārith ibn al-Khazraj" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="2820" as="geometry" />
+        </mxCell>
+        <mxCell id="UPH4-Zo22ghiqHizhpS4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Thābit ibn Qays ibn Shammās" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="2930" as="geometry" />
+        </mxCell>
+        <mxCell id="UPH4-Zo22ghiqHizhpS4-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Zubayr&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="2810" as="geometry" />
+        </mxCell>
+        <mxCell id="UPH4-Zo22ghiqHizhpS4-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hypocrites" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="2810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
