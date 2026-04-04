@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Page-1" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="2893" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2470" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pro Muhammad" vertex="1">
+          <mxGeometry height="320" width="345" x="815" y="3300" as="geometry" />
+        </mxCell>
         <mxCell id="O1e01ZQ45r4bCQnxBYB_-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Allies" vertex="1">
           <mxGeometry height="440" width="680" x="-10" y="1700" as="geometry" />
         </mxCell>
@@ -292,7 +295,7 @@
         <mxCell id="O1e01ZQ45r4bCQnxBYB_-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simāk ibn Aws ibn Kharashah known as Abu Dujanah" vertex="1">
           <mxGeometry height="60" width="120" x="1400" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="O1e01ZQ45r4bCQnxBYB_-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sahl ibn Ḥunayf" vertex="1">
+        <mxCell id="O1e01ZQ45r4bCQnxBYB_-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jābir ibnʿAbdillāh&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="1460" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="O1e01ZQ45r4bCQnxBYB_-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sahl ibn Ḥunayf" vertex="1">
@@ -510,6 +513,84 @@
         </mxCell>
         <mxCell id="UPH4-Zo22ghiqHizhpS4-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hypocrites" vertex="1">
           <mxGeometry height="60" width="120" x="450" y="2810" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Treaty of Hudaibiyah" vertex="1">
+          <mxGeometry height="60" width="1560" x="220" y="3090" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhammad" vertex="1">
+          <mxGeometry height="60" width="120" x="1410" y="3190" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khallad ibn Abbad al-Ghifari " vertex="1">
+          <mxGeometry height="60" width="120" x="1530" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khālid ibn al-Walīd" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bishr ibn Sufyān al-Kaʿbī" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nājiyah ibn Jundub al-Aslamī" vertex="1">
+          <mxGeometry height="60" width="120" x="1680" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Amr ibn Abd Nuhm al-Aslami" vertex="1">
+          <mxGeometry height="60" width="120" x="1020" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Budayl ibn Warqā’" vertex="1">
+          <mxGeometry height="60" width="120" x="1020" y="3490" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bishr ibn Sufyan " vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-12" edge="1" parent="1" source="4qLyR5g1BAI9XDmaJBij-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="4qLyR5g1BAI9XDmaJBij-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Kaʿb" vertex="1">
+          <mxGeometry height="60" width="120" x="1020" y="3390" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū al-Ḥārith ibn ʿAbd Manāh " vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Ḥulays" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="3400" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jabir ibn Abdullah " vertex="1">
+          <mxGeometry height="60" width="120" x="1370" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quraysh" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="3190" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mikraz ibn Ḥafṣ ibn al-Aḥnaf" vertex="1">
+          <mxGeometry height="60" width="120" x="-50" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Urwah bin Mas&#39;ud al-Thaqaf" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Bakar al-Siddiq " vertex="1">
+          <mxGeometry height="60" width="120" x="1450" y="3390" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Mughīrah ibn Shuʿbah " vertex="1">
+          <mxGeometry height="60" width="120" x="1260" y="3390" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umar ibn al-Khattab" vertex="1">
+          <mxGeometry height="60" width="120" x="1620" y="3390" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uthman ibn Affan" vertex="1">
+          <mxGeometry height="60" width="120" x="1800" y="3390" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aban ibn Sa&#39;id ibn al-As" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="3400" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Suhayl ibn Amr " vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="3400" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alī ibn Abī Ṭālib " vertex="1">
+          <mxGeometry height="60" width="120" x="1970" y="3390" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umm Salama" vertex="1">
+          <mxGeometry height="60" width="120" x="1880" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="4qLyR5g1BAI9XDmaJBij-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khirāsh ibn&lt;br&gt;Umayyah al-Kaʿbī" vertex="1">
+          <mxGeometry height="60" width="120" x="1210" y="3300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
