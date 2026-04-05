@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Page-1" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="2470" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1380" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,6 +591,12 @@
         </mxCell>
         <mxCell id="4qLyR5g1BAI9XDmaJBij-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khirāsh ibn&lt;br&gt;Umayyah al-Kaʿbī" vertex="1">
           <mxGeometry height="60" width="120" x="1210" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="c7uLeI5ZXdqrblMxru7n-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Kaʿb " vertex="1">
+          <mxGeometry height="60" width="120" x="1540" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="c7uLeI5ZXdqrblMxru7n-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Bakr " vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="3400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
