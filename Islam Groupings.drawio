@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Page-1" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="1305" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Exclude from Battle" vertex="1">
+          <mxGeometry height="160" width="260" x="1240" y="4330" as="geometry" />
+        </mxCell>
         <mxCell id="4qLyR5g1BAI9XDmaJBij-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pro Muhammad" vertex="1">
           <mxGeometry height="320" width="345" x="815" y="3300" as="geometry" />
         </mxCell>
@@ -689,6 +692,50 @@
           <mxGeometry relative="1" x="-0.2463" y="-3" as="geometry">
             <mxPoint x="10" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abū Ayyūb al-Anṣārī Khālid ibn&lt;br&gt;Zayd" vertex="1">
+          <mxGeometry height="60" width="120" x="1960" y="4040" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zaynab&lt;br&gt;bint al-Ḥārith" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="4010" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-3" edge="1" parent="1" source="s55pLWiXdWGmpLwH8B12-4" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" target="yaMbMYx90rf8S96ZIXdq-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="4010" as="sourcePoint" />
+            <mxPoint x="660" y="4010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-4" connectable="0" parent="yaMbMYx90rf8S96ZIXdq-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="brother of" vertex="1">
+          <mxGeometry relative="1" x="-0.2463" y="-3" as="geometry">
+            <mxPoint x="10" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-5" edge="1" parent="1" source="yaMbMYx90rf8S96ZIXdq-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="yaMbMYx90rf8S96ZIXdq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Fazārah&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1270" y="4240" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Bayāḍah" vertex="1">
+          <mxGeometry height="60" width="120" x="1510" y="4240" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jābir ibn ʿAbdillāh" vertex="1">
+          <mxGeometry height="60" width="120" x="1250" y="4340" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-14" edge="1" parent="1" source="yaMbMYx90rf8S96ZIXdq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="yaMbMYx90rf8S96ZIXdq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abū ʿĀmir al-Ashʿarī" vertex="1">
+          <mxGeometry height="60" width="120" x="1750" y="4240" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ten of the Ashʿarīs" vertex="1">
+          <mxGeometry height="60" width="120" x="1840" y="4340" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Ṭufayl&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="2008" y="4240" as="geometry" />
+        </mxCell>
+        <mxCell id="yaMbMYx90rf8S96ZIXdq-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abū Hurayrah/Abu Hurairah" vertex="1">
+          <mxGeometry height="60" width="120" x="2190" y="4240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
