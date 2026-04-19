@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Page-1" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="1743" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -829,6 +829,15 @@
         <mxCell id="RYskyC7BjjEWVWMCmhdT-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhammad" vertex="1">
           <mxGeometry height="60" width="120" x="1450" y="5530" as="geometry" />
         </mxCell>
+        <mxCell id="RYskyC7BjjEWVWMCmhdT-41" edge="1" parent="1" source="RYskyC7BjjEWVWMCmhdT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="RYskyC7BjjEWVWMCmhdT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYskyC7BjjEWVWMCmhdT-42" edge="1" parent="1" source="RYskyC7BjjEWVWMCmhdT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="RYskyC7BjjEWVWMCmhdT-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYskyC7BjjEWVWMCmhdT-43" edge="1" parent="1" source="RYskyC7BjjEWVWMCmhdT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="RYskyC7BjjEWVWMCmhdT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RYskyC7BjjEWVWMCmhdT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quraysh" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="5520" as="geometry" />
         </mxCell>
@@ -921,6 +930,18 @@
         </mxCell>
         <mxCell id="RYskyC7BjjEWVWMCmhdT-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ḥāṭib ibn Abī Baltaʿah" vertex="1">
           <mxGeometry height="60" width="120" x="710" y="6060" as="geometry" />
+        </mxCell>
+        <mxCell id="RYskyC7BjjEWVWMCmhdT-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ḥakīm ibn Ḥizām" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="5630" as="geometry" />
+        </mxCell>
+        <mxCell id="RYskyC7BjjEWVWMCmhdT-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abū Sufyān ibn Ḥarb&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="5630" as="geometry" />
+        </mxCell>
+        <mxCell id="RYskyC7BjjEWVWMCmhdT-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Budayl ibn Warqā" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="5720" as="geometry" />
+        </mxCell>
+        <mxCell id="RYskyC7BjjEWVWMCmhdT-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-ʿAbbās ibn ʿAbd al-Muṭṭalib" vertex="1">
+          <mxGeometry height="60" width="120" x="1830" y="5810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
