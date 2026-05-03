@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Ummayad" id="m7YhJ8RQnN-Kl6xDcLwc">
-    <mxGraphModel dx="1705" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,27 @@
         </mxCell>
         <mxCell id="CB5kWWDTfhdYCPDuGdY6-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Amir responsibilities " vertex="1">
           <mxGeometry height="40" width="190" x="290" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="CB5kWWDTfhdYCPDuGdY6-48" edge="1" parent="1" source="CB5kWWDTfhdYCPDuGdY6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CB5kWWDTfhdYCPDuGdY6-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CB5kWWDTfhdYCPDuGdY6-49" edge="1" parent="1" source="CB5kWWDTfhdYCPDuGdY6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CB5kWWDTfhdYCPDuGdY6-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CB5kWWDTfhdYCPDuGdY6-51" edge="1" parent="1" source="CB5kWWDTfhdYCPDuGdY6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CB5kWWDTfhdYCPDuGdY6-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CB5kWWDTfhdYCPDuGdY6-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Governor/Amir" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="CB5kWWDTfhdYCPDuGdY6-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tribal leaders/ashraf provided the link between the&amp;nbsp;governor and the tribesmen. This meant that they had to be&amp;nbsp;acceptable to both parties, to the government and to the tribesmen." vertex="1">
+          <mxGeometry height="90" width="260" x="60" y="1605" as="geometry" />
+        </mxCell>
+        <mxCell id="CB5kWWDTfhdYCPDuGdY6-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="They owed their position among the tribesmen usually to their descent from an hereditary leading family, but as agents of the&lt;br&gt;government they were appointed from above rather than below, by the governor or even the caliph, not by the tribesmen." vertex="1">
+          <mxGeometry height="90" width="260" x="365" y="1605" as="geometry" />
+        </mxCell>
+        <mxCell id="CB5kWWDTfhdYCPDuGdY6-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Their position was not always a comfortable one and from time to time the ashraf had to come down off the fence and side either with the government&amp;nbsp;or with the tribesmen." vertex="1">
+          <mxGeometry height="90" width="260" x="670" y="1605" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
