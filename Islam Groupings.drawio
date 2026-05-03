@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="4">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="1583" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry height="60" width="120" x="30" y="270" as="geometry" />
         </mxCell>
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Uhud" vertex="1">
-          <mxGeometry height="60" width="1560" x="10" y="-10" as="geometry" />
+          <mxGeometry height="60" width="1560" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-9" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qJ_IyJLSKGIYtHuj0SZ1-7">
           <mxGeometry relative="1" as="geometry" />
@@ -1230,11 +1230,17 @@
         <mxCell id="m42gY77dom7sww03Ohcc-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ukaydir&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="8520" as="geometry" />
         </mxCell>
-        <mxCell id="WGJZVGmZyVKQXskb_ASY-3" edge="1" parent="1" source="WGJZVGmZyVKQXskb_ASY-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="qJ_IyJLSKGIYtHuj0SZ1-1">
+        <mxCell id="WGJZVGmZyVKQXskb_ASY-3" edge="1" parent="1" source="Qe5ka3AdiSXzaQ8QT8G_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qJ_IyJLSKGIYtHuj0SZ1-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WGJZVGmZyVKQXskb_ASY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayya" vertex="1">
-          <mxGeometry height="60" width="120" x="30" y="80" as="geometry" />
+        <mxCell id="Qe5ka3AdiSXzaQ8QT8G_-2" edge="1" parent="1" source="WGJZVGmZyVKQXskb_ASY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Qe5ka3AdiSXzaQ8QT8G_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGJZVGmZyVKQXskb_ASY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe5ka3AdiSXzaQ8QT8G_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sufyanids" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1254,7 +1260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Dh6a1bFKYPOLCG1eM0T" name="Ali time">
-    <mxGraphModel dx="1364" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1460" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1267,7 +1273,7 @@
         <mxCell id="r8quP4ZWI3Q1ZLxMcw3o-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aisha Faction" vertex="1">
           <mxGeometry height="80" width="480" x="180" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="r8quP4ZWI3Q1ZLxMcw3o-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aisha Faction" vertex="1">
+        <mxCell id="r8quP4ZWI3Q1ZLxMcw3o-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali" vertex="1">
           <mxGeometry height="80" width="480" x="890" y="70" as="geometry" />
         </mxCell>
         <mxCell id="r8quP4ZWI3Q1ZLxMcw3o-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uthman’s Umayyad&amp;nbsp;" vertex="1">
@@ -1293,6 +1299,41 @@
         </mxCell>
         <mxCell id="1LEdudPJYMdgGS_5k_8z-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Syrian arabs" vertex="1">
           <mxGeometry height="60" width="120" x="-220" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Ali time" id="vEZhA9jJuvF9IRTwtrAc">
+    <mxGraphModel dx="2453" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="aOsbEFmDYDADfA32E2GI-0" />
+        <mxCell id="aOsbEFmDYDADfA32E2GI-1" parent="aOsbEFmDYDADfA32E2GI-0" />
+        <mxCell id="aOsbEFmDYDADfA32E2GI-6" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uthman’s Umayyad&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="480" x="230" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsbEFmDYDADfA32E2GI-7" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uthman’s Umayyad&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsbEFmDYDADfA32E2GI-11" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kharijite" vertex="1">
+          <mxGeometry height="80" width="480" x="280" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsbEFmDYDADfA32E2GI-12" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muawiya" vertex="1">
+          <mxGeometry height="80" width="480" x="-470" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsbEFmDYDADfA32E2GI-13" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sufyanids" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SGvL9BdncIyU25zSnf8P-2" edge="1" parent="aOsbEFmDYDADfA32E2GI-1" source="SGvL9BdncIyU25zSnf8P-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="aOsbEFmDYDADfA32E2GI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SGvL9BdncIyU25zSnf8P-0" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ummayad" vertex="1">
+          <mxGeometry height="60" width="120" x="-180" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SGvL9BdncIyU25zSnf8P-1" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muawiya" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="SGvL9BdncIyU25zSnf8P-3" edge="1" parent="aOsbEFmDYDADfA32E2GI-1" source="aOsbEFmDYDADfA32E2GI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="SGvL9BdncIyU25zSnf8P-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
