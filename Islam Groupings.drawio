@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="3">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="1682" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,16 +221,16 @@
             <mxPoint x="1400" y="795" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-9igcFsoWAtxM9-ccB3T-10" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-9igcFsoWAtxM9-ccB3T-3">
+        <mxCell id="-9igcFsoWAtxM9-ccB3T-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1310" y="230" />
-              <mxPoint x="1520" y="230" />
-              <mxPoint x="1520" y="470" />
-              <mxPoint x="1510" y="470" />
+              <mxPoint x="1280.06" y="220" />
+              <mxPoint x="1490.06" y="220" />
+              <mxPoint x="1490.06" y="460" />
+              <mxPoint x="1480.06" y="460" />
             </Array>
-            <mxPoint x="1580" y="440" as="sourcePoint" />
-            <mxPoint x="1860" y="780" as="targetPoint" />
+            <mxPoint x="1280.0599999999995" y="190" as="sourcePoint" />
+            <mxPoint x="1480.0599999999995" y="469.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-9igcFsoWAtxM9-ccB3T-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū Zurayq" vertex="1">
@@ -1248,7 +1248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Dh6a1bFKYPOLCG1eM0T" name="Ali time">
-    <mxGraphModel dx="643" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1278,6 +1278,15 @@
         </mxCell>
         <mxCell id="r8quP4ZWI3Q1ZLxMcw3o-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Zubayr" vertex="1">
           <mxGeometry height="60" width="120" x="560" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1LEdudPJYMdgGS_5k_8z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kharijite" vertex="1">
+          <mxGeometry height="80" width="480" x="280" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="1LEdudPJYMdgGS_5k_8z-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muawiya" vertex="1">
+          <mxGeometry height="80" width="480" x="-470" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1LEdudPJYMdgGS_5k_8z-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Syrian arabs" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
