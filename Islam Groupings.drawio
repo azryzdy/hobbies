@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="3">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="1363" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1583" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry height="60" width="120" x="30" y="270" as="geometry" />
         </mxCell>
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Uhud" vertex="1">
-          <mxGeometry height="60" width="1560" x="30" y="60" as="geometry" />
+          <mxGeometry height="60" width="1560" x="10" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="qJ_IyJLSKGIYtHuj0SZ1-9" edge="1" parent="1" source="qJ_IyJLSKGIYtHuj0SZ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qJ_IyJLSKGIYtHuj0SZ1-7">
           <mxGeometry relative="1" as="geometry" />
@@ -1229,6 +1229,12 @@
         </mxCell>
         <mxCell id="m42gY77dom7sww03Ohcc-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ukaydir&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="8520" as="geometry" />
+        </mxCell>
+        <mxCell id="WGJZVGmZyVKQXskb_ASY-3" edge="1" parent="1" source="WGJZVGmZyVKQXskb_ASY-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="qJ_IyJLSKGIYtHuj0SZ1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGJZVGmZyVKQXskb_ASY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayya" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
