@@ -1260,7 +1260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Dh6a1bFKYPOLCG1eM0T" name="Ali time">
-    <mxGraphModel dx="1460" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1491" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1282,7 +1282,7 @@
         <mxCell id="r8quP4ZWI3Q1ZLxMcw3o-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uthman’s Umayyad&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="r8quP4ZWI3Q1ZLxMcw3o-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="other Qurashis&amp;nbsp;" vertex="1">
+        <mxCell id="r8quP4ZWI3Q1ZLxMcw3o-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Other Qurashis&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="190" as="geometry" />
         </mxCell>
         <mxCell id="r8quP4ZWI3Q1ZLxMcw3o-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Talha" vertex="1">
@@ -1299,6 +1299,12 @@
         </mxCell>
         <mxCell id="1LEdudPJYMdgGS_5k_8z-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Syrian arabs" vertex="1">
           <mxGeometry height="60" width="120" x="-220" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OXpLac50yHQbYeHvnlJB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mughira b. Shu‘ba" vertex="1">
+          <mxGeometry height="60" width="120" x="-425" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OXpLac50yHQbYeHvnlJB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Amr ibn Al-Aas&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-420" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
