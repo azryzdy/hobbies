@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Page-1" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="783" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,6 +227,27 @@
         </mxCell>
         <mxCell id="zGERLI3A-0Zur28JEils-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Muṣʿab ibn ʿUmayr&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-5" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZGEQMpGjdXS_IJ72RnJ9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-6" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZGEQMpGjdXS_IJ72RnJ9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-7" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZGEQMpGjdXS_IJ72RnJ9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Thaqif" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Mughira b. Shu‘ba" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ziyad&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ubayd Allah" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
