@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="7">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1465,6 +1465,34 @@
         <mxCell id="pybEvOipajkLWjjjObd6-18" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Medina" vertex="1">
           <mxGeometry height="60" width="120" x="-530" y="1550" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Muawiya II" id="TKDEpAS9AF8JlwE3kq0j">
+    <mxGraphModel dx="2772" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="OGDvb9q4uKgjfWDfDsq9-0" />
+        <mxCell id="OGDvb9q4uKgjfWDfDsq9-1" parent="OGDvb9q4uKgjfWDfDsq9-0" />
+        <mxCell id="OGDvb9q4uKgjfWDfDsq9-2" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="entah" vertex="1">
+          <mxGeometry height="80" width="1350" x="-920" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="OGDvb9q4uKgjfWDfDsq9-3" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muawiya II" vertex="1">
+          <mxGeometry height="80" width="480" x="-90" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="LXJm0bWjBOeQBbCDf_wA-0" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Many former supporters of the&lt;br&gt;Umayyads&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-660" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="LXJm0bWjBOeQBbCDf_wA-1" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Against Muawiya II" vertex="1">
+          <mxGeometry height="80" width="480" x="-790" y="1380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bF0QyaA6qJ-TjEavg48T" name="Page-6">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
