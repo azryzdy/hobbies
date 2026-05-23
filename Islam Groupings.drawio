@@ -1445,7 +1445,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Muawiya II time" id="TKDEpAS9AF8JlwE3kq0j">
-    <mxGraphModel dx="2772" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3798" dy="68" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="OGDvb9q4uKgjfWDfDsq9-0" />
         <mxCell id="OGDvb9q4uKgjfWDfDsq9-1" parent="OGDvb9q4uKgjfWDfDsq9-0" />
@@ -1475,16 +1475,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8tnDsv7pSAcF0111jh9j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mukthar(Thaqafi/Thaqif) " vertex="1">
+          <mxGeometry height="80" width="480" x="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8tnDsv7pSAcF0111jh9j-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ashraf(elite class of tribal leaders)" vertex="1">
+          <mxGeometry height="60" width="180" x="150" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FErwAVuEpVOkpo8LHVNq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mawali" vertex="1">
+          <mxGeometry height="60" width="200" x="390" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="13RDCBbJPULLhoNgj1qR" name="Abd al Malik ibn Marwan time">
-    <mxGraphModel dx="2214" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5hHpXMHYkHA-F9jbzfUB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Against Muawiya II" vertex="1">
-          <mxGeometry height="80" width="480" x="-270" y="130" as="geometry" />
+        <mxCell id="5hHpXMHYkHA-F9jbzfUB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Zubayr " vertex="1">
+          <mxGeometry height="80" width="480" x="910" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="irR8mjx1bNG7WfZQteca-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mukthar(Thaqafi/Thaqif) " vertex="1">
+          <mxGeometry height="80" width="480" x="210" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="irR8mjx1bNG7WfZQteca-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mawali" vertex="1">
+          <mxGeometry height="60" width="200" x="470" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="irR8mjx1bNG7WfZQteca-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders) " vertex="1">
+          <mxGeometry height="60" width="200" x="210" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
