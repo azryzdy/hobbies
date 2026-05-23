@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="9">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1316,7 +1316,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Muawiya time" id="vEZhA9jJuvF9IRTwtrAc">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2136" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aOsbEFmDYDADfA32E2GI-0" />
         <mxCell id="aOsbEFmDYDADfA32E2GI-1" parent="aOsbEFmDYDADfA32E2GI-0" />
@@ -1339,30 +1339,6 @@
         </mxCell>
         <mxCell id="SGvL9BdncIyU25zSnf8P-0" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ummayad" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="o3KWSAYIPMbcxxbpm1WH-0" edge="1" parent="aOsbEFmDYDADfA32E2GI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="o3KWSAYIPMbcxxbpm1WH-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="610" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o3KWSAYIPMbcxxbpm1WH-1" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muawiya" vertex="1">
-          <mxGeometry height="60" width="120" y="700" as="geometry" />
-        </mxCell>
-        <mxCell id="o3KWSAYIPMbcxxbpm1WH-2" edge="1" parent="aOsbEFmDYDADfA32E2GI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="o3KWSAYIPMbcxxbpm1WH-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="640" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o3KWSAYIPMbcxxbpm1WH-3" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab Tribesmen" vertex="1">
-          <mxGeometry height="60" width="120" x="150" y="700" as="geometry" />
-        </mxCell>
-        <mxCell id="o3KWSAYIPMbcxxbpm1WH-4" parent="aOsbEFmDYDADfA32E2GI-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Some Quraysh members" vertex="1">
-          <mxGeometry height="60" width="120" x="-180" y="700" as="geometry" />
-        </mxCell>
-        <mxCell id="o3KWSAYIPMbcxxbpm1WH-5" edge="1" parent="aOsbEFmDYDADfA32E2GI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=0.049;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="o3KWSAYIPMbcxxbpm1WH-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint y="610" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="o3KWSAYIPMbcxxbpm1WH-6" edge="1" parent="aOsbEFmDYDADfA32E2GI-1" source="dO1ZE6pYu5GeD0GoWT8k-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="o3KWSAYIPMbcxxbpm1WH-11">
           <mxGeometry relative="1" as="geometry">
@@ -1494,8 +1470,24 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="bF0QyaA6qJ-TjEavg48T" name="Page-6">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="bF0QyaA6qJ-TjEavg48T" name="Marwan I ibn Al Hakam time">
+    <mxGraphModel dx="643" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="13RDCBbJPULLhoNgj1qR" name="Abd al Malik ibn Marwan time">
+    <mxGraphModel dx="643" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8Ljklmqd72Me_eRwojCB" name="Page-9">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
