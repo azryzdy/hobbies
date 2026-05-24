@@ -1381,7 +1381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Yazid Time" id="DShJICvb3u4RKBtulCQ_">
-    <mxGraphModel dx="2143" dy="-535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2375" dy="-247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Rvj5aNpul0Tu0MhX6Elw-0" />
         <mxCell id="Rvj5aNpul0Tu0MhX6Elw-1" parent="Rvj5aNpul0Tu0MhX6Elw-0" />
@@ -1418,17 +1418,8 @@
         <mxCell id="pybEvOipajkLWjjjObd6-9" edge="1" parent="Rvj5aNpul0Tu0MhX6Elw-1" source="pybEvOipajkLWjjjObd6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="pybEvOipajkLWjjjObd6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pybEvOipajkLWjjjObd6-10" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muawiya" vertex="1">
+        <mxCell id="pybEvOipajkLWjjjObd6-10" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Husayn/Hussein" vertex="1">
           <mxGeometry height="80" width="480" x="190" y="1380" as="geometry" />
-        </mxCell>
-        <mxCell id="pybEvOipajkLWjjjObd6-15" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sufyanids" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="1810" as="geometry" />
-        </mxCell>
-        <mxCell id="pybEvOipajkLWjjjObd6-16" edge="1" parent="Rvj5aNpul0Tu0MhX6Elw-1" source="pybEvOipajkLWjjjObd6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="pybEvOipajkLWjjjObd6-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pybEvOipajkLWjjjObd6-17" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abd Allah Ibn al-Zubay" vertex="1">
-          <mxGeometry height="60" width="120" x="460" y="1690" as="geometry" />
         </mxCell>
         <mxCell id="pybEvOipajkLWjjjObd6-19" edge="1" parent="Rvj5aNpul0Tu0MhX6Elw-1" source="pybEvOipajkLWjjjObd6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;">
           <mxGeometry relative="1" as="geometry">
@@ -1441,11 +1432,29 @@
         <mxCell id="pybEvOipajkLWjjjObd6-18" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Medina" vertex="1">
           <mxGeometry height="60" width="120" x="-530" y="1550" as="geometry" />
         </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-0" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khurasan and eastern provinces" vertex="1">
+          <mxGeometry height="80" width="790" x="-200" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-1" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar, the ‘northerners’ faction" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-2" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tamim&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-3" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemen, the ‘southerners’, dominated by Azd&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-4" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qays" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-5" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="formally ‘northern’ Rabi‘a tribes" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="2080" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Muawiya II time" id="TKDEpAS9AF8JlwE3kq0j">
-    <mxGraphModel dx="3798" dy="68" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="-20" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="OGDvb9q4uKgjfWDfDsq9-0" />
         <mxCell id="OGDvb9q4uKgjfWDfDsq9-1" parent="OGDvb9q4uKgjfWDfDsq9-0" />
@@ -1466,6 +1475,24 @@
         </mxCell>
         <mxCell id="LXJm0bWjBOeQBbCDf_wA-3" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Many former supporters of the&lt;br&gt;Umayyads&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="-710" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="rnhgbRSFLAz4tZPQDlCC-0" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Basra" vertex="1">
+          <mxGeometry height="80" width="1350" x="-690" y="2540" as="geometry" />
+        </mxCell>
+        <mxCell id="rnhgbRSFLAz4tZPQDlCC-1" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ubayd Allah b. Ziyad" vertex="1">
+          <mxGeometry height="80" width="480" x="60" y="2710" as="geometry" />
+        </mxCell>
+        <mxCell id="rnhgbRSFLAz4tZPQDlCC-4" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Anti Ubayd Allah b. Ziyad" vertex="1">
+          <mxGeometry height="80" width="480" x="-590" y="2710" as="geometry" />
+        </mxCell>
+        <mxCell id="rnhgbRSFLAz4tZPQDlCC-5" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;The Mudar, led by Tamim" vertex="1">
+          <mxGeometry height="60" width="120" x="-500" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="rnhgbRSFLAz4tZPQDlCC-6" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azd" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="rnhgbRSFLAz4tZPQDlCC-7" parent="OGDvb9q4uKgjfWDfDsq9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rabi‘a" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="2880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
