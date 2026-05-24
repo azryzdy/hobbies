@@ -1520,7 +1520,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="2689" dy="2360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2772" dy="2465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1577,6 +1577,21 @@
         </mxCell>
         <mxCell id="J-A-eGO5ULYYMoG47W0J-9" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Syria multiple faction" vertex="1">
           <mxGeometry height="90" width="640" x="-590" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-10" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Khazir" vertex="1">
+          <mxGeometry height="80" width="1300" x="-840" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-11" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mukthar(Thaqafi/Thaqif) " vertex="1">
+          <mxGeometry height="80" width="480" x="-130" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-12" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab Ibrahim al-Ashtar(before al-Zubayr)" vertex="1">
+          <mxGeometry height="60" width="200" x="140" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-13" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab Ibrahim al-Ashtar(before al-Zubayr)" vertex="1">
+          <mxGeometry height="60" width="200" x="-820" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-14" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad" vertex="1">
+          <mxGeometry height="80" width="480" x="-840" y="1340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
