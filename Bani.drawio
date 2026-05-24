@@ -240,6 +240,9 @@
         <mxCell id="9glI2BGG5ZdMJ8Q3zfsv-2" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9glI2BGG5ZdMJ8Q3zfsv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-9" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNOf2l5cFYbsoK2m2F4r-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Thaqif" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="2800" as="geometry" />
         </mxCell>
@@ -270,9 +273,6 @@
         <mxCell id="FNOf2l5cFYbsoK2m2F4r-5" edge="1" parent="1" source="FNOf2l5cFYbsoK2m2F4r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNOf2l5cFYbsoK2m2F4r-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FNOf2l5cFYbsoK2m2F4r-7" edge="1" parent="1" source="FNOf2l5cFYbsoK2m2F4r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNOf2l5cFYbsoK2m2F4r-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FNOf2l5cFYbsoK2m2F4r-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Umayyad" vertex="1">
           <mxGeometry height="60" width="330" x="1260" y="250" as="geometry" />
         </mxCell>
@@ -284,6 +284,9 @@
         </mxCell>
         <mxCell id="FNOf2l5cFYbsoK2m2F4r-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abd al Malik ibn Marwan" vertex="1">
           <mxGeometry height="60" width="330" x="1760" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Hajjaj" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="3140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
