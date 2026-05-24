@@ -1533,7 +1533,7 @@
         <mxCell id="P4vkPQtW71PmLHCbEsd2-4" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mawali" vertex="1">
           <mxGeometry height="60" width="200" x="470" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="P4vkPQtW71PmLHCbEsd2-5" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders) " vertex="1">
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-5" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders)(pre Kufa revolt against Mukhtar)" vertex="1">
           <mxGeometry height="60" width="200" x="210" y="250" as="geometry" />
         </mxCell>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-6" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufa" vertex="1">
@@ -1545,13 +1545,13 @@
         <mxCell id="P4vkPQtW71PmLHCbEsd2-8" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn&lt;br&gt;al-Hanafiyya&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="480" x="260" y="-10" as="geometry" />
         </mxCell>
-        <mxCell id="P4vkPQtW71PmLHCbEsd2-9" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders) " vertex="1">
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-9" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders(after Kufa revolt against Mukhtar)" vertex="1">
           <mxGeometry height="60" width="200" x="910" y="240" as="geometry" />
         </mxCell>
         <mxCell id="J-A-eGO5ULYYMoG47W0J-0" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abd al Malik ibn Marwan" vertex="1">
           <mxGeometry height="80" width="480" x="-1020" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="J-A-eGO5ULYYMoG47W0J-1" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab Ibrahim al-Ashtar " vertex="1">
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-1" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab Ibrahim al-Ashtar(after&amp;nbsp;al-Zubayr)" vertex="1">
           <mxGeometry height="60" width="200" x="1175" y="240" as="geometry" />
         </mxCell>
         <mxCell id="J-A-eGO5ULYYMoG47W0J-2" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ubayd Allah b. Ziyad" vertex="1">
@@ -1559,6 +1559,9 @@
         </mxCell>
         <mxCell id="J-A-eGO5ULYYMoG47W0J-3" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad" vertex="1">
           <mxGeometry height="80" width="480" x="-1040" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-4" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab Ibrahim al-Ashtar(before al-Zubayr)" vertex="1">
+          <mxGeometry height="60" width="200" x="470" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
