@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="9">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1514,6 +1514,38 @@
           <mxGeometry height="80" width="480" x="260" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="0agxhb4yMvHDa7P8DO0Z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders) " vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
+    <mxGraphModel dx="1286" dy="2738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-2" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Zubayr " vertex="1">
+          <mxGeometry height="80" width="480" x="910" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-3" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mukthar(Thaqafi/Thaqif) " vertex="1">
+          <mxGeometry height="80" width="480" x="210" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-4" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mawali" vertex="1">
+          <mxGeometry height="60" width="200" x="470" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-5" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders) " vertex="1">
+          <mxGeometry height="60" width="200" x="210" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-6" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufa" vertex="1">
+          <mxGeometry height="80" width="160" x="230" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-7" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Basra" vertex="1">
+          <mxGeometry height="80" width="480" x="910" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-8" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn&lt;br&gt;al-Hanafiyya&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="480" x="260" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="P4vkPQtW71PmLHCbEsd2-9" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders) " vertex="1">
           <mxGeometry height="60" width="200" x="910" y="240" as="geometry" />
         </mxCell>
       </root>
