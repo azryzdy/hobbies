@@ -1381,7 +1381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Yazid Time" id="DShJICvb3u4RKBtulCQ_">
-    <mxGraphModel dx="2375" dy="-247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="-87" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Rvj5aNpul0Tu0MhX6Elw-0" />
         <mxCell id="Rvj5aNpul0Tu0MhX6Elw-1" parent="Rvj5aNpul0Tu0MhX6Elw-0" />
@@ -1449,6 +1449,36 @@
         </mxCell>
         <mxCell id="NO_q2EQZoRVcDBRYIll8-5" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="formally ‘northern’ Rabi‘a tribes" vertex="1">
           <mxGeometry height="60" width="120" x="440" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-6" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Syria" vertex="1">
+          <mxGeometry height="80" width="790" x="-420" y="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-7" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sufyanid links with Quda‘a&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-250" y="2520" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-8" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaysi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2630" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-14" edge="1" parent="Rvj5aNpul0Tu0MhX6Elw-1" source="NO_q2EQZoRVcDBRYIll8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="NO_q2EQZoRVcDBRYIll8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-10" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Zubayr" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="2520" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-11" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Basra" vertex="1">
+          <mxGeometry height="80" width="790" x="-420" y="2770" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-16" edge="1" parent="Rvj5aNpul0Tu0MhX6Elw-1" source="NO_q2EQZoRVcDBRYIll8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="NO_q2EQZoRVcDBRYIll8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-12" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ubayd Allah b. Ziyad" vertex="1">
+          <mxGeometry height="60" width="120" x="-305" y="2900" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-15" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azd&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-170" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-18" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tamim" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="2900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
