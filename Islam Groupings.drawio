@@ -1520,7 +1520,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="1286" dy="2738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1547,6 +1547,18 @@
         </mxCell>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-9" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders) " vertex="1">
           <mxGeometry height="60" width="200" x="910" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-0" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abd al Malik ibn Marwan" vertex="1">
+          <mxGeometry height="80" width="480" x="-1020" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-1" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab Ibrahim al-Ashtar " vertex="1">
+          <mxGeometry height="60" width="200" x="1175" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-2" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ubayd Allah b. Ziyad" vertex="1">
+          <mxGeometry height="70" width="240" x="-1050" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="J-A-eGO5ULYYMoG47W0J-3" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad" vertex="1">
+          <mxGeometry height="80" width="480" x="-1040" y="-100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
