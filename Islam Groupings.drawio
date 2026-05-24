@@ -1381,7 +1381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Yazid Time" id="DShJICvb3u4RKBtulCQ_">
-    <mxGraphModel dx="2501" dy="-87" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2616" dy="57" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Rvj5aNpul0Tu0MhX6Elw-0" />
         <mxCell id="Rvj5aNpul0Tu0MhX6Elw-1" parent="Rvj5aNpul0Tu0MhX6Elw-0" />
@@ -1479,6 +1479,12 @@
         </mxCell>
         <mxCell id="NO_q2EQZoRVcDBRYIll8-18" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tamim" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="2900" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-19" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Medina" vertex="1">
+          <mxGeometry height="80" width="790" x="-1440" y="2770" as="geometry" />
+        </mxCell>
+        <mxCell id="NO_q2EQZoRVcDBRYIll8-20" parent="Rvj5aNpul0Tu0MhX6Elw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Amr b. Sa‘id al-Ashdaq" vertex="1">
+          <mxGeometry height="60" width="120" x="-1030" y="2910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
