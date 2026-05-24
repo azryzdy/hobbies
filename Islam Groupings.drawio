@@ -1534,18 +1534,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-WALRGaKJlHaXyv9WeiI" name="Marwan I ibn Al Hakam time">
-    <mxGraphModel dx="2004" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2274" dy="2900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8tnDsv7pSAcF0111jh9j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mukthar(Thaqafi/Thaqif) " vertex="1">
-          <mxGeometry height="80" width="480" x="160" y="50" as="geometry" />
+        <mxCell id="8tnDsv7pSAcF0111jh9j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mukthar (Thaqafi/Thaqif) " vertex="1">
+          <mxGeometry height="80" width="480" x="140" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="FErwAVuEpVOkpo8LHVNq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mawali" vertex="1">
           <mxGeometry height="60" width="200" x="390" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="cIj-Ngo1GGyA0PojX_Mn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders) " vertex="1">
+        <mxCell id="cIj-Ngo1GGyA0PojX_Mn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf (elite class of tribal leaders) " vertex="1">
           <mxGeometry height="60" width="200" x="140" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF091pId0E7vLn0tx3k-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan I ibn Al Hakam (Umayyad)" vertex="1">
+          <mxGeometry height="80" width="480" x="-510" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF091pId0E7vLn0tx3k-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Hajjaj&amp;nbsp;(Thaqafi/Thaqif)" vertex="1">
+          <mxGeometry height="60" width="200" x="-360" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
