@@ -1557,7 +1557,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="13RDCBbJPULLhoNgj1qR" name="Abd al Malik ibn Marwan time">
-    <mxGraphModel dx="857" dy="2192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2273" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1577,10 +1577,10 @@
           <mxGeometry height="80" width="160" x="230" y="330" as="geometry" />
         </mxCell>
         <mxCell id="pz-2lW1q8xmcBkf0hOVJ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Basra" vertex="1">
-          <mxGeometry height="80" width="480" x="910" y="-10" as="geometry" />
+          <mxGeometry height="80" width="480" x="900" y="20" as="geometry" />
         </mxCell>
         <mxCell id="pz-2lW1q8xmcBkf0hOVJ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn&lt;br&gt;al-Hanafiyya&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="480" x="260" y="-10" as="geometry" />
+          <mxGeometry height="80" width="480" x="230" y="20" as="geometry" />
         </mxCell>
         <mxCell id="0agxhb4yMvHDa7P8DO0Z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan&amp;nbsp;ashraf(elite class of tribal leaders) " vertex="1">
           <mxGeometry height="60" width="200" x="910" y="240" as="geometry" />
@@ -1589,7 +1589,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="2772" dy="2465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3124" dy="2900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1661,6 +1661,21 @@
         </mxCell>
         <mxCell id="J-A-eGO5ULYYMoG47W0J-14" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad" vertex="1">
           <mxGeometry height="80" width="480" x="-840" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="5dNiXA148k0mFmZB-oa_-0" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Iraq" vertex="1">
+          <mxGeometry height="80" width="1270" x="-730" y="-1010" as="geometry" />
+        </mxCell>
+        <mxCell id="nyuUSiY9rATSJQms72Lk-3" edge="1" parent="P4vkPQtW71PmLHCbEsd2-1" source="5dNiXA148k0mFmZB-oa_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="nyuUSiY9rATSJQms72Lk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5dNiXA148k0mFmZB-oa_-1" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abd al-Malik ibn Marwan (Umayyad)" vertex="1">
+          <mxGeometry height="80" width="360" x="-630" y="-900" as="geometry" />
+        </mxCell>
+        <mxCell id="nyuUSiY9rATSJQms72Lk-2" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Hajjaj ibn Yusuf (Thaqafi) " vertex="1">
+          <mxGeometry height="80" width="360" x="-630" y="-760" as="geometry" />
+        </mxCell>
+        <mxCell id="nyuUSiY9rATSJQms72Lk-4" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abd Allah ibn al-Zubayr" vertex="1">
+          <mxGeometry height="80" width="360" x="30" y="-900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
