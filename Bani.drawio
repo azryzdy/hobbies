@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Page-1" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="754" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="536" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,7 +243,7 @@
         <mxCell id="FNOf2l5cFYbsoK2m2F4r-9" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNOf2l5cFYbsoK2m2F4r-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Thaqif" vertex="1">
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Thaqif/Thaqafi" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="2800" as="geometry" />
         </mxCell>
         <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Mughira b. Shu‘ba" vertex="1">
