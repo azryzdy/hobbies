@@ -1589,7 +1589,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="2865" dy="3578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="3148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1739,6 +1739,9 @@
         </mxCell>
         <mxCell id="XQ64P_0ecBkZUTke7a0q-5" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistani army" vertex="1">
           <mxGeometry height="80" width="360" x="440" y="2690" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ64P_0ecBkZUTke7a0q-6" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab" vertex="1">
+          <mxGeometry height="80" width="360" x="-450" y="-740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
