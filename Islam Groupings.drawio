@@ -1589,7 +1589,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="2454" dy="3153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2865" dy="3578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1721,6 +1721,24 @@
         </mxCell>
         <mxCell id="nyuUSiY9rATSJQms72Lk-25" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kharijites" vertex="1">
           <mxGeometry height="80" width="360" x="140" y="-870" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ64P_0ecBkZUTke7a0q-0" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistan army revolt" vertex="1">
+          <mxGeometry height="80" width="1270" x="-670" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ64P_0ecBkZUTke7a0q-1" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Ash‘ath " vertex="1">
+          <mxGeometry height="80" width="360" x="210" y="2540" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ64P_0ecBkZUTke7a0q-2" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Hajjaj ibn Yusuf (Thaqafi) " vertex="1">
+          <mxGeometry height="80" width="360" x="-600" y="2710" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ64P_0ecBkZUTke7a0q-3" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abd al-Malik&amp;nbsp; ibn Marwan" vertex="1">
+          <mxGeometry height="80" width="360" x="-510" y="2540" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ64P_0ecBkZUTke7a0q-4" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iraqi malcontents&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="360" x="30" y="2690" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ64P_0ecBkZUTke7a0q-5" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistani army" vertex="1">
+          <mxGeometry height="80" width="360" x="440" y="2690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
