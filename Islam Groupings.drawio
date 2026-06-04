@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="10">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1589,7 +1589,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="2456" dy="4215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1781,6 +1781,29 @@
         </mxCell>
         <mxCell id="zwi3Xmzw3yzrVdyYyx1l-13" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab (Azd) relatives" vertex="1">
           <mxGeometry height="80" width="360" x="480" y="3160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Walid I ibn Abd al Malik" id="NwKpdH1_GlGGL6mJ0UNU">
+    <mxGraphModel dx="306" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="YfW3fot1GJZGJGbYonj1-0" />
+        <mxCell id="YfW3fot1GJZGJGbYonj1-1" parent="YfW3fot1GJZGJGbYonj1-0" />
+        <mxCell id="YfW3fot1GJZGJGbYonj1-9" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Walid I ibn Abd al Malik succession crises" vertex="1">
+          <mxGeometry height="80" width="480" x="590" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="YfW3fot1GJZGJGbYonj1-13" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Hajjaj ibn Yusuf (Thaqafi) " vertex="1">
+          <mxGeometry height="60" width="200" x="620" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLduWD4zYR0JyAWXLAXr-0" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sulayman " vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLduWD4zYR0JyAWXLAXr-1" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Northerners" vertex="1">
+          <mxGeometry height="60" width="200" x="620" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XLduWD4zYR0JyAWXLAXr-2" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Southerners" vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
