@@ -1589,7 +1589,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="2768" dy="3463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3308" dy="4145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1693,19 +1693,22 @@
           <mxGeometry height="80" width="360" x="50" y="-1470" as="geometry" />
         </mxCell>
         <mxCell id="nyuUSiY9rATSJQms72Lk-12" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Basran revolt" vertex="1">
-          <mxGeometry height="80" width="1270" x="-640" y="-2050" as="geometry" />
+          <mxGeometry height="80" width="1860" x="-940" y="-2050" as="geometry" />
+        </mxCell>
+        <mxCell id="zwi3Xmzw3yzrVdyYyx1l-4" edge="1" parent="P4vkPQtW71PmLHCbEsd2-1" source="nyuUSiY9rATSJQms72Lk-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="nyuUSiY9rATSJQms72Lk-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nyuUSiY9rATSJQms72Lk-13" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azariqa " vertex="1">
           <mxGeometry height="80" width="360" x="-460" y="-1940" as="geometry" />
         </mxCell>
-        <mxCell id="nyuUSiY9rATSJQms72Lk-16" edge="1" parent="P4vkPQtW71PmLHCbEsd2-1" source="nyuUSiY9rATSJQms72Lk-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="nyuUSiY9rATSJQms72Lk-15">
+        <mxCell id="nyuUSiY9rATSJQms72Lk-14" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mus‘ab b. al-Zubayr" vertex="1">
+          <mxGeometry height="80" width="360" x="-460" y="-1810" as="geometry" />
+        </mxCell>
+        <mxCell id="zwi3Xmzw3yzrVdyYyx1l-6" edge="1" parent="P4vkPQtW71PmLHCbEsd2-1" source="nyuUSiY9rATSJQms72Lk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="zwi3Xmzw3yzrVdyYyx1l-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nyuUSiY9rATSJQms72Lk-14" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mus‘ab b. al-Zubayr" vertex="1">
-          <mxGeometry height="80" width="360" x="50" y="-1940" as="geometry" />
-        </mxCell>
         <mxCell id="nyuUSiY9rATSJQms72Lk-15" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhallab b. Abi Sufra " vertex="1">
-          <mxGeometry height="80" width="360" x="50" y="-1830" as="geometry" />
+          <mxGeometry height="80" width="360" x="50" y="-1940" as="geometry" />
         </mxCell>
         <mxCell id="nyuUSiY9rATSJQms72Lk-20" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle against the Kharijites in Iraq" vertex="1">
           <mxGeometry height="80" width="1270" x="-650" y="-1050" as="geometry" />
@@ -1754,6 +1757,15 @@
         </mxCell>
         <mxCell id="XQ64P_0ecBkZUTke7a0q-11" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Ash‘ath" vertex="1">
           <mxGeometry height="80" width="360" x="50" y="3020" as="geometry" />
+        </mxCell>
+        <mxCell id="zwi3Xmzw3yzrVdyYyx1l-0" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Muhallab (Azd)" vertex="1">
+          <mxGeometry height="80" width="360" x="-860" y="-740" as="geometry" />
+        </mxCell>
+        <mxCell id="zwi3Xmzw3yzrVdyYyx1l-5" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rabi‘a" vertex="1">
+          <mxGeometry height="80" width="360" x="480" y="-1860" as="geometry" />
+        </mxCell>
+        <mxCell id="zwi3Xmzw3yzrVdyYyx1l-7" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar" vertex="1">
+          <mxGeometry height="80" width="360" x="-840" y="-1900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
