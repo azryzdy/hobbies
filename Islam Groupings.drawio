@@ -1786,7 +1786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid I ibn Abd al Malik" id="NwKpdH1_GlGGL6mJ0UNU">
-    <mxGraphModel dx="306" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YfW3fot1GJZGJGbYonj1-0" />
         <mxCell id="YfW3fot1GJZGJGbYonj1-1" parent="YfW3fot1GJZGJGbYonj1-0" />
@@ -1804,6 +1804,12 @@
         </mxCell>
         <mxCell id="XLduWD4zYR0JyAWXLAXr-2" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Southerners" vertex="1">
           <mxGeometry height="60" width="200" x="890" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dFxbi7MtV-xqNdawyt3L-0" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="620" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dFxbi7MtV-xqNdawyt3L-1" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab" vertex="1">
+          <mxGeometry height="60" width="200" x="620" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
