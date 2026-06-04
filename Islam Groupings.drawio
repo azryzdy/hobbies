@@ -1794,16 +1794,16 @@
           <mxGeometry height="80" width="480" x="590" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="YfW3fot1GJZGJGbYonj1-13" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Hajjaj ibn Yusuf (Thaqafi) " vertex="1">
-          <mxGeometry height="60" width="200" x="620" y="30" as="geometry" />
+          <mxGeometry height="60" width="200" x="620" y="210" as="geometry" />
         </mxCell>
         <mxCell id="XLduWD4zYR0JyAWXLAXr-0" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sulayman " vertex="1">
-          <mxGeometry height="60" width="200" x="890" y="30" as="geometry" />
+          <mxGeometry height="60" width="200" x="890" y="210" as="geometry" />
         </mxCell>
         <mxCell id="XLduWD4zYR0JyAWXLAXr-1" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Northerners" vertex="1">
-          <mxGeometry height="60" width="200" x="620" y="130" as="geometry" />
+          <mxGeometry height="60" width="200" x="620" y="70" as="geometry" />
         </mxCell>
         <mxCell id="XLduWD4zYR0JyAWXLAXr-2" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Southerners" vertex="1">
-          <mxGeometry height="60" width="200" x="890" y="130" as="geometry" />
+          <mxGeometry height="60" width="200" x="890" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
