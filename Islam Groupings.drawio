@@ -1589,7 +1589,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="2772" dy="4597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2456" dy="4215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1755,7 +1755,7 @@
         <mxCell id="XQ64P_0ecBkZUTke7a0q-9" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Hajjaj ibn Yusuf (Thaqafi) " vertex="1">
           <mxGeometry height="80" width="360" x="-410" y="3020" as="geometry" />
         </mxCell>
-        <mxCell id="XQ64P_0ecBkZUTke7a0q-10" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab" vertex="1">
+        <mxCell id="XQ64P_0ecBkZUTke7a0q-10" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab (Azd)" vertex="1">
           <mxGeometry height="80" width="360" x="-400" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="XQ64P_0ecBkZUTke7a0q-11" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Ash‘ath" vertex="1">
@@ -1775,6 +1775,12 @@
         </mxCell>
         <mxCell id="zwi3Xmzw3yzrVdyYyx1l-8" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tribe of Azd" vertex="1">
           <mxGeometry height="80" width="360" x="50" y="-2190" as="geometry" />
+        </mxCell>
+        <mxCell id="zwi3Xmzw3yzrVdyYyx1l-12" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Northerners" vertex="1">
+          <mxGeometry height="80" width="360" x="60" y="3160" as="geometry" />
+        </mxCell>
+        <mxCell id="zwi3Xmzw3yzrVdyYyx1l-13" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab (Azd) relatives" vertex="1">
+          <mxGeometry height="80" width="360" x="480" y="3160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
