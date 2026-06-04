@@ -1589,7 +1589,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="2343" dy="2978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3843" dy="5893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1693,7 +1693,7 @@
           <mxGeometry height="80" width="360" x="50" y="-1470" as="geometry" />
         </mxCell>
         <mxCell id="nyuUSiY9rATSJQms72Lk-12" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Basran revolt" vertex="1">
-          <mxGeometry height="80" width="1860" x="-940" y="-2050" as="geometry" />
+          <mxGeometry height="80" width="1860" x="-980" y="-2330" as="geometry" />
         </mxCell>
         <mxCell id="zwi3Xmzw3yzrVdyYyx1l-4" edge="1" parent="P4vkPQtW71PmLHCbEsd2-1" source="nyuUSiY9rATSJQms72Lk-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="nyuUSiY9rATSJQms72Lk-14">
           <mxGeometry relative="1" as="geometry" />
