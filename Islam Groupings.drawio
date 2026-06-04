@@ -1589,7 +1589,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abd al Malik ibn Marwan time" id="a37o9MsQxZ9MVMlpXQ1v">
-    <mxGraphModel dx="3308" dy="4145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2343" dy="2978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P4vkPQtW71PmLHCbEsd2-0" />
         <mxCell id="P4vkPQtW71PmLHCbEsd2-1" parent="P4vkPQtW71PmLHCbEsd2-0" />
@@ -1766,6 +1766,12 @@
         </mxCell>
         <mxCell id="zwi3Xmzw3yzrVdyYyx1l-7" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar" vertex="1">
           <mxGeometry height="80" width="360" x="-840" y="-1900" as="geometry" />
+        </mxCell>
+        <mxCell id="zwi3Xmzw3yzrVdyYyx1l-9" edge="1" parent="P4vkPQtW71PmLHCbEsd2-1" source="zwi3Xmzw3yzrVdyYyx1l-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="nyuUSiY9rATSJQms72Lk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zwi3Xmzw3yzrVdyYyx1l-8" parent="P4vkPQtW71PmLHCbEsd2-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tribe of Azd" vertex="1">
+          <mxGeometry height="80" width="360" x="20" y="-2110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
