@@ -1863,6 +1863,9 @@
         <mxCell id="0TXe4jhfFt6TmV5FBrmH-1" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhallabids" vertex="1">
           <mxGeometry height="60" width="200" x="610" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-3" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Sumayda’ al-Kindi" vertex="1">
+          <mxGeometry height="60" width="200" x="610" y="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
