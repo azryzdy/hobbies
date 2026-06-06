@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="12">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1785,8 +1785,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Al Walid I ibn Abd al Malik" id="NwKpdH1_GlGGL6mJ0UNU">
-    <mxGraphModel dx="299" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Al Walid I ibn Abd al Malik time" id="NwKpdH1_GlGGL6mJ0UNU">
+    <mxGraphModel dx="804" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YfW3fot1GJZGJGbYonj1-0" />
         <mxCell id="YfW3fot1GJZGJGbYonj1-1" parent="YfW3fot1GJZGJGbYonj1-0" />
@@ -1819,6 +1819,49 @@
         </mxCell>
         <mxCell id="dFxbi7MtV-xqNdawyt3L-4" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar" vertex="1">
           <mxGeometry height="60" width="200" x="870" y="830" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V1pFKwAIQ9ORMZnRLqaD" name="Umar ibn Abd Al Aziz time">
+    <mxGraphModel dx="643" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Yazid II ibn Abd Al Malik time" id="-HUNdJq2HTHTuLyhOXrt">
+    <mxGraphModel dx="514" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="iod084XEVXaRetK3N35m-0" />
+        <mxCell id="iod084XEVXaRetK3N35m-1" parent="iod084XEVXaRetK3N35m-0" />
+        <mxCell id="iod084XEVXaRetK3N35m-2" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Basran revolt" vertex="1">
+          <mxGeometry height="80" width="480" x="600" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="iod084XEVXaRetK3N35m-5" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab (Azd)" vertex="1">
+          <mxGeometry height="60" width="200" x="610" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="iod084XEVXaRetK3N35m-6" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad governor" vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iod084XEVXaRetK3N35m-9" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Assimilation with the non-&lt;br&gt;Arabs and were opposed to an expansionist policy" vertex="1">
+          <mxGeometry height="80" width="480" x="600" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="iod084XEVXaRetK3N35m-10" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemen" vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="iod084XEVXaRetK3N35m-11" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar" vertex="1">
+          <mxGeometry height="60" width="200" x="870" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-2" edge="1" parent="iod084XEVXaRetK3N35m-1" source="0TXe4jhfFt6TmV5FBrmH-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="0TXe4jhfFt6TmV5FBrmH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-0" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azd" vertex="1">
+          <mxGeometry height="60" width="200" x="610" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-1" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhallabids" vertex="1">
+          <mxGeometry height="60" width="200" x="610" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
