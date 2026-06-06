@@ -1832,11 +1832,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Yazid II ibn Abd Al Malik time" id="-HUNdJq2HTHTuLyhOXrt">
-    <mxGraphModel dx="415" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="iod084XEVXaRetK3N35m-0" />
         <mxCell id="iod084XEVXaRetK3N35m-1" parent="iod084XEVXaRetK3N35m-0" />
-        <mxCell id="iod084XEVXaRetK3N35m-2" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Basran revolt" vertex="1">
+        <mxCell id="iod084XEVXaRetK3N35m-2" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab (Azd) uprising" vertex="1">
           <mxGeometry height="80" width="780" x="300" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="iod084XEVXaRetK3N35m-5" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab (Azd)" vertex="1">
@@ -1871,6 +1871,27 @@
         </mxCell>
         <mxCell id="0TXe4jhfFt6TmV5FBrmH-5" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Some Azdis" vertex="1">
           <mxGeometry height="60" width="200" x="900" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-6" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab (Azd) uprising" vertex="1">
+          <mxGeometry height="80" width="780" x="450" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-7" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azd" vertex="1">
+          <mxGeometry height="60" width="200" x="600" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-8" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. al-Muhallab (Azd)" vertex="1">
+          <mxGeometry height="60" width="200" x="600" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-9" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhallabids" vertex="1">
+          <mxGeometry height="60" width="200" x="600" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-10" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudaris" vertex="1">
+          <mxGeometry height="60" width="200" x="350" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-11" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad army of Mesopotamia " vertex="1">
+          <mxGeometry height="60" width="200" x="990" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-12" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Maslama b. ‘Abd al-Malik" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="1300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
