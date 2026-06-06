@@ -1893,6 +1893,9 @@
         <mxCell id="0TXe4jhfFt6TmV5FBrmH-12" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Maslama b. ‘Abd al-Malik" vertex="1">
           <mxGeometry height="60" width="200" x="900" y="1300" as="geometry" />
         </mxCell>
+        <mxCell id="0TXe4jhfFt6TmV5FBrmH-13" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Some Azdis" vertex="1">
+          <mxGeometry height="60" width="200" x="1140" y="1300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
