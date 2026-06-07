@@ -1939,7 +1939,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Hisham ibn Abd Al Malik time" id="mR_4ICsZg4qUIlucsPqy">
-    <mxGraphModel dx="559" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="612" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zQLJ9U1SGfyflgutGKrf-0" />
         <mxCell id="zQLJ9U1SGfyflgutGKrf-1" parent="zQLJ9U1SGfyflgutGKrf-0" />
@@ -1999,6 +1999,18 @@
         </mxCell>
         <mxCell id="OfTqahiD0N_wh12v2x4V-15" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar" vertex="1">
           <mxGeometry height="60" width="200" x="910" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-0" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle on the River Sebu " vertex="1">
+          <mxGeometry height="80" width="480" x="630" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-1" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hisham ibn Abd Malik " vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-2" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kharijite " vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-3" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Berbers" vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="1920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
