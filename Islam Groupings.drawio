@@ -1992,10 +1992,13 @@
           <mxGeometry height="60" width="200" x="590" y="1310" as="geometry" />
         </mxCell>
         <mxCell id="OfTqahiD0N_wh12v2x4V-13" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hisham ibn Abd al-Malik" vertex="1">
-          <mxGeometry height="60" width="200" x="900" y="1310" as="geometry" />
+          <mxGeometry height="60" width="200" x="910" y="1420" as="geometry" />
         </mxCell>
         <mxCell id="OfTqahiD0N_wh12v2x4V-14" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yusuf b. ‘Umar (Thaqafi) " vertex="1">
-          <mxGeometry height="60" width="200" x="900" y="1410" as="geometry" />
+          <mxGeometry height="60" width="200" x="910" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-15" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="1320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
