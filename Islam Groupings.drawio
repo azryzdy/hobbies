@@ -1786,7 +1786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid I ibn Abd al Malik time" id="NwKpdH1_GlGGL6mJ0UNU">
-    <mxGraphModel dx="1837" dy="3291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="495" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YfW3fot1GJZGJGbYonj1-0" />
         <mxCell id="YfW3fot1GJZGJGbYonj1-1" parent="YfW3fot1GJZGJGbYonj1-0" />
@@ -1819,6 +1819,24 @@
         </mxCell>
         <mxCell id="dFxbi7MtV-xqNdawyt3L-4" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar" vertex="1">
           <mxGeometry height="60" width="200" x="870" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="5QAQvw7AAZN89_maAOGq-1" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khalid b. ‘Abd Allah al-Qasri " vertex="1">
+          <mxGeometry height="60" width="200" x="610" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="5QAQvw7AAZN89_maAOGq-5" edge="1" parent="YfW3fot1GJZGJGbYonj1-1" source="5QAQvw7AAZN89_maAOGq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5QAQvw7AAZN89_maAOGq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QAQvw7AAZN89_maAOGq-2" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bajila" vertex="1">
+          <mxGeometry height="60" width="200" x="610" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="5QAQvw7AAZN89_maAOGq-3" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="880" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="5QAQvw7AAZN89_maAOGq-4" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="pro-Yemeni" vertex="1">
+          <mxGeometry height="60" width="200" x="610" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="5QAQvw7AAZN89_maAOGq-6" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umar b. Hubayra" vertex="1">
+          <mxGeometry height="60" width="200" x="880" y="1270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
