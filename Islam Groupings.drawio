@@ -1939,7 +1939,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Hisham ibn Abd Al Malik time" id="mR_4ICsZg4qUIlucsPqy">
-    <mxGraphModel dx="612" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zQLJ9U1SGfyflgutGKrf-0" />
         <mxCell id="zQLJ9U1SGfyflgutGKrf-1" parent="zQLJ9U1SGfyflgutGKrf-0" />
@@ -2011,6 +2011,24 @@
         </mxCell>
         <mxCell id="kqBellE_bxJXw22YZXl0-3" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Berbers" vertex="1">
           <mxGeometry height="60" width="200" x="890" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-4" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Day of Thirst" vertex="1">
+          <mxGeometry height="80" width="480" x="660" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-5" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khalid al-Qasri&amp;nbsp;(Bajila) " vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-6" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad army" vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-7" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemenis" vertex="1">
+          <mxGeometry height="60" width="200" x="930" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-8" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turgesh&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="kqBellE_bxJXw22YZXl0-9" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Soghdians&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="2390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
