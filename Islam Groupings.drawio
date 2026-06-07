@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="13">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1934,6 +1934,53 @@
         </mxCell>
         <mxCell id="0TXe4jhfFt6TmV5FBrmH-16" parent="iod084XEVXaRetK3N35m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemeni" vertex="1">
           <mxGeometry height="60" width="200" x="1140" y="1690" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Hisham ibn Abd Al Malik time" id="mR_4ICsZg4qUIlucsPqy">
+    <mxGraphModel dx="559" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="zQLJ9U1SGfyflgutGKrf-0" />
+        <mxCell id="zQLJ9U1SGfyflgutGKrf-1" parent="zQLJ9U1SGfyflgutGKrf-0" />
+        <mxCell id="zQLJ9U1SGfyflgutGKrf-6" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Assimilation with the non-&lt;br&gt;Arabs and were opposed to an expansionist policy" vertex="1">
+          <mxGeometry height="80" width="480" x="600" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zQLJ9U1SGfyflgutGKrf-7" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemen" vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zQLJ9U1SGfyflgutGKrf-8" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudar" vertex="1">
+          <mxGeometry height="60" width="200" x="870" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-0" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kufan crises" vertex="1">
+          <mxGeometry height="80" width="480" x="620" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-1" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khalid b. ‘Abd Allah al-Qasri (Bajila) " vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-8" edge="1" parent="zQLJ9U1SGfyflgutGKrf-1" source="OfTqahiD0N_wh12v2x4V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OfTqahiD0N_wh12v2x4V-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-9" edge="1" parent="zQLJ9U1SGfyflgutGKrf-1" source="OfTqahiD0N_wh12v2x4V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OfTqahiD0N_wh12v2x4V-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-2" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wusafa (Shi‘ite&lt;br&gt;extremists)" vertex="1">
+          <mxGeometry height="60" width="200" x="970" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-3" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="North of Iraq" vertex="1">
+          <mxGeometry height="80" width="480" x="620" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-4" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khalid b. ‘Abd Allah al-Qasri (Bajila) " vertex="1">
+          <mxGeometry height="60" width="200" x="610" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-5" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kharijite&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-6" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;al-Mughira b. Sa‘id" vertex="1">
+          <mxGeometry height="60" width="200" x="850" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="OfTqahiD0N_wh12v2x4V-7" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bayan b.&lt;br&gt;Sam‘an" vertex="1">
+          <mxGeometry height="60" width="200" x="1130" y="1050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
