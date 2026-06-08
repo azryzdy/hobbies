@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Page-1" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="612" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,6 +311,33 @@
         </mxCell>
         <mxCell id="6-pCq8Z07bTfFQXvOr0S-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Yazid b. al-Muhallab" vertex="1">
           <mxGeometry height="60" width="330" x="1810" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-6" edge="1" parent="1" source="LnQhSuuf8JhPpbdUEH_J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LnQhSuuf8JhPpbdUEH_J-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Mudar" vertex="1">
+          <mxGeometry height="60" width="330" x="1430" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-8" edge="1" parent="1" source="LnQhSuuf8JhPpbdUEH_J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LnQhSuuf8JhPpbdUEH_J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Yemen" vertex="1">
+          <mxGeometry height="60" width="330" x="1430" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-10" edge="1" parent="1" source="LnQhSuuf8JhPpbdUEH_J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LnQhSuuf8JhPpbdUEH_J-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Tamimi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1430" y="2260" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Harith b. Surayj" vertex="1">
+          <mxGeometry height="60" width="330" x="1860" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Harith b. Surayj" vertex="1">
+          <mxGeometry height="60" width="330" x="1860" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Harith b. Surayj" vertex="1">
+          <mxGeometry height="60" width="330" x="1860" y="2260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
