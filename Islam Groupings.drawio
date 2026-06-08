@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="14">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2029,6 +2029,29 @@
         </mxCell>
         <mxCell id="kqBellE_bxJXw22YZXl0-9" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Soghdians&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="1150" y="2390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Hisham ibn Abd Al Malik time" id="vtMfgIK2VAnpYT__ztTI">
+    <mxGraphModel dx="495" dy="-470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="D9QrxZHqqWC1Pq4LsAp--0" />
+        <mxCell id="D9QrxZHqqWC1Pq4LsAp--1" parent="D9QrxZHqqWC1Pq4LsAp--0" />
+        <mxCell id="D9QrxZHqqWC1Pq4LsAp--25" parent="D9QrxZHqqWC1Pq4LsAp--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Invasion of Turgesh" vertex="1">
+          <mxGeometry height="80" width="480" x="660" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="D9QrxZHqqWC1Pq4LsAp--26" parent="D9QrxZHqqWC1Pq4LsAp--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ashras b. ‘Abd Allah al-Sulami " vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="D9QrxZHqqWC1Pq4LsAp--27" parent="D9QrxZHqqWC1Pq4LsAp--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Junayd b. ‘Abd al-Rahman al-Murri" vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="D9QrxZHqqWC1Pq4LsAp--28" parent="D9QrxZHqqWC1Pq4LsAp--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turgesh" vertex="1">
+          <mxGeometry height="60" width="200" x="930" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="D9QrxZHqqWC1Pq4LsAp--30" parent="D9QrxZHqqWC1Pq4LsAp--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Soghdians&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="930" y="1350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
