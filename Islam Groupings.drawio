@@ -1939,7 +1939,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Hisham ibn Abd Al Malik time" id="mR_4ICsZg4qUIlucsPqy">
-    <mxGraphModel dx="857" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zQLJ9U1SGfyflgutGKrf-0" />
         <mxCell id="zQLJ9U1SGfyflgutGKrf-1" parent="zQLJ9U1SGfyflgutGKrf-0" />
@@ -2036,7 +2036,7 @@
         <mxCell id="mTPO9P9UP0YKxnWjWA6I-1" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ashras b. ‘Abd Allah al-Sulami " vertex="1">
           <mxGeometry height="60" width="200" x="590" y="2800" as="geometry" />
         </mxCell>
-        <mxCell id="mTPO9P9UP0YKxnWjWA6I-2" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Junayd b. ‘Abd al-Rahman al-Murri" vertex="1">
+        <mxCell id="mTPO9P9UP0YKxnWjWA6I-2" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Junayd b. ‘Abd al-Rahman al-Murri (Azd)" vertex="1">
           <mxGeometry height="60" width="200" x="590" y="2890" as="geometry" />
         </mxCell>
         <mxCell id="mTPO9P9UP0YKxnWjWA6I-3" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turgesh" vertex="1">
@@ -2044,6 +2044,24 @@
         </mxCell>
         <mxCell id="mTPO9P9UP0YKxnWjWA6I-4" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Soghdians&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="890" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="H4mCeU28CIsWSEUK-Wj8-0" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Skirmish at Kharistan " vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="H4mCeU28CIsWSEUK-Wj8-5" edge="1" parent="zQLJ9U1SGfyflgutGKrf-1" source="H4mCeU28CIsWSEUK-Wj8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H4mCeU28CIsWSEUK-Wj8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4mCeU28CIsWSEUK-Wj8-1" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turgesh" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="H4mCeU28CIsWSEUK-Wj8-2" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Harith b. Surayj (Tamimi &amp;amp; Yemen)" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="H4mCeU28CIsWSEUK-Wj8-3" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Su-Lu" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3410" as="geometry" />
+        </mxCell>
+        <mxCell id="H4mCeU28CIsWSEUK-Wj8-4" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Asad al-Qasri " vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="3300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
