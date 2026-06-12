@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="14">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2065,6 +2065,29 @@
         </mxCell>
         <mxCell id="H4mCeU28CIsWSEUK-Wj8-6" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Junayd b. ‘Abd al-Rahman al-Murri (Azd)" vertex="1">
           <mxGeometry height="60" width="200" x="570" y="3410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Walid II ibn Yazid time" id="TvVPspnlWwncLmrOGaBi">
+    <mxGraphModel dx="476" dy="-1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="xaPToCXrgfE3Y12BAju7-0" />
+        <mxCell id="xaPToCXrgfE3Y12BAju7-1" parent="xaPToCXrgfE3Y12BAju7-0" />
+        <mxCell id="xaPToCXrgfE3Y12BAju7-36" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Plot to overthrow Al-Walid II ibn Yazid " vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="xaPToCXrgfE3Y12BAju7-38" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Descendants of al-Walid I, the eldest son of ‘Abd al-Malik" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="xaPToCXrgfE3Y12BAju7-39" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Harith b. Surayj (Tamimi &amp;amp; Yemen)" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="xaPToCXrgfE3Y12BAju7-40" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qadariyy/Ghaylaniyya" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3410" as="geometry" />
+        </mxCell>
+        <mxCell id="xaPToCXrgfE3Y12BAju7-41" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Walid II" vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="3300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
