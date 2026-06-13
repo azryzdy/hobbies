@@ -2070,7 +2070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid II ibn Yazid time" id="TvVPspnlWwncLmrOGaBi">
-    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="-1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xaPToCXrgfE3Y12BAju7-0" />
         <mxCell id="xaPToCXrgfE3Y12BAju7-1" parent="xaPToCXrgfE3Y12BAju7-0" />
@@ -2086,8 +2086,24 @@
         <mxCell id="xaPToCXrgfE3Y12BAju7-40" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qadariyy/Ghaylaniyya" vertex="1">
           <mxGeometry height="60" width="200" x="900" y="3610" as="geometry" />
         </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-9" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="xaPToCXrgfE3Y12BAju7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="3430" />
+              <mxPoint x="410" y="3430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-10" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="xaPToCXrgfE3Y12BAju7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="3430" />
+              <mxPoint x="630" y="3430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xaPToCXrgfE3Y12BAju7-41" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Walid II" vertex="1">
-          <mxGeometry height="60" width="200" x="570" y="3300" as="geometry" />
+          <mxGeometry height="60" width="200" x="380" y="3300" as="geometry" />
         </mxCell>
         <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-4" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="wGTfzsyfbKDlRv6KovtH-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-1">
           <mxGeometry relative="1" as="geometry" />
@@ -2096,7 +2112,7 @@
           <mxGeometry height="60" width="200" x="1190" y="3510" as="geometry" />
         </mxCell>
         <mxCell id="wGTfzsyfbKDlRv6KovtH-1" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Kalbis&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="520" y="3410" as="geometry" />
+          <mxGeometry height="60" width="200" x="100" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="wGTfzsyfbKDlRv6KovtH-3" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some ‘northerners’&lt;br&gt;(Qaysis and Mudaris)&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="1210" y="3720" as="geometry" />
@@ -2109,6 +2125,24 @@
         </mxCell>
         <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-2" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid III" vertex="1">
           <mxGeometry height="60" width="200" x="1020" y="3290" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-12" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="Yj1FQFDDHsQgi7LwW2Vk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-5" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Palmyra&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="310" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-11" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="Yj1FQFDDHsQgi7LwW2Vk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-6" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hims" vertex="1">
+          <mxGeometry height="60" width="200" x="530" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-7" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Kalbis&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="220" y="3660" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-8" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Qaysis&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="580" y="3680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
