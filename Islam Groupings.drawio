@@ -2070,7 +2070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid II ibn Yazid time" id="TvVPspnlWwncLmrOGaBi">
-    <mxGraphModel dx="643" dy="-1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="-1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xaPToCXrgfE3Y12BAju7-0" />
         <mxCell id="xaPToCXrgfE3Y12BAju7-1" parent="xaPToCXrgfE3Y12BAju7-0" />
@@ -2143,6 +2143,55 @@
         </mxCell>
         <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-8" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Qaysis&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="580" y="3680" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-13" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Siege of al-Bakhra fortified palace " vertex="1">
+          <mxGeometry height="80" width="520" x="630" y="3900" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-42" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="Yj1FQFDDHsQgi7LwW2Vk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-14" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid III" vertex="1">
+          <mxGeometry height="60" width="200" x="1030" y="4030" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-32" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="Yj1FQFDDHsQgi7LwW2Vk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="4170" />
+              <mxPoint x="420" y="4170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-33" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="Yj1FQFDDHsQgi7LwW2Vk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="4170" />
+              <mxPoint x="640" y="4170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-34" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Walid II" vertex="1">
+          <mxGeometry height="60" width="200" x="390" y="4040" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-35" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="Yj1FQFDDHsQgi7LwW2Vk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-36" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Palmyra&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="320" y="4250" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-37" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="Yj1FQFDDHsQgi7LwW2Vk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-38" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hims" vertex="1">
+          <mxGeometry height="60" width="200" x="540" y="4250" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-39" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Kalbis&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="230" y="4400" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-40" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Qaysis&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="590" y="4390" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-41" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="‘Abd al-‘Aziz b. al-Hajjaj b. ‘Abd al-Malik" vertex="1">
+          <mxGeometry height="60" width="200" x="1160" y="4170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
