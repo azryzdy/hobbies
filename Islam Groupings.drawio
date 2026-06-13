@@ -2078,31 +2078,34 @@
           <mxGeometry height="80" width="520" x="590" y="3110" as="geometry" />
         </mxCell>
         <mxCell id="xaPToCXrgfE3Y12BAju7-38" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Descendants of al-Walid I, the eldest son of ‘Abd al-Malik" vertex="1">
-          <mxGeometry height="60" width="200" x="900" y="3300" as="geometry" />
+          <mxGeometry height="60" width="200" x="900" y="3500" as="geometry" />
         </mxCell>
         <mxCell id="xaPToCXrgfE3Y12BAju7-39" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Harith b. Surayj (Tamimi &amp;amp; Yemen)" vertex="1">
-          <mxGeometry height="60" width="200" x="900" y="3510" as="geometry" />
+          <mxGeometry height="60" width="200" x="900" y="3710" as="geometry" />
         </mxCell>
         <mxCell id="xaPToCXrgfE3Y12BAju7-40" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qadariyy/Ghaylaniyya" vertex="1">
-          <mxGeometry height="60" width="200" x="900" y="3410" as="geometry" />
+          <mxGeometry height="60" width="200" x="900" y="3610" as="geometry" />
         </mxCell>
         <mxCell id="xaPToCXrgfE3Y12BAju7-41" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Walid II" vertex="1">
           <mxGeometry height="60" width="200" x="570" y="3300" as="geometry" />
         </mxCell>
         <mxCell id="wGTfzsyfbKDlRv6KovtH-0" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="‘southern’ (Kalbi and Yemeni)" vertex="1">
-          <mxGeometry height="60" width="200" x="1190" y="3310" as="geometry" />
+          <mxGeometry height="60" width="200" x="1190" y="3510" as="geometry" />
         </mxCell>
         <mxCell id="wGTfzsyfbKDlRv6KovtH-1" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Kalbis&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="520" y="3410" as="geometry" />
         </mxCell>
         <mxCell id="wGTfzsyfbKDlRv6KovtH-3" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some ‘northerners’&lt;br&gt;(Qaysis and Mudaris)&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="1190" y="3420" as="geometry" />
+          <mxGeometry height="60" width="200" x="1190" y="3620" as="geometry" />
         </mxCell>
         <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-0" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khalid b. ‘Abd Allah al-Qasri (Bajila) family" vertex="1">
-          <mxGeometry height="60" width="200" x="1190" y="3510" as="geometry" />
+          <mxGeometry height="60" width="200" x="1190" y="3710" as="geometry" />
         </mxCell>
         <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-1" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mansur b. Jumhur al-Kalbi (Kalb)" vertex="1">
-          <mxGeometry height="60" width="200" x="1200" y="3620" as="geometry" />
+          <mxGeometry height="60" width="200" x="1200" y="3820" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-2" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid III" vertex="1">
+          <mxGeometry height="60" width="200" x="1020" y="3290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
