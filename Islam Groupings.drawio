@@ -2089,6 +2089,9 @@
         <mxCell id="xaPToCXrgfE3Y12BAju7-41" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Walid II" vertex="1">
           <mxGeometry height="60" width="200" x="570" y="3300" as="geometry" />
         </mxCell>
+        <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-4" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="wGTfzsyfbKDlRv6KovtH-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Yj1FQFDDHsQgi7LwW2Vk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wGTfzsyfbKDlRv6KovtH-0" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="‘southern’ (Kalbi and Yemeni)" vertex="1">
           <mxGeometry height="60" width="200" x="1190" y="3510" as="geometry" />
         </mxCell>
