@@ -1853,7 +1853,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Yazid II ibn Abd Al Malik time" id="-HUNdJq2HTHTuLyhOXrt">
-    <mxGraphModel dx="367" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="iod084XEVXaRetK3N35m-0" />
         <mxCell id="iod084XEVXaRetK3N35m-1" parent="iod084XEVXaRetK3N35m-0" />
@@ -2070,7 +2070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid II ibn Yazid time" id="TvVPspnlWwncLmrOGaBi">
-    <mxGraphModel dx="476" dy="-1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="-1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xaPToCXrgfE3Y12BAju7-0" />
         <mxCell id="xaPToCXrgfE3Y12BAju7-1" parent="xaPToCXrgfE3Y12BAju7-0" />
@@ -2088,6 +2088,15 @@
         </mxCell>
         <mxCell id="xaPToCXrgfE3Y12BAju7-41" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Walid II" vertex="1">
           <mxGeometry height="60" width="200" x="570" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="wGTfzsyfbKDlRv6KovtH-0" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="‘southern’ (Kalbi and Yemeni)" vertex="1">
+          <mxGeometry height="60" width="200" x="1190" y="3310" as="geometry" />
+        </mxCell>
+        <mxCell id="wGTfzsyfbKDlRv6KovtH-1" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Kalbis&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="520" y="3410" as="geometry" />
+        </mxCell>
+        <mxCell id="wGTfzsyfbKDlRv6KovtH-3" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some ‘northerners’&lt;br&gt;(Qaysis and Mudaris)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1190" y="3420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
