@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="15">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2216,6 +2216,108 @@
         </mxCell>
         <mxCell id="Yj1FQFDDHsQgi7LwW2Vk-50" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mansur b. Jumhur al-Kalbi (Kalb)" vertex="1">
           <mxGeometry height="60" width="200" x="1190" y="4380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Yazid III ibn Al Walid time" id="--uUpEthlg9r-0oPsIxR">
+    <mxGraphModel dx="1068" dy="-937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="DLraL7orOIntF-dMjxWX-0" />
+        <mxCell id="DLraL7orOIntF-dMjxWX-1" parent="DLraL7orOIntF-dMjxWX-0" />
+        <mxCell id="DLraL7orOIntF-dMjxWX-2" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Plot to overthrow Al-Walid II ibn Yazid " vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-3" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Descendants of al-Walid I, the eldest son of ‘Abd al-Malik" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3500" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-4" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Harith b. Surayj (Tamimi &amp;amp; Yemen)" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3710" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-5" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qadariyy/Ghaylaniyya" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3610" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-6" edge="1" parent="DLraL7orOIntF-dMjxWX-1" source="DLraL7orOIntF-dMjxWX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DLraL7orOIntF-dMjxWX-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="3430" />
+              <mxPoint x="410" y="3430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-7" edge="1" parent="DLraL7orOIntF-dMjxWX-1" source="DLraL7orOIntF-dMjxWX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DLraL7orOIntF-dMjxWX-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="3430" />
+              <mxPoint x="630" y="3430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-8" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Walid II" vertex="1">
+          <mxGeometry height="60" width="200" x="380" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-9" edge="1" parent="DLraL7orOIntF-dMjxWX-1" source="DLraL7orOIntF-dMjxWX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DLraL7orOIntF-dMjxWX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-10" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="‘southern’ (Kalbi and Yemeni)" vertex="1">
+          <mxGeometry height="60" width="200" x="1190" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-11" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Kalbis&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="100" y="3360" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-12" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some ‘northerners’&lt;br&gt;(Qaysis and Mudaris)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1210" y="3720" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-13" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khalid b. ‘Abd Allah al-Qasri (Bajila) family" vertex="1">
+          <mxGeometry height="60" width="200" x="1430" y="3720" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-14" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mansur b. Jumhur al-Kalbi (Kalb)" vertex="1">
+          <mxGeometry height="60" width="200" x="1190" y="3620" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-15" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid III" vertex="1">
+          <mxGeometry height="60" width="200" x="1020" y="3290" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-16" edge="1" parent="DLraL7orOIntF-dMjxWX-1" source="DLraL7orOIntF-dMjxWX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DLraL7orOIntF-dMjxWX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-17" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Palmyra&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="310" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-18" edge="1" parent="DLraL7orOIntF-dMjxWX-1" source="DLraL7orOIntF-dMjxWX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DLraL7orOIntF-dMjxWX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-19" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hims" vertex="1">
+          <mxGeometry height="60" width="200" x="530" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-20" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Kalbis&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="220" y="3660" as="geometry" />
+        </mxCell>
+        <mxCell id="DLraL7orOIntF-dMjxWX-21" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="some Qaysis&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="580" y="3680" as="geometry" />
+        </mxCell>
+        <mxCell id="CFqNOkXd3QABw2QVyeu7-0" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Attempt rebellion in Iraq" vertex="1">
+          <mxGeometry height="80" width="520" x="630" y="4000" as="geometry" />
+        </mxCell>
+        <mxCell id="CFqNOkXd3QABw2QVyeu7-1" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid III" vertex="1">
+          <mxGeometry height="60" width="200" x="580" y="4130" as="geometry" />
+        </mxCell>
+        <mxCell id="CFqNOkXd3QABw2QVyeu7-2" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yusuf b. ‘Umar al-Thaqafi" vertex="1">
+          <mxGeometry height="60" width="200" x="930" y="4250" as="geometry" />
+        </mxCell>
+        <mxCell id="CFqNOkXd3QABw2QVyeu7-3" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mansur b. Jumhur" vertex="1">
+          <mxGeometry height="60" width="200" x="450" y="4330" as="geometry" />
+        </mxCell>
+        <mxCell id="CFqNOkXd3QABw2QVyeu7-5" edge="1" parent="DLraL7orOIntF-dMjxWX-1" source="CFqNOkXd3QABw2QVyeu7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CFqNOkXd3QABw2QVyeu7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CFqNOkXd3QABw2QVyeu7-4" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kalbi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="450" y="4220" as="geometry" />
+        </mxCell>
+        <mxCell id="CFqNOkXd3QABw2QVyeu7-7" edge="1" parent="DLraL7orOIntF-dMjxWX-1" source="CFqNOkXd3QABw2QVyeu7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CFqNOkXd3QABw2QVyeu7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CFqNOkXd3QABw2QVyeu7-6" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Thaqafi" vertex="1">
+          <mxGeometry height="60" width="200" x="930" y="4140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
