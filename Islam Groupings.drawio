@@ -2070,7 +2070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid II ibn Yazid time" id="TvVPspnlWwncLmrOGaBi">
-    <mxGraphModel dx="427" dy="-1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="-1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xaPToCXrgfE3Y12BAju7-0" />
         <mxCell id="xaPToCXrgfE3Y12BAju7-1" parent="xaPToCXrgfE3Y12BAju7-0" />
@@ -2229,8 +2229,8 @@
         <mxCell id="Df05rAJylKjNlo6Hcw8G-2" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaysi&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="610" y="5110" as="geometry" />
         </mxCell>
-        <mxCell id="Df05rAJylKjNlo6Hcw8G-3" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="mutiny of Kalbis&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="950" y="4960" as="geometry" />
+        <mxCell id="Df05rAJylKjNlo6Hcw8G-3" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mutiny of Kalbis&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="930" y="4960" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
