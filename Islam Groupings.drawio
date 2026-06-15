@@ -2338,7 +2338,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Ibrahim ibn Al Walid time" id="WfvcFHsbw3bYD15NAUE9">
-    <mxGraphModel dx="855" dy="-1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="285" dy="-1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Kg4YP6xCsG8eNrbmSPsj-0" />
         <mxCell id="Kg4YP6xCsG8eNrbmSPsj-1" parent="Kg4YP6xCsG8eNrbmSPsj-0" />
@@ -2351,11 +2351,20 @@
         <mxCell id="YFnqYMVb654zAApmOiOf-0" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II b. Muhammad" vertex="1">
           <mxGeometry height="60" width="200" x="1000" y="3350" as="geometry" />
         </mxCell>
+        <mxCell id="YFnqYMVb654zAApmOiOf-5" edge="1" parent="Kg4YP6xCsG8eNrbmSPsj-1" source="YFnqYMVb654zAApmOiOf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YFnqYMVb654zAApmOiOf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YFnqYMVb654zAApmOiOf-2" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaysis of Qinnasrin " vertex="1">
           <mxGeometry height="60" width="200" x="900" y="3480" as="geometry" />
         </mxCell>
         <mxCell id="YFnqYMVb654zAApmOiOf-3" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaysis of Hims" vertex="1">
           <mxGeometry height="60" width="200" x="1140" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnqYMVb654zAApmOiOf-4" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Leader of&amp;nbsp;Qinnasrin contingent was Yazid" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnqYMVb654zAApmOiOf-6" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umar b.&lt;br&gt;Hubayra (Qaysi)" vertex="1">
+          <mxGeometry height="60" width="200" x="1160" y="3600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
