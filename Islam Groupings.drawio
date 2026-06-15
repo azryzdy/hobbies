@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="16">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2333,6 +2333,29 @@
         </mxCell>
         <mxCell id="CFqNOkXd3QABw2QVyeu7-6" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Thaqafi" vertex="1">
           <mxGeometry height="60" width="200" x="930" y="4140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ibrahim ibn Al Walid time" id="WfvcFHsbw3bYD15NAUE9">
+    <mxGraphModel dx="855" dy="-1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Kg4YP6xCsG8eNrbmSPsj-0" />
+        <mxCell id="Kg4YP6xCsG8eNrbmSPsj-1" parent="Kg4YP6xCsG8eNrbmSPsj-0" />
+        <mxCell id="Kg4YP6xCsG8eNrbmSPsj-2" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rebellion against Ibrahim ibn Al Walid" vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg4YP6xCsG8eNrbmSPsj-15" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibrahim ibn Al Walid" vertex="1">
+          <mxGeometry height="60" width="200" x="580" y="3350" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnqYMVb654zAApmOiOf-0" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II b. Muhammad" vertex="1">
+          <mxGeometry height="60" width="200" x="1000" y="3350" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnqYMVb654zAApmOiOf-2" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaysis of Qinnasrin " vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnqYMVb654zAApmOiOf-3" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaysis of Hims" vertex="1">
+          <mxGeometry height="60" width="200" x="1140" y="3480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
