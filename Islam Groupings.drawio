@@ -1939,7 +1939,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Hisham ibn Abd Al Malik time" id="mR_4ICsZg4qUIlucsPqy">
-    <mxGraphModel dx="919" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3215" dy="4095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zQLJ9U1SGfyflgutGKrf-0" />
         <mxCell id="zQLJ9U1SGfyflgutGKrf-1" parent="zQLJ9U1SGfyflgutGKrf-0" />
@@ -2070,7 +2070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid II ibn Yazid time" id="TvVPspnlWwncLmrOGaBi">
-    <mxGraphModel dx="855" dy="-1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xaPToCXrgfE3Y12BAju7-0" />
         <mxCell id="xaPToCXrgfE3Y12BAju7-1" parent="xaPToCXrgfE3Y12BAju7-0" />
@@ -2224,13 +2224,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Df05rAJylKjNlo6Hcw8G-1" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II bin Muhammad" vertex="1">
-          <mxGeometry height="60" width="200" x="500" y="4960" as="geometry" />
+          <mxGeometry height="60" width="200" x="500" y="4830" as="geometry" />
         </mxCell>
         <mxCell id="Df05rAJylKjNlo6Hcw8G-2" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaysi&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="610" y="5110" as="geometry" />
+          <mxGeometry height="60" width="200" x="610" y="4980" as="geometry" />
         </mxCell>
         <mxCell id="Df05rAJylKjNlo6Hcw8G-3" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mutiny of Kalbis&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="930" y="4960" as="geometry" />
+          <mxGeometry height="60" width="200" x="920" y="4830" as="geometry" />
+        </mxCell>
+        <mxCell id="QMtVeousCOLJsUAsX--M-0" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arabs march to Damascus" vertex="1">
+          <mxGeometry height="80" width="520" x="560" y="5190" as="geometry" />
+        </mxCell>
+        <mxCell id="QMtVeousCOLJsUAsX--M-1" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Muhammad al-Sufyani (Sufyanids)" vertex="1">
+          <mxGeometry height="60" width="200" x="920" y="5490" as="geometry" />
+        </mxCell>
+        <mxCell id="QMtVeousCOLJsUAsX--M-2" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sulayman b. Hisham" vertex="1">
+          <mxGeometry height="60" width="200" x="590" y="5340" as="geometry" />
+        </mxCell>
+        <mxCell id="QMtVeousCOLJsUAsX--M-4" edge="1" parent="xaPToCXrgfE3Y12BAju7-1" source="QMtVeousCOLJsUAsX--M-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="QMtVeousCOLJsUAsX--M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QMtVeousCOLJsUAsX--M-3" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sufyanids" vertex="1">
+          <mxGeometry height="60" width="200" x="920" y="5340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
