@@ -2427,7 +2427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="476" dy="-1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2501,19 +2501,52 @@
           <mxGeometry height="60" width="200" x="440" y="4900" as="geometry" />
         </mxCell>
         <mxCell id="xC1IcpDhszekXMy5hXwN-22" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Annexed of Palmyra" vertex="1">
-          <mxGeometry height="80" width="520" x="600" y="5110" as="geometry" />
+          <mxGeometry height="80" width="520" x="600" y="5630" as="geometry" />
         </mxCell>
         <mxCell id="xC1IcpDhszekXMy5hXwN-23" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II b. Muhammad" vertex="1">
-          <mxGeometry height="60" width="200" x="1030" y="5290" as="geometry" />
+          <mxGeometry height="60" width="200" x="1030" y="5810" as="geometry" />
         </mxCell>
         <mxCell id="xC1IcpDhszekXMy5hXwN-24" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="xC1IcpDhszekXMy5hXwN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xC1IcpDhszekXMy5hXwN-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xC1IcpDhszekXMy5hXwN-25" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kalbi" vertex="1">
-          <mxGeometry height="60" width="200" x="480" y="5280" as="geometry" />
+          <mxGeometry height="60" width="200" x="480" y="5800" as="geometry" />
         </mxCell>
         <mxCell id="xC1IcpDhszekXMy5hXwN-26" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abrash al-Kalbi (Kalb)" vertex="1">
-          <mxGeometry height="60" width="200" x="480" y="5420" as="geometry" />
+          <mxGeometry height="60" width="200" x="480" y="5940" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-27" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Siege of Tiberias" vertex="1">
+          <mxGeometry height="80" width="520" x="540" y="5160" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-28" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II b. Muhammad" vertex="1">
+          <mxGeometry height="60" width="200" x="970" y="5340" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-30" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Thabit b. Nu‘aym" vertex="1">
+          <mxGeometry height="60" width="200" x="420" y="5330" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-32" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rebellion of Sulayman b. Hisham" vertex="1">
+          <mxGeometry height="80" width="520" x="580" y="6260" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-33" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II b. Muhammad" vertex="1">
+          <mxGeometry height="60" width="200" x="1010" y="6440" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-35" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sulayman b. Hisham" vertex="1">
+          <mxGeometry height="60" width="200" x="460" y="6430" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-37" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Syrians" vertex="1">
+          <mxGeometry height="60" width="200" x="1000" y="6560" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-38" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Invasion of Iraq" vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="6810" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-42" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="xC1IcpDhszekXMy5hXwN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xC1IcpDhszekXMy5hXwN-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-39" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II b. Muhammad" vertex="1">
+          <mxGeometry height="60" width="200" x="1020" y="6990" as="geometry" />
+        </mxCell>
+        <mxCell id="xC1IcpDhszekXMy5hXwN-41" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid Ibn Hubayra" vertex="1">
+          <mxGeometry height="60" width="200" x="1020" y="7110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
