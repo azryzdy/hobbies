@@ -2451,7 +2451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="429" dy="-1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2574,6 +2574,30 @@
         </mxCell>
         <mxCell id="xC1IcpDhszekXMy5hXwN-43" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sa‘id b. Hisham" vertex="1">
           <mxGeometry height="60" width="200" x="340" y="6520" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Governor of Iraq" vertex="1">
+          <mxGeometry height="80" width="520" x="545" y="7300" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-6" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="lYd7FtaKq_qAG9NCUOtn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lYd7FtaKq_qAG9NCUOtn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-2" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II b. Muhammad" vertex="1">
+          <mxGeometry height="60" width="200" x="950" y="7460" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-4" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nadr b. Sa‘id al-&lt;br&gt;Harashi" vertex="1">
+          <mxGeometry height="60" width="200" x="1090" y="7680" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-7" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="lYd7FtaKq_qAG9NCUOtn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lYd7FtaKq_qAG9NCUOtn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-5" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaysi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1030" y="7580" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-8" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abd Allah b. ‘Umar" vertex="1">
+          <mxGeometry height="60" width="200" x="540" y="7460" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-9" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="‘northerners’ (Mudar)" vertex="1">
+          <mxGeometry height="60" width="200" x="1270" y="7780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
