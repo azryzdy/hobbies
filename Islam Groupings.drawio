@@ -2353,7 +2353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Ibrahim ibn Al Walid time" id="WfvcFHsbw3bYD15NAUE9">
-    <mxGraphModel dx="306" dy="-1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="-1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Kg4YP6xCsG8eNrbmSPsj-0" />
         <mxCell id="Kg4YP6xCsG8eNrbmSPsj-1" parent="Kg4YP6xCsG8eNrbmSPsj-0" />
@@ -2426,6 +2426,9 @@
         <mxCell id="zqxJy3tk0gk2o4tqZ4T8-0" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shi‘ite revolt in Kufa&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="520" x="620" y="4480" as="geometry" />
         </mxCell>
+        <mxCell id="zqxJy3tk0gk2o4tqZ4T8-7" edge="1" parent="Kg4YP6xCsG8eNrbmSPsj-1" source="zqxJy3tk0gk2o4tqZ4T8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="zqxJy3tk0gk2o4tqZ4T8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zqxJy3tk0gk2o4tqZ4T8-1" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abd Allah b. ‘Umar" vertex="1">
           <mxGeometry height="60" width="200" x="600" y="4630" as="geometry" />
         </mxCell>
@@ -2440,6 +2443,9 @@
             <mxPoint x="1059" y="4692" as="sourcePoint" />
             <mxPoint x="1010" y="4760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zqxJy3tk0gk2o4tqZ4T8-6" parent="Kg4YP6xCsG8eNrbmSPsj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Syrians" vertex="1">
+          <mxGeometry height="60" width="200" x="500" y="4750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
