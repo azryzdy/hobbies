@@ -2451,7 +2451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="429" dy="-1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="612" dy="-1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2598,6 +2598,15 @@
         </mxCell>
         <mxCell id="lYd7FtaKq_qAG9NCUOtn-9" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="‘northerners’ (Mudar)" vertex="1">
           <mxGeometry height="60" width="200" x="1270" y="7780" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-12" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="lYd7FtaKq_qAG9NCUOtn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lYd7FtaKq_qAG9NCUOtn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-10" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Hira" vertex="1">
+          <mxGeometry height="60" width="200" x="490" y="7610" as="geometry" />
+        </mxCell>
+        <mxCell id="lYd7FtaKq_qAG9NCUOtn-11" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kalbi garrison" vertex="1">
+          <mxGeometry height="60" width="200" x="470" y="7740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
