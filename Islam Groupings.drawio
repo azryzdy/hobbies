@@ -2251,7 +2251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Yazid III ibn Al Walid time" id="--uUpEthlg9r-0oPsIxR">
-    <mxGraphModel dx="2572" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="612" dy="-1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="DLraL7orOIntF-dMjxWX-0" />
         <mxCell id="DLraL7orOIntF-dMjxWX-1" parent="DLraL7orOIntF-dMjxWX-0" />
@@ -2358,7 +2358,7 @@
         <mxCell id="9FiUT91yPA4y_vwNTYUV-0" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II" vertex="1">
           <mxGeometry height="60" width="200" x="750" y="3950" as="geometry" />
         </mxCell>
-        <mxCell id="9FiUT91yPA4y_vwNTYUV-1" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaysi" vertex="1">
+        <mxCell id="9FiUT91yPA4y_vwNTYUV-1" parent="DLraL7orOIntF-dMjxWX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Qaysi&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="850" y="4120" as="geometry" />
         </mxCell>
       </root>
