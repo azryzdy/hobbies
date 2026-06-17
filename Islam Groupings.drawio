@@ -2251,7 +2251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Yazid III ibn Al Walid time" id="--uUpEthlg9r-0oPsIxR">
-    <mxGraphModel dx="612" dy="-1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="DLraL7orOIntF-dMjxWX-0" />
         <mxCell id="DLraL7orOIntF-dMjxWX-1" parent="DLraL7orOIntF-dMjxWX-0" />
@@ -2463,7 +2463,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="475" dy="-1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="612" dy="-1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2679,6 +2679,36 @@
         </mxCell>
         <mxCell id="lYd7FtaKq_qAG9NCUOtn-34" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sulayman b. Hisham " vertex="1">
           <mxGeometry height="60" width="200" x="380" y="9650" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasid rise to power" vertex="1">
+          <mxGeometry height="80" width="520" x="580" y="10020" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-8" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="oyYzWCDDsWl1kir8pmiF-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="oyYzWCDDsWl1kir8pmiF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-1" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II b. Muhammad" vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="10410" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-2" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hashimiyya" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="10200" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-4" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shi‘ism " vertex="1">
+          <mxGeometry height="60" width="200" x="1060" y="10340" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-5" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyads " vertex="1">
+          <mxGeometry height="60" width="200" x="560" y="10300" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-6" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemeni faction " vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="10430" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-7" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Sayyar " vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="10520" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-9" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iraqi opposition " vertex="1">
+          <mxGeometry height="60" width="200" x="1075" y="10520" as="geometry" />
+        </mxCell>
+        <mxCell id="oyYzWCDDsWl1kir8pmiF-10" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad Syrian" vertex="1">
+          <mxGeometry height="60" width="200" x="425" y="10610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
