@@ -2478,10 +2478,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="804" dy="-1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1409" dy="-1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
+        <mxCell id="T1YBQW5brJLqXua4juJP-15" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Against both&amp;nbsp;Juday‘ al-Kirmani (Azd) and&amp;nbsp;Nasr b. Sayyar " vertex="1">
+          <mxGeometry height="190" width="490" x="580" y="12460" as="geometry" />
+        </mxCell>
         <mxCell id="lYd7FtaKq_qAG9NCUOtn-15" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Third faction" vertex="1">
           <mxGeometry height="530" width="850" x="500" y="7880" as="geometry" />
         </mxCell>
@@ -2750,7 +2753,7 @@
           <mxGeometry height="60" width="200" x="910" y="11210" as="geometry" />
         </mxCell>
         <mxCell id="T1YBQW5brJLqXua4juJP-2" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Juday‘ al-Kirmani (Azd)" vertex="1">
-          <mxGeometry height="60" width="200" x="1030" y="11290" as="geometry" />
+          <mxGeometry height="60" width="200" x="910" y="11320" as="geometry" />
         </mxCell>
         <mxCell id="T1YBQW5brJLqXua4juJP-3" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad governor" vertex="1">
           <mxGeometry height="60" width="200" x="620" y="11210" as="geometry" />
@@ -2769,6 +2772,27 @@
         </mxCell>
         <mxCell id="T1YBQW5brJLqXua4juJP-8" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Merv&amp;nbsp;Mudari supporters" vertex="1">
           <mxGeometry height="60" width="200" x="600" y="11780" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-9" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Sayyar retake Merv" vertex="1">
+          <mxGeometry height="80" width="520" x="580" y="11940" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-10" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Juday‘ al-Kirmani (Azd)" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="12110" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-11" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Sayyar " vertex="1">
+          <mxGeometry height="60" width="200" x="980" y="12110" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-12" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hashimiyya" vertex="1">
+          <mxGeometry height="60" width="200" x="730" y="12480" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-13" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Murderer" vertex="1">
+          <mxGeometry height="190" width="450" x="-20" y="12250" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-14" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Juday‘ al-Kirmani (Azd) son" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="12220" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-16" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Harith b. Surayj son" vertex="1">
+          <mxGeometry height="60" width="200" x="150" y="12270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
