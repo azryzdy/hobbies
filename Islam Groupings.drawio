@@ -2478,7 +2478,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="989" dy="-940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="804" dy="-1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2742,6 +2742,18 @@
         </mxCell>
         <mxCell id="vdJpIew3VFrMBTrIbCTH-4" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Juday‘ al-Kirmani" vertex="1">
           <mxGeometry height="60" width="200" x="890" y="10800" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Harith b. Surayj attempt to take Merv &lt;span style=&quot;display:inline;&quot;&gt;(Tamimi &amp;amp; Yemen)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="520" x="630" y="11050" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-1" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Harith ibn Surayj  (Tamimi &amp;amp; Yemen)" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="11210" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-2" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Juday‘ al-Kirmani (Azd)" vertex="1">
+          <mxGeometry height="60" width="200" x="1030" y="11290" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-3" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad governor" vertex="1">
+          <mxGeometry height="60" width="200" x="620" y="11210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
