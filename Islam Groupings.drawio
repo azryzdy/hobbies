@@ -2794,6 +2794,30 @@
         <mxCell id="T1YBQW5brJLqXua4juJP-16" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Harith b. Surayj son" vertex="1">
           <mxGeometry height="60" width="200" x="150" y="12270" as="geometry" />
         </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-18" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasid rise to power II" vertex="1">
+          <mxGeometry height="80" width="520" x="565" y="12810" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-25" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="T1YBQW5brJLqXua4juJP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="T1YBQW5brJLqXua4juJP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-19" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Muslim" vertex="1">
+          <mxGeometry height="60" width="200" x="920" y="12970" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-23" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="T1YBQW5brJLqXua4juJP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="T1YBQW5brJLqXua4juJP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-20" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali ibn Juday al-Kirmani" vertex="1">
+          <mxGeometry height="60" width="200" x="920" y="13070" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-21" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Sayyar&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="530" y="12970" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-22" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azd" vertex="1">
+          <mxGeometry height="60" width="200" x="1020" y="13170" as="geometry" />
+        </mxCell>
+        <mxCell id="T1YBQW5brJLqXua4juJP-24" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemenis" vertex="1">
+          <mxGeometry height="60" width="200" x="1170" y="13070" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
