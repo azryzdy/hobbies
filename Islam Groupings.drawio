@@ -2887,8 +2887,20 @@
         <mxCell id="1RqPZrQHnSZmUBvJkkdd-9" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Siege of Hamadan" vertex="1">
           <mxGeometry height="80" width="520" x="590" y="14920" as="geometry" />
         </mxCell>
-        <mxCell id="1RqPZrQHnSZmUBvJkkdd-10" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Many prominent&amp;nbsp;Arabs " vertex="1">
-          <mxGeometry height="60" width="200" x="910" y="15120" as="geometry" />
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-10" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qahtaba&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1000" y="15180" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-11" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Syrian army" vertex="1">
+          <mxGeometry height="60" width="200" x="510" y="15220" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-12" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Sayyar" vertex="1">
+          <mxGeometry height="60" width="200" x="600" y="15070" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-14" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="1RqPZrQHnSZmUBvJkkdd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="1RqPZrQHnSZmUBvJkkdd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-13" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hashimiyya&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="15070" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
