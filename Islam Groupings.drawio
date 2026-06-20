@@ -2478,7 +2478,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="1297" dy="-1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2854,7 +2854,7 @@
         <mxCell id="KE5AjxfaWr64BvmC4lff-9" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="KE5AjxfaWr64BvmC4lff-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KE5AjxfaWr64BvmC4lff-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KE5AjxfaWr64BvmC4lff-8" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="imam Ibrahim" vertex="1">
+        <mxCell id="KE5AjxfaWr64BvmC4lff-8" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Imam Ibrahim" vertex="1">
           <mxGeometry height="60" width="200" x="980" y="13880" as="geometry" />
         </mxCell>
         <mxCell id="KE5AjxfaWr64BvmC4lff-13" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemeni Khuza‘a&amp;nbsp;" vertex="1">
@@ -2877,6 +2877,12 @@
         </mxCell>
         <mxCell id="1RqPZrQHnSZmUBvJkkdd-4" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qahtaba&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="960" y="14530" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-7" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Juday‘ al-Kirmani" vertex="1">
+          <mxGeometry height="60" width="200" x="1470" y="14250" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-8" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uthman b. Juday‘ al-Kirmani" vertex="1">
+          <mxGeometry height="60" width="200" x="1690" y="14250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
