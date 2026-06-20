@@ -2478,7 +2478,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="1606" dy="-1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="-1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2859,6 +2859,12 @@
         </mxCell>
         <mxCell id="KE5AjxfaWr64BvmC4lff-13" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemeni Khuza‘a&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="1260" y="14360" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad" vertex="1">
+          <mxGeometry height="60" width="200" x="580" y="13880" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-1" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Sayyar " vertex="1">
+          <mxGeometry height="60" width="200" x="600" y="14000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
