@@ -2827,6 +2827,39 @@
         <mxCell id="KE5AjxfaWr64BvmC4lff-2" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sulayman b. Kathir" vertex="1">
           <mxGeometry height="60" width="200" x="590" y="13560" as="geometry" />
         </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-3" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasid revolt" vertex="1">
+          <mxGeometry height="80" width="520" x="600" y="13740" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-4" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Muslim" vertex="1">
+          <mxGeometry height="60" width="200" x="870" y="14100" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-12" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="KE5AjxfaWr64BvmC4lff-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KE5AjxfaWr64BvmC4lff-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-5" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sulayman b. Kathir" vertex="1">
+          <mxGeometry height="60" width="200" x="1120" y="14100" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-6" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="village of Sikadanj&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1200" y="14250" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-10" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="KE5AjxfaWr64BvmC4lff-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KE5AjxfaWr64BvmC4lff-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-11" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="KE5AjxfaWr64BvmC4lff-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KE5AjxfaWr64BvmC4lff-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-7" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khurasan&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="980" y="13980" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-9" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="KE5AjxfaWr64BvmC4lff-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KE5AjxfaWr64BvmC4lff-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-8" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="imam Ibrahim" vertex="1">
+          <mxGeometry height="60" width="200" x="980" y="13880" as="geometry" />
+        </mxCell>
+        <mxCell id="KE5AjxfaWr64BvmC4lff-13" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemeni Khuza‘a&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1260" y="14360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
