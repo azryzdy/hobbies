@@ -2884,6 +2884,12 @@
         <mxCell id="1RqPZrQHnSZmUBvJkkdd-8" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uthman b. Juday‘ al-Kirmani" vertex="1">
           <mxGeometry height="60" width="200" x="1690" y="14250" as="geometry" />
         </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-9" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Siege of Hamadan" vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="14920" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqPZrQHnSZmUBvJkkdd-10" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Many prominent&amp;nbsp;Arabs " vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="15120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
