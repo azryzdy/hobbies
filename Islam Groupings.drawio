@@ -2070,7 +2070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid II ibn Yazid time" id="TvVPspnlWwncLmrOGaBi">
-    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1068" dy="-850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xaPToCXrgfE3Y12BAju7-0" />
         <mxCell id="xaPToCXrgfE3Y12BAju7-1" parent="xaPToCXrgfE3Y12BAju7-0" />
@@ -2246,6 +2246,15 @@
         </mxCell>
         <mxCell id="QMtVeousCOLJsUAsX--M-3" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sufyanids" vertex="1">
           <mxGeometry height="60" width="200" x="920" y="5340" as="geometry" />
+        </mxCell>
+        <mxCell id="vOuaOk9MlgfU30Cz6Diq-0" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hashimiyya Khurasan II" vertex="1">
+          <mxGeometry height="80" width="520" x="600" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="vOuaOk9MlgfU30Cz6Diq-1" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yahya b. Zayd (Alid)" vertex="1">
+          <mxGeometry height="60" width="200" x="580" y="2640" as="geometry" />
+        </mxCell>
+        <mxCell id="vOuaOk9MlgfU30Cz6Diq-2" parent="xaPToCXrgfE3Y12BAju7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Sayyar " vertex="1">
+          <mxGeometry height="60" width="200" x="980" y="2640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2478,7 +2487,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="1665" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1766" dy="-1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
