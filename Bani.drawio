@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Page-1" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="414" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,8 +408,14 @@
         <mxCell id="skmV5x8JPR5NPZOX_D1J-8" edge="1" parent="1" source="skmV5x8JPR5NPZOX_D1J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="skmV5x8JPR5NPZOX_D1J-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-10" edge="1" parent="1" source="skmV5x8JPR5NPZOX_D1J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="skmV5x8JPR5NPZOX_D1J-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="skmV5x8JPR5NPZOX_D1J-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ali ibn Abi Taalib" vertex="1">
           <mxGeometry height="60" width="330" x="1850" y="2580" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Muhammad b. al-Hanafiyya" vertex="1">
+          <mxGeometry height="60" width="330" x="2260" y="2810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
