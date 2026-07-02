@@ -2885,7 +2885,7 @@
           <mxGeometry height="60" width="200" x="580" y="13880" as="geometry" />
         </mxCell>
         <mxCell id="1RqPZrQHnSZmUBvJkkdd-1" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Sayyar " vertex="1">
-          <mxGeometry height="60" width="200" x="600" y="14000" as="geometry" />
+          <mxGeometry height="60" width="200" x="580" y="14090" as="geometry" />
         </mxCell>
         <mxCell id="1RqPZrQHnSZmUBvJkkdd-2" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Many prominent&amp;nbsp;Arabs " vertex="1">
           <mxGeometry height="60" width="200" x="880" y="14420" as="geometry" />
@@ -2943,6 +2943,9 @@
         </mxCell>
         <mxCell id="a8K3GIlGFjK9OUYhgLz8-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khazim b. Khuzayma" vertex="1">
           <mxGeometry height="60" width="200" x="860" y="14640" as="geometry" />
+        </mxCell>
+        <mxCell id="a8K3GIlGFjK9OUYhgLz8-1" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II" vertex="1">
+          <mxGeometry height="60" width="200" x="580" y="13980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
