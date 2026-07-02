@@ -1939,7 +1939,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Hisham ibn Abd Al Malik time" id="mR_4ICsZg4qUIlucsPqy">
-    <mxGraphModel dx="3215" dy="4095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zQLJ9U1SGfyflgutGKrf-0" />
         <mxCell id="zQLJ9U1SGfyflgutGKrf-1" parent="zQLJ9U1SGfyflgutGKrf-0" />
@@ -2065,6 +2065,18 @@
         </mxCell>
         <mxCell id="H4mCeU28CIsWSEUK-Wj8-6" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Junayd b. ‘Abd al-Rahman al-Murri (Azd)" vertex="1">
           <mxGeometry height="60" width="200" x="570" y="3410" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zQj2ytBd693Iig-fKi-0" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khazar incursions " vertex="1">
+          <mxGeometry height="80" width="480" x="620" y="3730" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zQj2ytBd693Iig-fKi-1" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khazar " vertex="1">
+          <mxGeometry height="60" width="200" x="920" y="3870" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zQj2ytBd693Iig-fKi-2" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marwan II " vertex="1">
+          <mxGeometry height="60" width="200" x="560" y="4010" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zQj2ytBd693Iig-fKi-3" parent="zQLJ9U1SGfyflgutGKrf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hisham ibn Abd Al Malik" vertex="1">
+          <mxGeometry height="60" width="200" x="560" y="3880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
