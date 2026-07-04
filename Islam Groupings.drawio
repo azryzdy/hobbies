@@ -2974,6 +2974,12 @@
         <mxCell id="NTVO9hzauBUdR9wRapWB-4" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dawud b. Ali" vertex="1">
           <mxGeometry height="60" width="200" x="1460" y="15740" as="geometry" />
         </mxCell>
+        <mxCell id="NTVO9hzauBUdR9wRapWB-8" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="NTVO9hzauBUdR9wRapWB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NTVO9hzauBUdR9wRapWB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTVO9hzauBUdR9wRapWB-6" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abdallah b. Ali" vertex="1">
+          <mxGeometry height="60" width="200" x="1340" y="15580" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
