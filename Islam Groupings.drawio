@@ -2956,6 +2956,24 @@
         <mxCell id="a8K3GIlGFjK9OUYhgLz8-4" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids" vertex="1">
           <mxGeometry height="60" width="200" x="550" y="15660" as="geometry" />
         </mxCell>
+        <mxCell id="NTVO9hzauBUdR9wRapWB-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu’l-Abbas" vertex="1">
+          <mxGeometry height="60" width="200" x="1020" y="15880" as="geometry" />
+        </mxCell>
+        <mxCell id="NTVO9hzauBUdR9wRapWB-3" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="NTVO9hzauBUdR9wRapWB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NTVO9hzauBUdR9wRapWB-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTVO9hzauBUdR9wRapWB-2" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibrahim&lt;br&gt;al-Imam" vertex="1">
+          <mxGeometry height="60" width="200" x="1210" y="15740" as="geometry" />
+        </mxCell>
+        <mxCell id="NTVO9hzauBUdR9wRapWB-5" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="NTVO9hzauBUdR9wRapWB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="15840.000000000002" as="sourcePoint" />
+            <mxPoint x="1120" y="15880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTVO9hzauBUdR9wRapWB-4" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dawud b. Ali" vertex="1">
+          <mxGeometry height="60" width="200" x="1460" y="15740" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
