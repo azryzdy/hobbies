@@ -2499,7 +2499,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="1769" dy="-1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2953,6 +2953,9 @@
         <mxCell id="a8K3GIlGFjK9OUYhgLz8-3" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids" vertex="1">
           <mxGeometry height="60" width="200" x="920" y="15660" as="geometry" />
         </mxCell>
+        <mxCell id="PBWTa2mZO_1n51lN-SaS-1" edge="1" parent="UjPPpHI_m0SoU5EQtAUr-1" source="a8K3GIlGFjK9OUYhgLz8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="PBWTa2mZO_1n51lN-SaS-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a8K3GIlGFjK9OUYhgLz8-4" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids" vertex="1">
           <mxGeometry height="60" width="200" x="550" y="15660" as="geometry" />
         </mxCell>
@@ -2982,6 +2985,9 @@
         </mxCell>
         <mxCell id="NTVO9hzauBUdR9wRapWB-9" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Salih b. Ali" vertex="1">
           <mxGeometry height="60" width="200" x="1490" y="14480" as="geometry" />
+        </mxCell>
+        <mxCell id="PBWTa2mZO_1n51lN-SaS-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Salama" vertex="1">
+          <mxGeometry height="60" width="200" x="510" y="15810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
