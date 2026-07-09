@@ -2999,7 +2999,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Mansur" id="6d-q_StHQlrwd3CKd3n3">
-    <mxGraphModel dx="514" dy="-1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="-1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HAISBHYF1O-SH8guDrih-0" />
         <mxCell id="HAISBHYF1O-SH8guDrih-1" parent="HAISBHYF1O-SH8guDrih-0" />
@@ -3015,8 +3015,11 @@
         <mxCell id="HAISBHYF1O-SH8guDrih-8" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mansur&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="1000" y="3350" as="geometry" />
         </mxCell>
+        <mxCell id="bHahdLBwmLkJgOwHJTFk-4" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bHahdLBwmLkJgOwHJTFk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-14" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Muslim&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="390" y="3360" as="geometry" />
+          <mxGeometry height="60" width="200" x="130" y="3350" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-146" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids " vertex="1">
           <mxGeometry height="60" width="200" x="10" y="7130" as="geometry" />
@@ -3060,8 +3063,23 @@
         <mxCell id="HAISBHYF1O-SH8guDrih-162" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Salama" vertex="1">
           <mxGeometry height="60" width="200" x="510" y="15810" as="geometry" />
         </mxCell>
+        <mxCell id="bHahdLBwmLkJgOwHJTFk-7" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="bHahdLBwmLkJgOwHJTFk-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bHahdLBwmLkJgOwHJTFk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bHahdLBwmLkJgOwHJTFk-8" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="bHahdLBwmLkJgOwHJTFk-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bHahdLBwmLkJgOwHJTFk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bHahdLBwmLkJgOwHJTFk-0" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab tribal army in northern Syria" vertex="1">
           <mxGeometry height="60" width="200" x="630" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="bHahdLBwmLkJgOwHJTFk-3" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iraq" vertex="1">
+          <mxGeometry height="60" width="200" x="130" y="3460" as="geometry" />
+        </mxCell>
+        <mxCell id="bHahdLBwmLkJgOwHJTFk-5" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nisibin" vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="bHahdLBwmLkJgOwHJTFk-6" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Harran&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="410" y="3600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
