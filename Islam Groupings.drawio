@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="18">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2994,6 +2994,74 @@
         </mxCell>
         <mxCell id="PBWTa2mZO_1n51lN-SaS-3" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Some Qays" vertex="1">
           <mxGeometry height="60" width="200" x="1480" y="14110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Mansur" id="6d-q_StHQlrwd3CKd3n3">
+    <mxGraphModel dx="514" dy="-1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="HAISBHYF1O-SH8guDrih-0" />
+        <mxCell id="HAISBHYF1O-SH8guDrih-1" parent="HAISBHYF1O-SH8guDrih-0" />
+        <mxCell id="HAISBHYF1O-SH8guDrih-5" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rebellion against&amp;nbsp;Marwan II ibn Muhammad" vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-7" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abdallah b. Ali" vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="3340" as="geometry" />
+        </mxCell>
+        <mxCell id="bHahdLBwmLkJgOwHJTFk-1" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bHahdLBwmLkJgOwHJTFk-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-8" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mansur&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1000" y="3350" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-14" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Muslim&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="390" y="3360" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-146" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids " vertex="1">
+          <mxGeometry height="60" width="200" x="10" y="7130" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-150" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Internal conflict to elect the next caliph" vertex="1">
+          <mxGeometry height="80" width="520" x="620" y="15510" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-151" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids" vertex="1">
+          <mxGeometry height="60" width="200" x="920" y="15660" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-152" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="HAISBHYF1O-SH8guDrih-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-153" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="15660" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-154" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu’l-Abbas" vertex="1">
+          <mxGeometry height="60" width="200" x="1020" y="15880" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-155" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HAISBHYF1O-SH8guDrih-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-156" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibrahim&lt;br&gt;al-Imam" vertex="1">
+          <mxGeometry height="60" width="200" x="1210" y="15740" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-157" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="15840.000000000002" as="sourcePoint" />
+            <mxPoint x="1120" y="15880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-158" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dawud b. Ali" vertex="1">
+          <mxGeometry height="60" width="200" x="1460" y="15740" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-159" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HAISBHYF1O-SH8guDrih-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-160" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abdallah b. Ali" vertex="1">
+          <mxGeometry height="60" width="200" x="1340" y="15580" as="geometry" />
+        </mxCell>
+        <mxCell id="HAISBHYF1O-SH8guDrih-162" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Salama" vertex="1">
+          <mxGeometry height="60" width="200" x="510" y="15810" as="geometry" />
+        </mxCell>
+        <mxCell id="bHahdLBwmLkJgOwHJTFk-0" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab tribal army in northern Syria" vertex="1">
+          <mxGeometry height="60" width="200" x="1000" y="3500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
