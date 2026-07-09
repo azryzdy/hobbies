@@ -3006,11 +3006,11 @@
         <mxCell id="HAISBHYF1O-SH8guDrih-5" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rebellion against&amp;nbsp;Marwan II ibn Muhammad" vertex="1">
           <mxGeometry height="80" width="520" x="590" y="3110" as="geometry" />
         </mxCell>
+        <mxCell id="bHahdLBwmLkJgOwHJTFk-2" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bHahdLBwmLkJgOwHJTFk-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-7" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abdallah b. Ali" vertex="1">
           <mxGeometry height="60" width="200" x="630" y="3340" as="geometry" />
-        </mxCell>
-        <mxCell id="bHahdLBwmLkJgOwHJTFk-1" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bHahdLBwmLkJgOwHJTFk-0">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-8" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mansur&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="1000" y="3350" as="geometry" />
@@ -3061,7 +3061,7 @@
           <mxGeometry height="60" width="200" x="510" y="15810" as="geometry" />
         </mxCell>
         <mxCell id="bHahdLBwmLkJgOwHJTFk-0" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arab tribal army in northern Syria" vertex="1">
-          <mxGeometry height="60" width="200" x="1000" y="3500" as="geometry" />
+          <mxGeometry height="60" width="200" x="630" y="3480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
