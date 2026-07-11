@@ -2499,7 +2499,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="1527" dy="-1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1766" dy="-1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2994,6 +2994,9 @@
         </mxCell>
         <mxCell id="PBWTa2mZO_1n51lN-SaS-3" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Some Qays" vertex="1">
           <mxGeometry height="60" width="200" x="1480" y="14110" as="geometry" />
+        </mxCell>
+        <mxCell id="xb-JHayaDiWnBHSziRKl-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rawh al-Muhallabi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1750" y="14480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
