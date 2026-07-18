@@ -3108,6 +3108,9 @@
         <mxCell id="q1FXmHQY8tlpasvXEYlh-7" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khurusan" vertex="1">
           <mxGeometry height="60" width="200" x="380" y="4390" as="geometry" />
         </mxCell>
+        <mxCell id="q1FXmHQY8tlpasvXEYlh-8" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Isa b. Musa" vertex="1">
+          <mxGeometry height="60" width="200" x="620" y="4280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
