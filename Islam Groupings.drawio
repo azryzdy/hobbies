@@ -3002,7 +3002,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Mansur" id="6d-q_StHQlrwd3CKd3n3">
-    <mxGraphModel dx="1282" dy="-1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="-1307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HAISBHYF1O-SH8guDrih-0" />
         <mxCell id="HAISBHYF1O-SH8guDrih-1" parent="HAISBHYF1O-SH8guDrih-0" />
@@ -3104,6 +3104,9 @@
         </mxCell>
         <mxCell id="q1FXmHQY8tlpasvXEYlh-6" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Hanifa " vertex="1">
           <mxGeometry height="60" width="200" x="380" y="4280" as="geometry" />
+        </mxCell>
+        <mxCell id="q1FXmHQY8tlpasvXEYlh-7" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khurusan" vertex="1">
+          <mxGeometry height="60" width="200" x="380" y="4390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
