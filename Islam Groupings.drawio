@@ -3002,7 +3002,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Mansur" id="6d-q_StHQlrwd3CKd3n3">
-    <mxGraphModel dx="857" dy="-1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="-1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HAISBHYF1O-SH8guDrih-0" />
         <mxCell id="HAISBHYF1O-SH8guDrih-1" parent="HAISBHYF1O-SH8guDrih-0" />
@@ -3083,6 +3083,27 @@
         </mxCell>
         <mxCell id="bHahdLBwmLkJgOwHJTFk-6" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Harran&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="410" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="q1FXmHQY8tlpasvXEYlh-0" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alid Revolt of al-Nafs al-Zakiyya (Alids) I" vertex="1">
+          <mxGeometry height="80" width="520" x="620" y="3940" as="geometry" />
+        </mxCell>
+        <mxCell id="q1FXmHQY8tlpasvXEYlh-1" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mansur&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="920" y="4090" as="geometry" />
+        </mxCell>
+        <mxCell id="q1FXmHQY8tlpasvXEYlh-2" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids" vertex="1">
+          <mxGeometry height="60" width="200" x="590" y="4090" as="geometry" />
+        </mxCell>
+        <mxCell id="q1FXmHQY8tlpasvXEYlh-3" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids " vertex="1">
+          <mxGeometry height="60" width="200" x="1030" y="4180" as="geometry" />
+        </mxCell>
+        <mxCell id="q1FXmHQY8tlpasvXEYlh-4" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Malik b. Anas " vertex="1">
+          <mxGeometry height="60" width="200" x="130" y="4280" as="geometry" />
+        </mxCell>
+        <mxCell id="q1FXmHQY8tlpasvXEYlh-5" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhammad al-Nafs al-Zakiyya (the Pure Soul)" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="4180" as="geometry" />
+        </mxCell>
+        <mxCell id="q1FXmHQY8tlpasvXEYlh-6" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Hanifa " vertex="1">
+          <mxGeometry height="60" width="200" x="380" y="4280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
