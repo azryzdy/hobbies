@@ -2499,7 +2499,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marwan II ibn Muhammad time" id="5UWn9rY2cjeUHZJhP09f">
-    <mxGraphModel dx="1766" dy="-1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1462" dy="-1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-0" />
         <mxCell id="UjPPpHI_m0SoU5EQtAUr-1" parent="UjPPpHI_m0SoU5EQtAUr-0" />
@@ -2998,11 +2998,14 @@
         <mxCell id="xb-JHayaDiWnBHSziRKl-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rawh al-Muhallabi&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="1750" y="14480" as="geometry" />
         </mxCell>
+        <mxCell id="68MaITxupnY1plSlSfUF-0" parent="UjPPpHI_m0SoU5EQtAUr-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khalid b. Barmak (Barmakids)" vertex="1">
+          <mxGeometry height="60" width="200" x="1340" y="12960" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Al Mansur" id="6d-q_StHQlrwd3CKd3n3">
-    <mxGraphModel dx="1837" dy="-9" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HAISBHYF1O-SH8guDrih-0" />
         <mxCell id="HAISBHYF1O-SH8guDrih-1" parent="HAISBHYF1O-SH8guDrih-0" />
