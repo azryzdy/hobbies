@@ -3002,7 +3002,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Mansur" id="6d-q_StHQlrwd3CKd3n3">
-    <mxGraphModel dx="1886" dy="-1307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="-9" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HAISBHYF1O-SH8guDrih-0" />
         <mxCell id="HAISBHYF1O-SH8guDrih-1" parent="HAISBHYF1O-SH8guDrih-0" />
@@ -3028,43 +3028,43 @@
           <mxGeometry height="60" width="200" x="10" y="7130" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-150" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Internal conflict to elect the next caliph" vertex="1">
-          <mxGeometry height="80" width="520" x="620" y="15510" as="geometry" />
+          <mxGeometry height="80" width="520" x="620" y="4790" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-151" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids" vertex="1">
-          <mxGeometry height="60" width="200" x="920" y="15660" as="geometry" />
+          <mxGeometry height="60" width="200" x="920" y="4940" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-152" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="HAISBHYF1O-SH8guDrih-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-153" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids" vertex="1">
-          <mxGeometry height="60" width="200" x="550" y="15660" as="geometry" />
+          <mxGeometry height="60" width="200" x="550" y="4940" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-154" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu’l-Abbas" vertex="1">
-          <mxGeometry height="60" width="200" x="1020" y="15880" as="geometry" />
+          <mxGeometry height="60" width="200" x="1020" y="5160" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-155" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HAISBHYF1O-SH8guDrih-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-156" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibrahim&lt;br&gt;al-Imam" vertex="1">
-          <mxGeometry height="60" width="200" x="1210" y="15740" as="geometry" />
+          <mxGeometry height="60" width="200" x="1210" y="5020" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-157" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1460" y="15840.000000000002" as="sourcePoint" />
-            <mxPoint x="1120" y="15880" as="targetPoint" />
+            <mxPoint x="1460" y="5120.000000000002" as="sourcePoint" />
+            <mxPoint x="1120" y="5160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-158" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dawud b. Ali" vertex="1">
-          <mxGeometry height="60" width="200" x="1460" y="15740" as="geometry" />
+          <mxGeometry height="60" width="200" x="1460" y="5020" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-159" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="HAISBHYF1O-SH8guDrih-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HAISBHYF1O-SH8guDrih-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-160" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abdallah b. Ali" vertex="1">
-          <mxGeometry height="60" width="200" x="1340" y="15580" as="geometry" />
+          <mxGeometry height="60" width="200" x="1340" y="4860" as="geometry" />
         </mxCell>
         <mxCell id="HAISBHYF1O-SH8guDrih-162" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Salama" vertex="1">
-          <mxGeometry height="60" width="200" x="510" y="15810" as="geometry" />
+          <mxGeometry height="60" width="200" x="510" y="5090" as="geometry" />
         </mxCell>
         <mxCell id="bHahdLBwmLkJgOwHJTFk-7" edge="1" parent="HAISBHYF1O-SH8guDrih-1" source="bHahdLBwmLkJgOwHJTFk-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bHahdLBwmLkJgOwHJTFk-5">
           <mxGeometry relative="1" as="geometry" />
