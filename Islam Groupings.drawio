@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="19">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="20">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3124,7 +3124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Mahdi" id="0zTp8OI-CIXz4G-RIj4b">
-    <mxGraphModel dx="643" dy="-1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ppgFuzgDKPxGYCWf_8n9-0" />
         <mxCell id="ppgFuzgDKPxGYCWf_8n9-1" parent="ppgFuzgDKPxGYCWf_8n9-0" />
@@ -3175,6 +3175,44 @@
         </mxCell>
         <mxCell id="1AtIv2fnpaZfyLQStqiJ-11" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qarinids " vertex="1">
           <mxGeometry height="60" width="200" x="900" y="4000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Hadi " id="NyOBH3Gx-VZ1YohhYPc0">
+    <mxGraphModel dx="643" dy="-1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ajke8VrRMt-DznM23hV6-0" />
+        <mxCell id="ajke8VrRMt-DznM23hV6-1" parent="ajke8VrRMt-DznM23hV6-0" />
+        <mxCell id="ajke8VrRMt-DznM23hV6-2" parent="ajke8VrRMt-DznM23hV6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mecca rebellion" vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="ajke8VrRMt-DznM23hV6-4" parent="ajke8VrRMt-DznM23hV6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Hadi" vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="ajke8VrRMt-DznM23hV6-5" parent="ajke8VrRMt-DznM23hV6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids " vertex="1">
+          <mxGeometry height="60" width="200" x="10" y="7130" as="geometry" />
+        </mxCell>
+        <mxCell id="ajke8VrRMt-DznM23hV6-9" parent="ajke8VrRMt-DznM23hV6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Husayn b. Ali (Alid)" vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="3450" as="geometry" />
+        </mxCell>
+        <mxCell id="ajke8VrRMt-DznM23hV6-10" edge="1" parent="ajke8VrRMt-DznM23hV6-1" source="ajke8VrRMt-DznM23hV6-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="ajke8VrRMt-DznM23hV6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajke8VrRMt-DznM23hV6-11" parent="ajke8VrRMt-DznM23hV6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mecca" vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="ajke8VrRMt-DznM23hV6-12" parent="ajke8VrRMt-DznM23hV6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Idris b. Abdallah" vertex="1">
+          <mxGeometry height="60" width="200" x="600" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="ajke8VrRMt-DznM23hV6-15" parent="ajke8VrRMt-DznM23hV6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Barmakids" vertex="1">
+          <mxGeometry height="60" width="200" x="480" y="4000" as="geometry" />
+        </mxCell>
+        <mxCell id="ajke8VrRMt-DznM23hV6-17" parent="ajke8VrRMt-DznM23hV6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qarinids " vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="4000" as="geometry" />
+        </mxCell>
+        <mxCell id="vGXQr0dyJthTZ8_2bEg6-0" parent="ajke8VrRMt-DznM23hV6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yahya b. Abdallah (Alid)" vertex="1">
+          <mxGeometry height="60" width="200" x="330" y="3600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
