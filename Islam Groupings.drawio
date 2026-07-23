@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="18">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="19">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3119,6 +3119,41 @@
         </mxCell>
         <mxCell id="q1FXmHQY8tlpasvXEYlh-8" parent="HAISBHYF1O-SH8guDrih-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Isa b. Musa" vertex="1">
           <mxGeometry height="60" width="200" x="920" y="4280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al-Mahdi" id="0zTp8OI-CIXz4G-RIj4b">
+    <mxGraphModel dx="643" dy="-1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ppgFuzgDKPxGYCWf_8n9-0" />
+        <mxCell id="ppgFuzgDKPxGYCWf_8n9-1" parent="ppgFuzgDKPxGYCWf_8n9-0" />
+        <mxCell id="ppgFuzgDKPxGYCWf_8n9-2" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tabaristan uprising" vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-1" edge="1" parent="ppgFuzgDKPxGYCWf_8n9-1" source="ppgFuzgDKPxGYCWf_8n9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="1AtIv2fnpaZfyLQStqiJ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppgFuzgDKPxGYCWf_8n9-5" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Mahdi" vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="ppgFuzgDKPxGYCWf_8n9-8" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids " vertex="1">
+          <mxGeometry height="60" width="200" x="10" y="7130" as="geometry" />
+        </mxCell>
+        <mxCell id="ppgFuzgDKPxGYCWf_8n9-17" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dawud b. Ali" vertex="1">
+          <mxGeometry height="60" width="200" x="1460" y="5020" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-0" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Hadi" vertex="1">
+          <mxGeometry height="60" width="200" x="960" y="3460" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-2" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wandad Hurmuzd" vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="3450" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-4" edge="1" parent="ppgFuzgDKPxGYCWf_8n9-1" source="1AtIv2fnpaZfyLQStqiJ-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="1AtIv2fnpaZfyLQStqiJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-3" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qarinid family&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="3320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
