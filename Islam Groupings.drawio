@@ -3161,6 +3161,21 @@
         <mxCell id="1AtIv2fnpaZfyLQStqiJ-5" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Isa b. Mahan" vertex="1">
           <mxGeometry height="60" width="200" x="960" y="3580" as="geometry" />
         </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-7" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids politics" vertex="1">
+          <mxGeometry height="80" width="520" x="590" y="3750" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-8" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Hadi" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="3880" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-9" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Barmakids" vertex="1">
+          <mxGeometry height="60" width="200" x="480" y="4000" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-10" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khayzuran (al-Hadi mother)" vertex="1">
+          <mxGeometry height="60" width="200" x="480" y="3880" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-11" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qarinids " vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="4000" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
