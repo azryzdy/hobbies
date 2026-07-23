@@ -3143,6 +3143,9 @@
         <mxCell id="ppgFuzgDKPxGYCWf_8n9-17" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dawud b. Ali" vertex="1">
           <mxGeometry height="60" width="200" x="1460" y="5020" as="geometry" />
         </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-6" edge="1" parent="ppgFuzgDKPxGYCWf_8n9-1" source="1AtIv2fnpaZfyLQStqiJ-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="1AtIv2fnpaZfyLQStqiJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1AtIv2fnpaZfyLQStqiJ-0" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Hadi" vertex="1">
           <mxGeometry height="60" width="200" x="960" y="3460" as="geometry" />
         </mxCell>
@@ -3154,6 +3157,9 @@
         </mxCell>
         <mxCell id="1AtIv2fnpaZfyLQStqiJ-3" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qarinid family&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="570" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="1AtIv2fnpaZfyLQStqiJ-5" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Isa b. Mahan" vertex="1">
+          <mxGeometry height="60" width="200" x="960" y="3580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
