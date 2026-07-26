@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Page-1" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="857" dy="3292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="443" dy="2765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -503,6 +503,15 @@
         </mxCell>
         <mxCell id="EWjfNM0WFQV--pJ5glOK-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Fadl&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="330" x="2670" y="3790" as="geometry" />
+        </mxCell>
+        <mxCell id="lAXUvrrFbzV2T-SUoydO-3" edge="1" parent="1" source="lAXUvrrFbzV2T-SUoydO-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="lAXUvrrFbzV2T-SUoydO-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lAXUvrrFbzV2T-SUoydO-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abnaʾ" vertex="1">
+          <mxGeometry height="60" width="330" x="1440" y="4120" as="geometry" />
+        </mxCell>
+        <mxCell id="lAXUvrrFbzV2T-SUoydO-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Harthama b. Aʿyan " vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="4120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
