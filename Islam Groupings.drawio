@@ -3294,6 +3294,21 @@
         <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-8" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. Mazyad al-Shaybani" vertex="1">
           <mxGeometry height="60" width="200" x="890" y="5420" as="geometry" />
         </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-10" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yemen revolt" vertex="1">
+          <mxGeometry height="80" width="520" x="660" y="5610" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-14" edge="1" parent="eMu5ke4CBslySgz-bn_X-1" source="O2oj5tKwEc9uBd2gJ2Pp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="O2oj5tKwEc9uBd2gJ2Pp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-11" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;display:inline;&quot;&gt;Harun al-Rashid (Abassid) &lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="970" y="5740" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-12" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Haysam b. Abd al-Majid al-Hamdani" vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="5740" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-13" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Berber freedman Hammad" vertex="1">
+          <mxGeometry height="60" width="200" x="970" y="5890" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
