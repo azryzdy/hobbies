@@ -3218,7 +3218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Harun al-Rashid" id="p94Zmjeehsv29cnGrsyF">
-    <mxGraphModel dx="643" dy="-1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1072" dy="-835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eMu5ke4CBslySgz-bn_X-0" />
         <mxCell id="eMu5ke4CBslySgz-bn_X-1" parent="eMu5ke4CBslySgz-bn_X-0" />
@@ -3263,6 +3263,36 @@
         </mxCell>
         <mxCell id="5uhSKCPq-vortaxnC7s6-6" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Syria&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="850" y="4430" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-0" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Egypt revolt" vertex="1">
+          <mxGeometry height="80" width="520" x="640" y="4680" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-4" edge="1" parent="eMu5ke4CBslySgz-bn_X-1" source="O2oj5tKwEc9uBd2gJ2Pp-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="O2oj5tKwEc9uBd2gJ2Pp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-1" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;display:inline;&quot;&gt;Harun al-Rashid (Abassid) &lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="980" y="4830" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-2" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Egypt " vertex="1">
+          <mxGeometry height="60" width="200" x="590" y="4830" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-3" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Harthama b. Aʿyan (Abna)" vertex="1">
+          <mxGeometry height="60" width="200" x="980" y="4960" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-5" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mosul revolt" vertex="1">
+          <mxGeometry height="80" width="520" x="650" y="5110" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-9" edge="1" parent="eMu5ke4CBslySgz-bn_X-1" source="O2oj5tKwEc9uBd2gJ2Pp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="O2oj5tKwEc9uBd2gJ2Pp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-6" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;display:inline;&quot;&gt;Harun al-Rashid (Abassid) &lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="1000" y="5280" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-7" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Walid b. Tarif" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="5280" as="geometry" />
+        </mxCell>
+        <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-8" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yazid b. Mazyad al-Shaybani" vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="5420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
