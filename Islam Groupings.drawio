@@ -3124,7 +3124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Mahdi" id="0zTp8OI-CIXz4G-RIj4b">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="-1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ppgFuzgDKPxGYCWf_8n9-0" />
         <mxCell id="ppgFuzgDKPxGYCWf_8n9-1" parent="ppgFuzgDKPxGYCWf_8n9-0" />
@@ -3175,6 +3175,21 @@
         </mxCell>
         <mxCell id="1AtIv2fnpaZfyLQStqiJ-11" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qarinids " vertex="1">
           <mxGeometry height="60" width="200" x="900" y="4000" as="geometry" />
+        </mxCell>
+        <mxCell id="5NQhjao5y77FDPs_jYO1-0" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids politics" vertex="1">
+          <mxGeometry height="80" width="520" x="570" y="4210" as="geometry" />
+        </mxCell>
+        <mxCell id="5NQhjao5y77FDPs_jYO1-1" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Hadi" vertex="1">
+          <mxGeometry height="60" width="200" x="880" y="4350" as="geometry" />
+        </mxCell>
+        <mxCell id="5NQhjao5y77FDPs_jYO1-2" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hashimite Idris b. Abdallah " vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="4470" as="geometry" />
+        </mxCell>
+        <mxCell id="5NQhjao5y77FDPs_jYO1-4" edge="1" parent="ppgFuzgDKPxGYCWf_8n9-1" source="5NQhjao5y77FDPs_jYO1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5NQhjao5y77FDPs_jYO1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NQhjao5y77FDPs_jYO1-3" parent="ppgFuzgDKPxGYCWf_8n9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alids" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="4350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
