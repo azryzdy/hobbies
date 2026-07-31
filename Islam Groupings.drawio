@@ -3233,7 +3233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Harun al-Rashid" id="p94Zmjeehsv29cnGrsyF">
-    <mxGraphModel dx="1072" dy="-835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eMu5ke4CBslySgz-bn_X-0" />
         <mxCell id="eMu5ke4CBslySgz-bn_X-1" parent="eMu5ke4CBslySgz-bn_X-0" />
@@ -3323,6 +3323,21 @@
         </mxCell>
         <mxCell id="O2oj5tKwEc9uBd2gJ2Pp-13" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Berber freedman Hammad" vertex="1">
           <mxGeometry height="60" width="200" x="970" y="5890" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt1E5bWNyFWXIF11GCwc-0" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azerbayjan" vertex="1">
+          <mxGeometry height="80" width="520" x="640" y="6150" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt1E5bWNyFWXIF11GCwc-1" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;display:inline;&quot;&gt;Harun al-Rashid (Abassid) &lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="6320" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt1E5bWNyFWXIF11GCwc-2" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qays&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="6450" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt1E5bWNyFWXIF11GCwc-3" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yaman" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="6550" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt1E5bWNyFWXIF11GCwc-4" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasids&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="850" y="6450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
