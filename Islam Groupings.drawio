@@ -3233,7 +3233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Harun al-Rashid" id="p94Zmjeehsv29cnGrsyF">
-    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="-1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eMu5ke4CBslySgz-bn_X-0" />
         <mxCell id="eMu5ke4CBslySgz-bn_X-1" parent="eMu5ke4CBslySgz-bn_X-0" />
@@ -3379,7 +3379,7 @@
           <mxGeometry height="60" width="200" x="940" y="7790" as="geometry" />
         </mxCell>
         <mxCell id="rix_zs1f8TQZHFRxV6vZ-15" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Isa (Abna)" vertex="1">
-          <mxGeometry height="60" width="200" x="940" y="7900" as="geometry" />
+          <mxGeometry height="60" width="200" x="940" y="7910" as="geometry" />
         </mxCell>
         <mxCell id="rix_zs1f8TQZHFRxV6vZ-17" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rafiʿ b. al-Layth (Umayyad)" vertex="1">
           <mxGeometry height="60" width="200" x="620" y="7790" as="geometry" />
@@ -3395,6 +3395,9 @@
         </mxCell>
         <mxCell id="rix_zs1f8TQZHFRxV6vZ-21" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Maʾmun (Abassid)" vertex="1">
           <mxGeometry height="60" width="200" x="1250" y="7850" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-23" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Harthama b. Aʿyan&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="8040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
