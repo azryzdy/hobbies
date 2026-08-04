@@ -3387,6 +3387,15 @@
         <mxCell id="rix_zs1f8TQZHFRxV6vZ-19" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Transoxiana" vertex="1">
           <mxGeometry height="60" width="200" x="430" y="7890" as="geometry" />
         </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-20" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Fadl b. Sahl (Barmakids)" vertex="1">
+          <mxGeometry height="60" width="200" x="1420" y="7950" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-22" edge="1" parent="eMu5ke4CBslySgz-bn_X-1" source="rix_zs1f8TQZHFRxV6vZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="rix_zs1f8TQZHFRxV6vZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-21" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Maʾmun (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="1250" y="7850" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
