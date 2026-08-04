@@ -3233,7 +3233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Harun al-Rashid" id="p94Zmjeehsv29cnGrsyF">
-    <mxGraphModel dx="536" dy="-1517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eMu5ke4CBslySgz-bn_X-0" />
         <mxCell id="eMu5ke4CBslySgz-bn_X-1" parent="eMu5ke4CBslySgz-bn_X-0" />
@@ -3353,6 +3353,36 @@
         </mxCell>
         <mxCell id="rix_zs1f8TQZHFRxV6vZ-3" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abnaʾ" vertex="1">
           <mxGeometry height="60" width="200" x="940" y="7020" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-7" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khurasan uprising" vertex="1">
+          <mxGeometry height="80" width="520" x="620" y="7670" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-8" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;display:inline;&quot;&gt;Harun al-Rashid (Abassid) &lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="930" y="7440" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-9" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Isa (Abna)" vertex="1">
+          <mxGeometry height="60" width="200" x="930" y="7550" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-12" edge="1" parent="eMu5ke4CBslySgz-bn_X-1" source="rix_zs1f8TQZHFRxV6vZ-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="rix_zs1f8TQZHFRxV6vZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-10" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kharijite " vertex="1">
+          <mxGeometry height="60" width="200" x="620" y="7440" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-11" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hamza b. Abdallah " vertex="1">
+          <mxGeometry height="60" width="200" x="620" y="7550" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-13" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sijistan&amp;nbsp;uprising" vertex="1">
+          <mxGeometry height="80" width="520" x="610" y="7310" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-14" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;display:inline;&quot;&gt;Harun al-Rashid (Abassid) &lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="7790" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-15" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Isa (Abna)" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="7900" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-17" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rafiʿ b. al-Layth (Umayyad)" vertex="1">
+          <mxGeometry height="60" width="200" x="600" y="7790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
