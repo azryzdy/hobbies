@@ -1786,7 +1786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid I ibn Abd al Malik time" id="NwKpdH1_GlGGL6mJ0UNU">
-    <mxGraphModel dx="756" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YfW3fot1GJZGJGbYonj1-0" />
         <mxCell id="YfW3fot1GJZGJGbYonj1-1" parent="YfW3fot1GJZGJGbYonj1-0" />
@@ -3242,7 +3242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Harun al-Rashid" id="p94Zmjeehsv29cnGrsyF">
-    <mxGraphModel dx="919" dy="-1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="536" dy="-1517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eMu5ke4CBslySgz-bn_X-0" />
         <mxCell id="eMu5ke4CBslySgz-bn_X-1" parent="eMu5ke4CBslySgz-bn_X-0" />
@@ -3387,7 +3387,7 @@
         <mxCell id="rix_zs1f8TQZHFRxV6vZ-14" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;display:inline;&quot;&gt;Harun al-Rashid (Abassid) &lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="940" y="7790" as="geometry" />
         </mxCell>
-        <mxCell id="rix_zs1f8TQZHFRxV6vZ-15" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Isa (Abna)" vertex="1">
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-15" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Isa b. Mahan (Abna)" vertex="1">
           <mxGeometry height="60" width="200" x="940" y="7910" as="geometry" />
         </mxCell>
         <mxCell id="rix_zs1f8TQZHFRxV6vZ-17" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rafiʿ b. al-Layth (Umayyad)" vertex="1">
