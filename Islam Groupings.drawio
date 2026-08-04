@@ -3382,7 +3382,10 @@
           <mxGeometry height="60" width="200" x="940" y="7900" as="geometry" />
         </mxCell>
         <mxCell id="rix_zs1f8TQZHFRxV6vZ-17" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rafiʿ b. al-Layth (Umayyad)" vertex="1">
-          <mxGeometry height="60" width="200" x="600" y="7790" as="geometry" />
+          <mxGeometry height="60" width="200" x="620" y="7790" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-19" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Transoxiana" vertex="1">
+          <mxGeometry height="60" width="200" x="430" y="7890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
