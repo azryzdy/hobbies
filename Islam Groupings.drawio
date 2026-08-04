@@ -3233,7 +3233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Harun al-Rashid" id="p94Zmjeehsv29cnGrsyF">
-    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="536" dy="-1517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eMu5ke4CBslySgz-bn_X-0" />
         <mxCell id="eMu5ke4CBslySgz-bn_X-1" parent="eMu5ke4CBslySgz-bn_X-0" />
@@ -3338,6 +3338,21 @@
         </mxCell>
         <mxCell id="Pt1E5bWNyFWXIF11GCwc-4" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasids&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="850" y="6450" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-0" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid politics III" vertex="1">
+          <mxGeometry height="80" width="520" x="650" y="6760" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-1" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;display:inline;&quot;&gt;Harun al-Rashid (Abassid) &lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="6890" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-2" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Isa b. Mahan&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="7130" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-6" edge="1" parent="eMu5ke4CBslySgz-bn_X-1" source="rix_zs1f8TQZHFRxV6vZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="rix_zs1f8TQZHFRxV6vZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rix_zs1f8TQZHFRxV6vZ-3" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abnaʾ" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="7020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
