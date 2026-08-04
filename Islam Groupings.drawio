@@ -1786,7 +1786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Walid I ibn Abd al Malik time" id="NwKpdH1_GlGGL6mJ0UNU">
-    <mxGraphModel dx="495" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YfW3fot1GJZGJGbYonj1-0" />
         <mxCell id="YfW3fot1GJZGJGbYonj1-1" parent="YfW3fot1GJZGJGbYonj1-0" />
@@ -1840,6 +1840,15 @@
         </mxCell>
         <mxCell id="5QAQvw7AAZN89_maAOGq-7" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tension within Governor of Mecca" vertex="1">
           <mxGeometry height="80" width="480" x="610" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="yPIcT_PgShkcwRAthu22-0" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Badhghis uprising" vertex="1">
+          <mxGeometry height="80" width="480" x="580" y="-430" as="geometry" />
+        </mxCell>
+        <mxCell id="yPIcT_PgShkcwRAthu22-1" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qutayba b. Muslim" vertex="1">
+          <mxGeometry height="60" width="200" x="590" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="yPIcT_PgShkcwRAthu22-2" parent="YfW3fot1GJZGJGbYonj1-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umayyad" vertex="1">
+          <mxGeometry height="60" width="200" x="890" y="-290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
