@@ -3412,7 +3412,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1EQnP6gc9oCoXh4nbY78" name="Al-Ma&#39;mun">
-    <mxGraphModel dx="2186" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3460,6 +3460,27 @@
         </mxCell>
         <mxCell id="KkbfKgggjavrmo3hBEnB-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibrahim b. al-Mahdi" vertex="1">
           <mxGeometry height="60" width="200" x="-320" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="aXNUkagblTX2YXKscXMM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qays rebellion" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="aXNUkagblTX2YXKscXMM-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abdallah b. Tahir (Tahir)" vertex="1">
+          <mxGeometry height="60" width="200" x="100" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="aXNUkagblTX2YXKscXMM-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Shabath al-Uqayli (Qays)" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="aXNUkagblTX2YXKscXMM-5" edge="1" parent="1" source="aXNUkagblTX2YXKscXMM-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="aXNUkagblTX2YXKscXMM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aXNUkagblTX2YXKscXMM-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="l-Maʾmun’s (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="100" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="aXNUkagblTX2YXKscXMM-7" edge="1" parent="1" source="aXNUkagblTX2YXKscXMM-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="aXNUkagblTX2YXKscXMM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aXNUkagblTX2YXKscXMM-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qays" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
