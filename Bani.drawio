@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Page-1" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="919" dy="3370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="536" dy="2883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,6 +474,9 @@
         <mxCell id="r59EUpsTojXZvJyB6L8P-7" edge="1" parent="1" source="r59EUpsTojXZvJyB6L8P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="r59EUpsTojXZvJyB6L8P-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-TQfAvFv5kXT7oP67y2s-5" edge="1" parent="1" source="r59EUpsTojXZvJyB6L8P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="-TQfAvFv5kXT7oP67y2s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r59EUpsTojXZvJyB6L8P-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Qays" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="-1190" as="geometry" />
         </mxCell>
@@ -525,11 +528,14 @@
         <mxCell id="-TQfAvFv5kXT7oP67y2s-3" edge="1" parent="1" source="-TQfAvFv5kXT7oP67y2s-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="-TQfAvFv5kXT7oP67y2s-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TQfAvFv5kXT7oP67y2s-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tahirid " vertex="1">
+        <mxCell id="-TQfAvFv5kXT7oP67y2s-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tahirid family" vertex="1">
           <mxGeometry height="60" width="330" x="1440" y="4570" as="geometry" />
         </mxCell>
         <mxCell id="-TQfAvFv5kXT7oP67y2s-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abdallah b. Tahir" vertex="1">
           <mxGeometry height="60" width="330" x="1910" y="4570" as="geometry" />
+        </mxCell>
+        <mxCell id="-TQfAvFv5kXT7oP67y2s-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Shabath al-&lt;br&gt;Uqayli" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-1020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
