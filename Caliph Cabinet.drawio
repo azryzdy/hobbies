@@ -55,7 +55,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="al-Mansur" id="i4tyVbGzePY0Me1F0XWD">
-    <mxGraphModel dx="367" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="642" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LNetKDe9DnmTrZ57bu2h-0" />
         <mxCell id="LNetKDe9DnmTrZ57bu2h-1" parent="LNetKDe9DnmTrZ57bu2h-0" />
@@ -70,6 +70,21 @@
         </mxCell>
         <mxCell id="LNetKDe9DnmTrZ57bu2h-7" edge="1" parent="LNetKDe9DnmTrZ57bu2h-1" source="LNetKDe9DnmTrZ57bu2h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="LNetKDe9DnmTrZ57bu2h-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoFXaHhs9QaYjZkjPtV-3" edge="1" parent="LNetKDe9DnmTrZ57bu2h-1" source="2ZoFXaHhs9QaYjZkjPtV-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="2ZoFXaHhs9QaYjZkjPtV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoFXaHhs9QaYjZkjPtV-0" parent="LNetKDe9DnmTrZ57bu2h-1" style="rounded=0;whiteSpace=wrap;html=1;" value="astronomy&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="630" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoFXaHhs9QaYjZkjPtV-4" edge="1" parent="LNetKDe9DnmTrZ57bu2h-1" source="2ZoFXaHhs9QaYjZkjPtV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="2ZoFXaHhs9QaYjZkjPtV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoFXaHhs9QaYjZkjPtV-1" parent="LNetKDe9DnmTrZ57bu2h-1" style="rounded=0;whiteSpace=wrap;html=1;" value="astrology" vertex="1">
+          <mxGeometry height="60" width="200" x="920" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoFXaHhs9QaYjZkjPtV-2" parent="LNetKDe9DnmTrZ57bu2h-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhammad b. Ibrahim al-Fazari&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="770" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
