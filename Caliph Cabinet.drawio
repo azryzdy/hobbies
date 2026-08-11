@@ -1,9 +1,82 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Page-1" id="LQUKev12AdwddVR1sWU7">
-    <mxGraphModel dx="1377" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" pages="3">
+  <diagram name="Al-Mahdi" id="5E8lGr0oHkjS_ZOUAAwb">
+    <mxGraphModel dx="642" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="RlYmuTJkZx2ChR0n955G-0" />
+        <mxCell id="RlYmuTJkZx2ChR0n955G-1" parent="RlYmuTJkZx2ChR0n955G-0" />
+        <mxCell id="RlYmuTJkZx2ChR0n955G-2" parent="RlYmuTJkZx2ChR0n955G-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Mahdi" vertex="1">
+          <mxGeometry height="80" width="520" x="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlYmuTJkZx2ChR0n955G-3" parent="RlYmuTJkZx2ChR0n955G-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nestorian Theophilus of Edessa&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="370" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="RlYmuTJkZx2ChR0n955G-4" parent="RlYmuTJkZx2ChR0n955G-1" style="rounded=0;whiteSpace=wrap;html=1;" value="astrologer&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="490" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NPdzaJ5ergeTOe61R0tv-0" parent="RlYmuTJkZx2ChR0n955G-1" style="rounded=0;whiteSpace=wrap;html=1;" value="military advisor&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="240" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NPdzaJ5ergeTOe61R0tv-2" edge="1" parent="RlYmuTJkZx2ChR0n955G-1" source="RlYmuTJkZx2ChR0n955G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="RlYmuTJkZx2ChR0n955G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPdzaJ5ergeTOe61R0tv-3" edge="1" parent="RlYmuTJkZx2ChR0n955G-1" source="NPdzaJ5ergeTOe61R0tv-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="RlYmuTJkZx2ChR0n955G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Harun al-Rashid" id="LQUKev12AdwddVR1sWU7">
+    <mxGraphModel dx="755" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u-3lcCbDXIyCcDs8kV5f-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Harun al-Rashid" vertex="1">
+          <mxGeometry height="80" width="520" x="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-3lcCbDXIyCcDs8kV5f-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bakhtishuʿ b. Jurjis" vertex="1">
+          <mxGeometry height="60" width="200" x="490" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="DOdPdi0g0xG47xESGLLF-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="physician&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="490" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="al-Maʾmun" id="_f2ZsOkkoNuqxf9jpHRO">
+    <mxGraphModel dx="642" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="cprQFbjasSARMlv7V8eP-0" />
+        <mxCell id="cprQFbjasSARMlv7V8eP-1" parent="cprQFbjasSARMlv7V8eP-0" />
+        <mxCell id="cprQFbjasSARMlv7V8eP-2" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Maʾmun" vertex="1">
+          <mxGeometry height="80" width="520" x="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cprQFbjasSARMlv7V8eP-3" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jewish John bar Masarjawayh" vertex="1">
+          <mxGeometry height="60" width="200" x="490" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="HnUv3mYPXWdleFilPCxL-3" edge="1" parent="cprQFbjasSARMlv7V8eP-1" source="HnUv3mYPXWdleFilPCxL-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="cprQFbjasSARMlv7V8eP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HnUv3mYPXWdleFilPCxL-0" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Presiding over the medical school" vertex="1">
+          <mxGeometry height="60" width="200" x="490" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="HnUv3mYPXWdleFilPCxL-2" edge="1" parent="cprQFbjasSARMlv7V8eP-1" source="HnUv3mYPXWdleFilPCxL-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="HnUv3mYPXWdleFilPCxL-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HnUv3mYPXWdleFilPCxL-1" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Baghdad" vertex="1">
+          <mxGeometry height="60" width="200" x="490" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HnUv3mYPXWdleFilPCxL-4" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nestorian Jurjis&lt;br&gt;b. Bakhtishuʿ" vertex="1">
+          <mxGeometry height="60" width="200" x="190" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="HnUv3mYPXWdleFilPCxL-6" edge="1" parent="cprQFbjasSARMlv7V8eP-1" source="HnUv3mYPXWdleFilPCxL-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="HnUv3mYPXWdleFilPCxL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HnUv3mYPXWdleFilPCxL-5" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="court physician&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="190" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="HnUv3mYPXWdleFilPCxL-7" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nestorian Jurjis&lt;br&gt;b. Bakhtishuʿ" vertex="1">
+          <mxGeometry height="60" width="200" x="760" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
