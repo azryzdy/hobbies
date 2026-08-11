@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="3">
+<mxfile host="app.diagrams.net" pages="4">
   <diagram name="Al-Mahdi" id="5E8lGr0oHkjS_ZOUAAwb">
     <mxGraphModel dx="306" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,8 +54,28 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="al-Mansur" id="i4tyVbGzePY0Me1F0XWD">
+    <mxGraphModel dx="367" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="LNetKDe9DnmTrZ57bu2h-0" />
+        <mxCell id="LNetKDe9DnmTrZ57bu2h-1" parent="LNetKDe9DnmTrZ57bu2h-0" />
+        <mxCell id="LNetKDe9DnmTrZ57bu2h-2" parent="LNetKDe9DnmTrZ57bu2h-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mansur" vertex="1">
+          <mxGeometry height="80" width="520" x="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNetKDe9DnmTrZ57bu2h-3" parent="LNetKDe9DnmTrZ57bu2h-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nestorian Jurjis&lt;br&gt;b. Bakhtishuʿ" vertex="1">
+          <mxGeometry height="60" width="200" x="360" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="LNetKDe9DnmTrZ57bu2h-5" parent="LNetKDe9DnmTrZ57bu2h-1" style="rounded=0;whiteSpace=wrap;html=1;" value="court physician&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="240" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="LNetKDe9DnmTrZ57bu2h-7" edge="1" parent="LNetKDe9DnmTrZ57bu2h-1" source="LNetKDe9DnmTrZ57bu2h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="LNetKDe9DnmTrZ57bu2h-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="al-Maʾmun" id="_f2ZsOkkoNuqxf9jpHRO">
-    <mxGraphModel dx="642" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="755" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cprQFbjasSARMlv7V8eP-0" />
         <mxCell id="cprQFbjasSARMlv7V8eP-1" parent="cprQFbjasSARMlv7V8eP-0" />
@@ -76,18 +96,6 @@
         </mxCell>
         <mxCell id="HnUv3mYPXWdleFilPCxL-1" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Baghdad" vertex="1">
           <mxGeometry height="60" width="200" x="490" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="HnUv3mYPXWdleFilPCxL-4" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nestorian Jurjis&lt;br&gt;b. Bakhtishuʿ" vertex="1">
-          <mxGeometry height="60" width="200" x="190" y="470" as="geometry" />
-        </mxCell>
-        <mxCell id="HnUv3mYPXWdleFilPCxL-6" edge="1" parent="cprQFbjasSARMlv7V8eP-1" source="HnUv3mYPXWdleFilPCxL-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="HnUv3mYPXWdleFilPCxL-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HnUv3mYPXWdleFilPCxL-5" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="court physician&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="190" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="HnUv3mYPXWdleFilPCxL-7" parent="cprQFbjasSARMlv7V8eP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nestorian Jurjis&lt;br&gt;b. Bakhtishuʿ" vertex="1">
-          <mxGeometry height="60" width="200" x="760" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
