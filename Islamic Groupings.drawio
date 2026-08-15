@@ -3412,7 +3412,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Ma&#39;mun" id="gpLNiAJuAb7P8qNI9LIL">
-    <mxGraphModel dx="1769" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3593,112 +3593,40 @@
         <mxCell id="Ioh7O5ZZK3Yb19CT-0cM-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Afshin" vertex="1">
           <mxGeometry height="60" width="200" x="170" y="4210" as="geometry" />
         </mxCell>
+        <mxCell id="YIc5XmJ7r-O3TiRJrdBy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Theophilus" vertex="1">
+          <mxGeometry height="60" width="200" x="-300" y="4030" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="al-Muʿtasim (Abassid)" id="9DVNUqZgBrMLvXIyNG6S">
-    <mxGraphModel dx="2458" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="-136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gbv5QMmi_YmjJ04QsNpw-0" />
         <mxCell id="Gbv5QMmi_YmjJ04QsNpw-1" parent="Gbv5QMmi_YmjJ04QsNpw-0" />
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-2" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Maʾmun" vertex="1">
-          <mxGeometry height="60" width="200" x="100" y="230" as="geometry" />
+        <mxCell id="AFfC4u5aovCLOG6RAlDQ-0" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khurramiyya rebellion I" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="2140" as="geometry" />
         </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-3" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid politics" vertex="1">
-          <mxGeometry height="80" width="520" x="-230" y="100" as="geometry" />
+        <mxCell id="AFfC4u5aovCLOG6RAlDQ-1" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Maʾmun’s (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="60" y="2280" as="geometry" />
         </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-4" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Musa al-Rida (Alid)" vertex="1">
-          <mxGeometry height="60" width="200" x="200" y="340" as="geometry" />
+        <mxCell id="AFfC4u5aovCLOG6RAlDQ-2" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Babak al-Khurrami " vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="2280" as="geometry" />
         </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-5" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid Civil War II" vertex="1">
-          <mxGeometry height="80" width="520" x="-230" y="450" as="geometry" />
+        <mxCell id="AFfC4u5aovCLOG6RAlDQ-3" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Afshin" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="2400" as="geometry" />
         </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-6" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Maʾmun" vertex="1">
-          <mxGeometry height="60" width="200" x="100" y="590" as="geometry" />
+        <mxCell id="AFfC4u5aovCLOG6RAlDQ-9" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Military campaigns against Amorion" vertex="1">
+          <mxGeometry height="80" width="520" x="-280" y="2690" as="geometry" />
         </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-7" edge="1" parent="Gbv5QMmi_YmjJ04QsNpw-1" source="Gbv5QMmi_YmjJ04QsNpw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gbv5QMmi_YmjJ04QsNpw-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AFfC4u5aovCLOG6RAlDQ-10" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Maʾmun’s (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="10" y="2850" as="geometry" />
         </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-8" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alid" vertex="1">
-          <mxGeometry height="60" width="200" x="200" y="690" as="geometry" />
+        <mxCell id="AFfC4u5aovCLOG6RAlDQ-11" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Afshin" vertex="1">
+          <mxGeometry height="60" width="200" x="130" y="3030" as="geometry" />
         </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-9" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Musa al-Rida (Alid)" vertex="1">
-          <mxGeometry height="60" width="200" x="310" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-10" edge="1" parent="Gbv5QMmi_YmjJ04QsNpw-1" source="Gbv5QMmi_YmjJ04QsNpw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gbv5QMmi_YmjJ04QsNpw-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-11" edge="1" parent="Gbv5QMmi_YmjJ04QsNpw-1" source="Gbv5QMmi_YmjJ04QsNpw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gbv5QMmi_YmjJ04QsNpw-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-12" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Baghdad " vertex="1">
-          <mxGeometry height="60" width="200" x="-320" y="700" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-13" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasid family " vertex="1">
-          <mxGeometry height="60" width="200" x="-200" y="810" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-14" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mercantile  elite " vertex="1">
-          <mxGeometry height="60" width="200" x="-440" y="810" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-15" edge="1" parent="Gbv5QMmi_YmjJ04QsNpw-1" source="Gbv5QMmi_YmjJ04QsNpw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gbv5QMmi_YmjJ04QsNpw-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-16" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibrahim b. al-Mahdi" vertex="1">
-          <mxGeometry height="60" width="200" x="-320" y="590" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-17" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qays rebellion" vertex="1">
-          <mxGeometry height="80" width="520" x="-230" y="1110" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-18" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abdallah b. Tahir (Tahir)" vertex="1">
-          <mxGeometry height="60" width="200" x="100" y="1410" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-19" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Shabath al-Uqayli (Qays)" vertex="1">
-          <mxGeometry height="60" width="200" x="-250" y="1410" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-20" edge="1" parent="Gbv5QMmi_YmjJ04QsNpw-1" source="Gbv5QMmi_YmjJ04QsNpw-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Gbv5QMmi_YmjJ04QsNpw-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-21" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Maʾmun’s (Abassid) " vertex="1">
-          <mxGeometry height="60" width="200" x="100" y="1260" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-22" edge="1" parent="Gbv5QMmi_YmjJ04QsNpw-1" source="Gbv5QMmi_YmjJ04QsNpw-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Gbv5QMmi_YmjJ04QsNpw-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-23" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qays" vertex="1">
-          <mxGeometry height="60" width="200" x="-250" y="1260" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-24" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid politics II" vertex="1">
-          <mxGeometry height="80" width="520" x="-230" y="1650" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-25" edge="1" parent="Gbv5QMmi_YmjJ04QsNpw-1" source="Gbv5QMmi_YmjJ04QsNpw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Gbv5QMmi_YmjJ04QsNpw-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-26" edge="1" parent="Gbv5QMmi_YmjJ04QsNpw-1" source="Gbv5QMmi_YmjJ04QsNpw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Gbv5QMmi_YmjJ04QsNpw-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-27" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Maʾmun’s (Abassid) " vertex="1">
-          <mxGeometry height="60" width="200" x="190" y="1795" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-28" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Samanids" vertex="1">
-          <mxGeometry height="60" width="200" x="80" y="1930" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-29" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qarinid&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="330" y="1930" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-50" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasid incursions into Byzantine " vertex="1">
-          <mxGeometry height="80" width="520" x="-230" y="3410" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-51" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Maʾmun’s (Abassid) " vertex="1">
-          <mxGeometry height="60" width="200" x="80" y="3570" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-52" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Muʿtasim (Abassid)" vertex="1">
-          <mxGeometry height="60" width="200" x="130" y="3690" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-53" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Abbas (Abassid)" vertex="1">
-          <mxGeometry height="60" width="200" x="360" y="3690" as="geometry" />
-        </mxCell>
-        <mxCell id="Gbv5QMmi_YmjJ04QsNpw-54" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Theophilus&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="-310" y="3570" as="geometry" />
+        <mxCell id="AFfC4u5aovCLOG6RAlDQ-12" parent="Gbv5QMmi_YmjJ04QsNpw-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Theophilus" vertex="1">
+          <mxGeometry height="60" width="200" x="-340" y="2850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
