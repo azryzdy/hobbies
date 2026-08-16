@@ -1,0 +1,632 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" pages="2">
+  <diagram name="Bani" id="TrGZFDelVthUmvKt1ggT">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-2" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_dCdlJ7_7hCZSDcvXVxu-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5p_uKpX19rIzOTSQKm9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Makhzum&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-4" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_dCdlJ7_7hCZSDcvXVxu-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5p_uKpX19rIzOTSQKm9-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū ʿAmr ibn ʿAwf" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-6" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_dCdlJ7_7hCZSDcvXVxu-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-17" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_dCdlJ7_7hCZSDcvXVxu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-18" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_dCdlJ7_7hCZSDcvXVxu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-19" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="G5p_uKpX19rIzOTSQKm9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-20" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_dCdlJ7_7hCZSDcvXVxu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-21" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_dCdlJ7_7hCZSDcvXVxu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-22" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_dCdlJ7_7hCZSDcvXVxu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-23" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_dCdlJ7_7hCZSDcvXVxu-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-25" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_dCdlJ7_7hCZSDcvXVxu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-26" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_dCdlJ7_7hCZSDcvXVxu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5p_uKpX19rIzOTSQKm9-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banu Abd Shams" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="G5p_uKpX19rIzOTSQKm9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uqbah ibn Wahb, the brother of Shujā" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-As-wad ibn ʿAbd al-Asad al-Makhzūmī" vertex="1">
+          <mxGeometry height="60" width="300" x="230" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Āṣim ibn Thābit ibn Abī al-Aqlaḥ" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Uthman ibn Affan&amp;nbsp; &amp;nbsp; [ibn Abi al-As]" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abū Ḥudhayfah ibn ʿUtbah ibn Rabīʿah" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Shujāʿ ibn Wahb al-Asadī" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mālik ibn ʿAmr" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rabīʿah ibn Aktham, two allies of theirs" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ukkāshah ibn Miḥṣan" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muḥriz ibn Wahb" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arbad ibn Ruqaysh" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abū Sinān ibn Wahb" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sinān ibn Abī Sinān" vertex="1">
+          <mxGeometry height="60" width="330" x="230" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="_dCdlJ7_7hCZSDcvXVxu-24" edge="1" parent="1" source="G5p_uKpX19rIzOTSQKm9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" target="_dCdlJ7_7hCZSDcvXVxu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-3" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū ʿAbd al-Ashhal" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Salamah ibn Salāmah" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-6" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū ʿAmr ibn ʿAwf&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Āṣim ibn Thābit ibn Abī al-Aqlaḥ" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-9" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Bayāḍah" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zayd ibn al-Dathinah" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-12" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banū Kalafah ibn ʿAwf ibn ʿAmr ibn ʿAwf ibn Mālik ibn Aws" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-14" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū Jaḥjabā" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Khubayb ibn ʿAdī" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-16" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khazraj tribe" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-19" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-17" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū Sāʿidah" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&amp;nbsp;al-Mundhir ibn ʿAmr" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-20" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ḥarām ibn Milḥān" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-22" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū ʿAdī ibn al-Najjār" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-25" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-27" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yb8Yuji2DkAxrVri0Os5-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-23" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū ʿĀmir&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1950" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Āmir ibn Mālik" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1950" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-26" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="ʿĀmir ibn al-Ṭufayl" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-31" edge="1" parent="1" source="yb8Yuji2DkAxrVri0Os5-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="yb8Yuji2DkAxrVri0Os5-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-28" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū al-Naḍīr" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="yb8Yuji2DkAxrVri0Os5-30" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Kaʿb ibn al-Ashraf" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-3" edge="1" parent="1" source="Uei_kTVExLXPiuFEWOEJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Uei_kTVExLXPiuFEWOEJ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banu Salimah" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abu Qatadah ibn Rib&#39;i ibn Baldamah " vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-4" edge="1" parent="1" source="Uei_kTVExLXPiuFEWOEJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Uei_kTVExLXPiuFEWOEJ-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banu Bar" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="As&#39;ad ibn Haram" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-10" edge="1" parent="1" source="Uei_kTVExLXPiuFEWOEJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Uei_kTVExLXPiuFEWOEJ-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū ʿAmr ibn ʿAwf" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Thābit ibn Aqram" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-14" edge="1" parent="1" source="Uei_kTVExLXPiuFEWOEJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Uei_kTVExLXPiuFEWOEJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū&lt;br&gt;al-Ḥārith ibn Fihr" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2600" as="geometry" />
+        </mxCell>
+        <mxCell id="Uei_kTVExLXPiuFEWOEJ-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abū ʿUbaydah ibn al-Jarrāḥ" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2600" as="geometry" />
+        </mxCell>
+        <mxCell id="zGERLI3A-0Zur28JEils-4" edge="1" parent="1" source="zGERLI3A-0Zur28JEils-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="2730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGERLI3A-0Zur28JEils-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banū ʿAbd al-Dār&amp;nbsp;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="zGERLI3A-0Zur28JEils-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Muṣʿab ibn ʿUmayr&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-5" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZGEQMpGjdXS_IJ72RnJ9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-6" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZGEQMpGjdXS_IJ72RnJ9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-7" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZGEQMpGjdXS_IJ72RnJ9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9glI2BGG5ZdMJ8Q3zfsv-2" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9glI2BGG5ZdMJ8Q3zfsv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-9" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNOf2l5cFYbsoK2m2F4r-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Thaqif/Thaqafi" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Mughira b. Shu‘ba" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ziyad&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ubayd Allah" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="2970" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-11" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZGEQMpGjdXS_IJ72RnJ9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Kalb" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="3450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGEQMpGjdXS_IJ72RnJ9-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Quda‘a" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="3450" as="geometry" />
+        </mxCell>
+        <mxCell id="9glI2BGG5ZdMJ8Q3zfsv-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Mukhtar" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="3050" as="geometry" />
+        </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-4" edge="1" parent="1" source="FNOf2l5cFYbsoK2m2F4r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNOf2l5cFYbsoK2m2F4r-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-5" edge="1" parent="1" source="FNOf2l5cFYbsoK2m2F4r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNOf2l5cFYbsoK2m2F4r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRR4q3hsx4XJzGnBq_h--1" edge="1" parent="1" source="FNOf2l5cFYbsoK2m2F4r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNOf2l5cFYbsoK2m2F4r-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Umayyad" vertex="1">
+          <mxGeometry height="60" width="330" x="1260" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="‘Amr b. Sa‘id al-Ashdaq" vertex="1">
+          <mxGeometry height="60" width="330" x="1760" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Marwan I ibn al-Hakam" vertex="1">
+          <mxGeometry height="60" width="330" x="1760" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abd Allah Ibn&lt;br&gt;‘Umar&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1760" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="FNOf2l5cFYbsoK2m2F4r-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Hajjaj" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="3140" as="geometry" />
+        </mxCell>
+        <mxCell id="6-pCq8Z07bTfFQXvOr0S-5" edge="1" parent="1" source="7fHL11S82EaweBNOzoeL-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="6-pCq8Z07bTfFQXvOr0S-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6-pCq8Z07bTfFQXvOr0S-6" edge="1" parent="1" source="7fHL11S82EaweBNOzoeL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="6-pCq8Z07bTfFQXvOr0S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-12" edge="1" parent="1" source="7fHL11S82EaweBNOzoeL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LnQhSuuf8JhPpbdUEH_J-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r59EUpsTojXZvJyB6L8P-2" edge="1" parent="1" source="7fHL11S82EaweBNOzoeL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="r59EUpsTojXZvJyB6L8P-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fHL11S82EaweBNOzoeL-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Azd" vertex="1">
+          <mxGeometry height="60" width="330" x="1400" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="7fHL11S82EaweBNOzoeL-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abd al-Rahman b. al-&lt;br&gt;Ash‘ath" vertex="1">
+          <mxGeometry height="60" width="330" x="1795" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="6-pCq8Z07bTfFQXvOr0S-2" edge="1" parent="1" source="6-pCq8Z07bTfFQXvOr0S-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7fHL11S82EaweBNOzoeL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6-pCq8Z07bTfFQXvOr0S-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Kinda" vertex="1">
+          <mxGeometry height="60" width="330" x="1400" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="6-pCq8Z07bTfFQXvOr0S-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Al-Muhallab b. Abi Sufra" vertex="1">
+          <mxGeometry height="60" width="330" x="1810" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="6-pCq8Z07bTfFQXvOr0S-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Yazid b. al-Muhallab" vertex="1">
+          <mxGeometry height="60" width="330" x="1810" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-6" edge="1" parent="1" source="LnQhSuuf8JhPpbdUEH_J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LnQhSuuf8JhPpbdUEH_J-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1860" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Mudar" vertex="1">
+          <mxGeometry height="60" width="330" x="1430" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-8" edge="1" parent="1" source="LnQhSuuf8JhPpbdUEH_J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LnQhSuuf8JhPpbdUEH_J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Yemen" vertex="1">
+          <mxGeometry height="60" width="330" x="1430" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-10" edge="1" parent="1" source="LnQhSuuf8JhPpbdUEH_J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LnQhSuuf8JhPpbdUEH_J-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Tamimi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1860" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Harith b. Surayj" vertex="1">
+          <mxGeometry height="60" width="330" x="1860" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of&amp;nbsp;Tamim/Tameem/Tamimi/Bitaah" vertex="1">
+          <mxGeometry height="60" width="330" x="1860" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Harith b. Surayj" vertex="1">
+          <mxGeometry height="60" width="330" x="2300" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="jkunSHWBBZtPAmBoXJuU-3" edge="1" parent="1" source="LnQhSuuf8JhPpbdUEH_J-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="jkunSHWBBZtPAmBoXJuU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkunSHWBBZtPAmBoXJuU-4" edge="1" parent="1" source="LnQhSuuf8JhPpbdUEH_J-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="jkunSHWBBZtPAmBoXJuU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnQhSuuf8JhPpbdUEH_J-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Juday‘ al-Kirmani" vertex="1">
+          <mxGeometry height="60" width="330" x="1810" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="briEcNmr-785oGJGjas_-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Mansur b. Jumhur al-Kalbi" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="3550" as="geometry" />
+        </mxCell>
+        <mxCell id="briEcNmr-785oGJGjas_-2" edge="1" parent="1" source="ZGEQMpGjdXS_IJ72RnJ9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="briEcNmr-785oGJGjas_-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="3585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRR4q3hsx4XJzGnBq_h--5" edge="1" parent="1" source="aRR4q3hsx4XJzGnBq_h--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aRR4q3hsx4XJzGnBq_h--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRR4q3hsx4XJzGnBq_h--2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Qurashi / Quraysh" vertex="1">
+          <mxGeometry height="60" width="330" x="1430" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="aRR4q3hsx4XJzGnBq_h--4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abd Allah Ibn&lt;br&gt;‘Umar&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1880" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPDwYd_0IMm-FQkEKU5I-3" edge="1" parent="1" source="ZPDwYd_0IMm-FQkEKU5I-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="ZPDwYd_0IMm-FQkEKU5I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPDwYd_0IMm-FQkEKU5I-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Hashim/Hashimiyya&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1440" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPDwYd_0IMm-FQkEKU5I-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abu Muslim" vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="jkunSHWBBZtPAmBoXJuU-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ali‘ al-Kirmani" vertex="1">
+          <mxGeometry height="60" width="330" x="2250" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="jkunSHWBBZtPAmBoXJuU-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Uthman al-Kirmani" vertex="1">
+          <mxGeometry height="60" width="330" x="2250" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-6" edge="1" parent="1" source="skmV5x8JPR5NPZOX_D1J-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="skmV5x8JPR5NPZOX_D1J-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Alids" vertex="1">
+          <mxGeometry height="60" width="330" x="1430" y="2580" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ali b. Abdallah " vertex="1">
+          <mxGeometry height="60" width="330" x="2260" y="2580" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Muhammad b. Ali " vertex="1">
+          <mxGeometry height="60" width="330" x="2260" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-7" edge="1" parent="1" source="skmV5x8JPR5NPZOX_D1J-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="skmV5x8JPR5NPZOX_D1J-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-8" edge="1" parent="1" source="skmV5x8JPR5NPZOX_D1J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="skmV5x8JPR5NPZOX_D1J-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-10" edge="1" parent="1" source="skmV5x8JPR5NPZOX_D1J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="skmV5x8JPR5NPZOX_D1J-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ali ibn Abi Taalib" vertex="1">
+          <mxGeometry height="60" width="330" x="1850" y="2580" as="geometry" />
+        </mxCell>
+        <mxCell id="skmV5x8JPR5NPZOX_D1J-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Muhammad b. al-Hanafiyya" vertex="1">
+          <mxGeometry height="60" width="330" x="2260" y="2810" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-4" edge="1" parent="1" source="m9jwwgq78fVTW1lYHG20-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="m9jwwgq78fVTW1lYHG20-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-5" edge="1" parent="1" source="m9jwwgq78fVTW1lYHG20-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="m9jwwgq78fVTW1lYHG20-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-10" edge="1" parent="1" source="m9jwwgq78fVTW1lYHG20-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="m9jwwgq78fVTW1lYHG20-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-11" edge="1" parent="1" source="m9jwwgq78fVTW1lYHG20-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="m9jwwgq78fVTW1lYHG20-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-12" edge="1" parent="1" source="m9jwwgq78fVTW1lYHG20-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="m9jwwgq78fVTW1lYHG20-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-13" edge="1" parent="1" source="m9jwwgq78fVTW1lYHG20-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="m9jwwgq78fVTW1lYHG20-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-15" edge="1" parent="1" source="m9jwwgq78fVTW1lYHG20-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="m9jwwgq78fVTW1lYHG20-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abbasid&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1430" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Mansur" vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Saffah" vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="3100" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Sulayman b. Ali" vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="3210" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ismaʿil b. Ali&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="3310" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Salih b. Ali&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="3410" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Dawud b. Ali" vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="m9jwwgq78fVTW1lYHG20-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abd Allah b. Ali" vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="r59EUpsTojXZvJyB6L8P-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Rawh al-Muhallabi" vertex="1">
+          <mxGeometry height="60" width="330" x="1810" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="r59EUpsTojXZvJyB6L8P-6" edge="1" parent="1" source="r59EUpsTojXZvJyB6L8P-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="r59EUpsTojXZvJyB6L8P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r59EUpsTojXZvJyB6L8P-7" edge="1" parent="1" source="r59EUpsTojXZvJyB6L8P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="r59EUpsTojXZvJyB6L8P-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TQfAvFv5kXT7oP67y2s-5" edge="1" parent="1" source="r59EUpsTojXZvJyB6L8P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="-TQfAvFv5kXT7oP67y2s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r59EUpsTojXZvJyB6L8P-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Qays" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="-1190" as="geometry" />
+        </mxCell>
+        <mxCell id="r59EUpsTojXZvJyB6L8P-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ishaq b. Muslim al-ʿUqayli" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-1190" as="geometry" />
+        </mxCell>
+        <mxCell id="r59EUpsTojXZvJyB6L8P-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bakka b. Muslim al-ʿUqayli" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-1110" as="geometry" />
+        </mxCell>
+        <mxCell id="H4ztvBAqec4qhuzuoVZR-4" edge="1" parent="1" source="H4ztvBAqec4qhuzuoVZR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="H4ztvBAqec4qhuzuoVZR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jR9qnLMnw3qBa1APccv5-2" edge="1" parent="1" source="H4ztvBAqec4qhuzuoVZR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="jR9qnLMnw3qBa1APccv5-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1750" y="3910" as="sourcePoint" />
+            <mxPoint x="2670" y="4010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4ztvBAqec4qhuzuoVZR-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Barmakid" vertex="1">
+          <mxGeometry height="60" width="330" x="1430" y="3790" as="geometry" />
+        </mxCell>
+        <mxCell id="H4ztvBAqec4qhuzuoVZR-5" edge="1" parent="1" source="H4ztvBAqec4qhuzuoVZR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="H4ztvBAqec4qhuzuoVZR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4ztvBAqec4qhuzuoVZR-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Khalid b. Barmak&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1865" y="3790" as="geometry" />
+        </mxCell>
+        <mxCell id="EWjfNM0WFQV--pJ5glOK-4" edge="1" parent="1" source="H4ztvBAqec4qhuzuoVZR-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="EWjfNM0WFQV--pJ5glOK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4ztvBAqec4qhuzuoVZR-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Yahya b. Khalid" vertex="1">
+          <mxGeometry height="60" width="330" x="2300" y="3790" as="geometry" />
+        </mxCell>
+        <mxCell id="EWjfNM0WFQV--pJ5glOK-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Fadl&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="2670" y="3790" as="geometry" />
+        </mxCell>
+        <mxCell id="lAXUvrrFbzV2T-SUoydO-3" edge="1" parent="1" source="lAXUvrrFbzV2T-SUoydO-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="lAXUvrrFbzV2T-SUoydO-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lAXUvrrFbzV2T-SUoydO-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abnaʾ" vertex="1">
+          <mxGeometry height="60" width="330" x="1440" y="4120" as="geometry" />
+        </mxCell>
+        <mxCell id="lAXUvrrFbzV2T-SUoydO-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Harthama b. Aʿyan " vertex="1">
+          <mxGeometry height="60" width="330" x="1870" y="4120" as="geometry" />
+        </mxCell>
+        <mxCell id="jR9qnLMnw3qBa1APccv5-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Fadl b. Sahl&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="2680" y="3890" as="geometry" />
+        </mxCell>
+        <mxCell id="-TQfAvFv5kXT7oP67y2s-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Shabath al-&lt;br&gt;Uqayli" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-1020" as="geometry" />
+        </mxCell>
+        <mxCell id="-TQfAvFv5kXT7oP67y2s-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tahir b. al-Husayn&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1910" y="4670" as="geometry" />
+        </mxCell>
+        <mxCell id="-TQfAvFv5kXT7oP67y2s-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="-TQfAvFv5kXT7oP67y2s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Family" id="JRI4KLBPdLJ1mRj9YX-k">
+    <mxGraphModel dx="536" dy="2883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="LO4BdnToV2rFwh8t934c-0" />
+        <mxCell id="LO4BdnToV2rFwh8t934c-1" parent="LO4BdnToV2rFwh8t934c-0" />
+        <mxCell id="LO4BdnToV2rFwh8t934c-154" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="LO4BdnToV2rFwh8t934c-157" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="LO4BdnToV2rFwh8t934c-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LO4BdnToV2rFwh8t934c-155" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="LO4BdnToV2rFwh8t934c-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="LO4BdnToV2rFwh8t934c-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LO4BdnToV2rFwh8t934c-156" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="LO4BdnToV2rFwh8t934c-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="LO4BdnToV2rFwh8t934c-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LO4BdnToV2rFwh8t934c-157" parent="LO4BdnToV2rFwh8t934c-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Qays" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="-1190" as="geometry" />
+        </mxCell>
+        <mxCell id="LO4BdnToV2rFwh8t934c-158" parent="LO4BdnToV2rFwh8t934c-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ishaq b. Muslim al-ʿUqayli" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-1190" as="geometry" />
+        </mxCell>
+        <mxCell id="LO4BdnToV2rFwh8t934c-159" parent="LO4BdnToV2rFwh8t934c-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bakka b. Muslim al-ʿUqayli" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-1110" as="geometry" />
+        </mxCell>
+        <mxCell id="LO4BdnToV2rFwh8t934c-167" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Fadl&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="2670" y="3790" as="geometry" />
+        </mxCell>
+        <mxCell id="LO4BdnToV2rFwh8t934c-171" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Fadl b. Sahl&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="2680" y="3890" as="geometry" />
+        </mxCell>
+        <mxCell id="LO4BdnToV2rFwh8t934c-172" parent="LO4BdnToV2rFwh8t934c-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Shabath al-&lt;br&gt;Uqayli" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-1020" as="geometry" />
+        </mxCell>
+        <mxCell id="xbmCSnm0VLkIrvibOlHT-0" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="xbmCSnm0VLkIrvibOlHT-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xbmCSnm0VLkIrvibOlHT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xbmCSnm0VLkIrvibOlHT-1" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="xbmCSnm0VLkIrvibOlHT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xbmCSnm0VLkIrvibOlHT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xbmCSnm0VLkIrvibOlHT-2" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tahirid family" vertex="1">
+          <mxGeometry height="60" width="330" x="870" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="xbmCSnm0VLkIrvibOlHT-3" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abdallah b. Tahir" vertex="1">
+          <mxGeometry height="60" width="330" x="1340" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="xbmCSnm0VLkIrvibOlHT-4" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tahir b. al-Husayn&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1340" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-3" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="UDnfLS7QPE4hiWRZC5Lw-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="UDnfLS7QPE4hiWRZC5Lw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-0" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Samanids&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="870" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-8" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="UDnfLS7QPE4hiWRZC5Lw-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="UDnfLS7QPE4hiWRZC5Lw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-9" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="UDnfLS7QPE4hiWRZC5Lw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="UDnfLS7QPE4hiWRZC5Lw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-10" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="UDnfLS7QPE4hiWRZC5Lw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="UDnfLS7QPE4hiWRZC5Lw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-11" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="UDnfLS7QPE4hiWRZC5Lw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="UDnfLS7QPE4hiWRZC5Lw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-1" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Asad b. Saman" vertex="1">
+          <mxGeometry height="60" width="330" x="1340" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-4" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Nuh&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1720" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-5" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Yahya" vertex="1">
+          <mxGeometry height="60" width="330" x="1720" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-6" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ahmad&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1720" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-7" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ilyas&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1720" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-14" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="UDnfLS7QPE4hiWRZC5Lw-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="UDnfLS7QPE4hiWRZC5Lw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-12" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Qarinid&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="870" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="UDnfLS7QPE4hiWRZC5Lw-13" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Afshin" vertex="1">
+          <mxGeometry height="60" width="330" x="1340" y="1660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
