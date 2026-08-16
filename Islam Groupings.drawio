@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="23">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3583,6 +3583,38 @@
         </mxCell>
         <mxCell id="DUKwxaDGdMDwLF5JOplE-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Theophilus&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="-310" y="3570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="al-Muʿtasim" id="FX1eMa9_TG7BD6thcYwb">
+    <mxGraphModel dx="7670" dy="4895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="gD-5TRTn4GiIET5Cbu4g-0" />
+        <mxCell id="gD-5TRTn4GiIET5Cbu4g-1" parent="gD-5TRTn4GiIET5Cbu4g-0" />
+        <mxCell id="JzXoHBmn5chDvq7qEBUZ-8" parent="gD-5TRTn4GiIET5Cbu4g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khurramiyya rebellion I" vertex="1">
+          <mxGeometry height="80" width="520" x="-210" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="JzXoHBmn5chDvq7qEBUZ-9" parent="gD-5TRTn4GiIET5Cbu4g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Maʾmun’s (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JzXoHBmn5chDvq7qEBUZ-10" parent="gD-5TRTn4GiIET5Cbu4g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Babak al-Khurrami " vertex="1">
+          <mxGeometry height="60" width="200" x="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="JzXoHBmn5chDvq7qEBUZ-11" parent="gD-5TRTn4GiIET5Cbu4g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Afshin" vertex="1">
+          <mxGeometry height="60" width="200" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JzXoHBmn5chDvq7qEBUZ-12" parent="gD-5TRTn4GiIET5Cbu4g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Military campaigns against Amorion" vertex="1">
+          <mxGeometry height="80" width="520" x="-260" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="JzXoHBmn5chDvq7qEBUZ-13" parent="gD-5TRTn4GiIET5Cbu4g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Maʾmun’s (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="30" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="JzXoHBmn5chDvq7qEBUZ-14" parent="gD-5TRTn4GiIET5Cbu4g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Afshin" vertex="1">
+          <mxGeometry height="60" width="200" x="150" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="JzXoHBmn5chDvq7qEBUZ-15" parent="gD-5TRTn4GiIET5Cbu4g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Theophilus" vertex="1">
+          <mxGeometry height="60" width="200" x="-320" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
