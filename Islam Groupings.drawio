@@ -3412,7 +3412,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1EQnP6gc9oCoXh4nbY78" name="Al-Ma&#39;mun">
-    <mxGraphModel dx="1767" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1604" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3584,6 +3584,9 @@
         <mxCell id="DUKwxaDGdMDwLF5JOplE-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Theophilus&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="-310" y="3570" as="geometry" />
         </mxCell>
+        <mxCell id="GR_E3Gjf_ATygwHG0k-m-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tahir b. al-Husayn (Tahir) " vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -3752,7 +3755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Mu&#39;tazz billah " id="sXJ1JoJnTfPnxObBT3rr">
-    <mxGraphModel dx="1493" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1604" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ejLQYPXcezjFc3euICIP-0" />
         <mxCell id="ejLQYPXcezjFc3euICIP-1" parent="ejLQYPXcezjFc3euICIP-0" />
@@ -3791,6 +3794,15 @@
         </mxCell>
         <mxCell id="8gQME0x2nfW7Mx3tIZA8-6" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="social uprising" vertex="1">
           <mxGeometry height="60" width="200" x="-250" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="Zh_geoW2lASHKcDHBDIH-0" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid Military" vertex="1">
+          <mxGeometry height="80" width="520" x="-240" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="Zh_geoW2lASHKcDHBDIH-1" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Muwaffaq (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="Zh_geoW2lASHKcDHBDIH-2" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Muʿtazz (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="1910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
