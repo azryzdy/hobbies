@@ -3624,6 +3624,9 @@
       <root>
         <mxCell id="vPXnGu63iiXcr2Vw8xsp-0" />
         <mxCell id="vPXnGu63iiXcr2Vw8xsp-1" parent="vPXnGu63iiXcr2Vw8xsp-0" />
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-5" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fighting with each other" vertex="1">
+          <mxGeometry height="420" width="770" x="-380" y="400" as="geometry" />
+        </mxCell>
         <mxCell id="vPXnGu63iiXcr2Vw8xsp-2" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Muntasir billah coup" vertex="1">
           <mxGeometry height="80" width="520" x="-210" y="-140" as="geometry" />
         </mxCell>
@@ -3640,10 +3643,25 @@
           <mxGeometry height="60" width="200" x="-270" y="150" as="geometry" />
         </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-0" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Muʿtazz&lt;span style=&quot;display:inline;&quot;&gt; (Abassid&lt;/span&gt;)" vertex="1">
-          <mxGeometry height="60" width="200" x="-270" y="270" as="geometry" />
+          <mxGeometry height="60" width="200" x="-270" y="240" as="geometry" />
         </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-1" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="group of Turkish officer" vertex="1">
           <mxGeometry height="60" width="200" x="80" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-3" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-4" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Wathiq&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-7" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="western regions (Maghariba)&amp;nbsp;military" vertex="1">
+          <mxGeometry height="60" width="200" x="30" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-8" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turks military" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-9" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-95" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
