@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="24">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="28">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3620,17 +3620,23 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Mutawakkil " id="T_ytM1wPVjis-0-IPDE0">
-    <mxGraphModel dx="1493" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vPXnGu63iiXcr2Vw8xsp-0" />
         <mxCell id="vPXnGu63iiXcr2Vw8xsp-1" parent="vPXnGu63iiXcr2Vw8xsp-0" />
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-11" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Conspirators" vertex="1">
+          <mxGeometry height="490" width="640" x="50" y="110" as="geometry" />
+        </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-5" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fighting with each other" vertex="1">
-          <mxGeometry height="420" width="770" x="-380" y="400" as="geometry" />
+          <mxGeometry height="420" width="770" x="-380" y="950" as="geometry" />
         </mxCell>
         <mxCell id="vPXnGu63iiXcr2Vw8xsp-2" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Muntasir billah coup" vertex="1">
           <mxGeometry height="80" width="520" x="-210" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-2" edge="1" parent="vPXnGu63iiXcr2Vw8xsp-1" source="vPXnGu63iiXcr2Vw8xsp-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DpwJwCWOfVWapAGXLOXm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-13" edge="1" parent="vPXnGu63iiXcr2Vw8xsp-1" source="vPXnGu63iiXcr2Vw8xsp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DpwJwCWOfVWapAGXLOXm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPXnGu63iiXcr2Vw8xsp-3" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Muntasir (Abassid)" vertex="1">
@@ -3649,19 +3655,171 @@
           <mxGeometry height="60" width="200" x="80" y="140" as="geometry" />
         </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-3" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
-          <mxGeometry height="60" width="200" x="-250" y="450" as="geometry" />
+          <mxGeometry height="60" width="200" x="-250" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-4" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Wathiq&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
-          <mxGeometry height="60" width="200" x="40" y="450" as="geometry" />
+          <mxGeometry height="60" width="200" x="40" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-7" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="western regions (Maghariba)&amp;nbsp;military" vertex="1">
-          <mxGeometry height="60" width="200" x="30" y="660" as="geometry" />
+          <mxGeometry height="60" width="200" x="30" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-8" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turks military" vertex="1">
-          <mxGeometry height="60" width="200" x="-240" y="660" as="geometry" />
+          <mxGeometry height="60" width="200" x="-240" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-9" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
-          <mxGeometry height="60" width="200" x="-95" y="530" as="geometry" />
+          <mxGeometry height="60" width="200" x="-95" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-12" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Baghir" vertex="1">
+          <mxGeometry height="60" width="200" x="360" y="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Muntasir billah " id="fl9VUqETJ4VPkDhWzKyf">
+    <mxGraphModel dx="1922" dy="2465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="qXHJplFPpt6ywcewrCM--0" />
+        <mxCell id="qXHJplFPpt6ywcewrCM--1" parent="qXHJplFPpt6ywcewrCM--0" />
+        <mxCell id="qXHJplFPpt6ywcewrCM--3" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fighting with each other" vertex="1">
+          <mxGeometry height="420" width="770" x="-380" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="qXHJplFPpt6ywcewrCM--4" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid civil war between al-Muʿtazz (Abassid) and al-Mustaʿin&lt;span style=&quot;display:inline;&quot;&gt; (Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="80" width="600" x="-290" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="qXHJplFPpt6ywcewrCM--12" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="qXHJplFPpt6ywcewrCM--13" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Wathiq&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="qXHJplFPpt6ywcewrCM--14" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="western regions (Maghariba)&amp;nbsp;military" vertex="1">
+          <mxGeometry height="60" width="200" x="30" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="qXHJplFPpt6ywcewrCM--15" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turks military" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="qXHJplFPpt6ywcewrCM--16" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-95" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="2aZJIZt81W__8OHZpk3m-0" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Muʿtazz (Abassid)" vertex="1">
+          <mxGeometry height="80" width="200" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2aZJIZt81W__8OHZpk3m-1" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mustaʿin (Abassid)" vertex="1">
+          <mxGeometry height="80" width="200" x="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="2aZJIZt81W__8OHZpk3m-2" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Baghdad-backed one" vertex="1">
+          <mxGeometry height="80" width="200" x="-250" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2aZJIZt81W__8OHZpk3m-3" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Samarra-backed " vertex="1">
+          <mxGeometry height="80" width="200" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2aZJIZt81W__8OHZpk3m-4" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhammad b. Abdallah b. Tahir" vertex="1">
+          <mxGeometry height="80" width="200" x="-250" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="2aZJIZt81W__8OHZpk3m-5" parent="qXHJplFPpt6ywcewrCM--1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turkish military " vertex="1">
+          <mxGeometry height="80" width="200" x="80" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al-Musta&#39;in " id="EcAdZWSw_fCO3Sjs8iIV">
+    <mxGraphModel dx="1293" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="v6NdLwwyM63DJRAHTkfX-0" />
+        <mxCell id="v6NdLwwyM63DJRAHTkfX-1" parent="v6NdLwwyM63DJRAHTkfX-0" />
+        <mxCell id="v6NdLwwyM63DJRAHTkfX-2" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fighting with each other" vertex="1">
+          <mxGeometry height="420" width="770" x="-380" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="v6NdLwwyM63DJRAHTkfX-3" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Musta&#39;in coup" vertex="1">
+          <mxGeometry height="80" width="520" x="-210" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="v6NdLwwyM63DJRAHTkfX-4" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="v6NdLwwyM63DJRAHTkfX-5" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Wathiq&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="v6NdLwwyM63DJRAHTkfX-6" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="western regions (Maghariba)&amp;nbsp;military" vertex="1">
+          <mxGeometry height="60" width="200" x="30" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="v6NdLwwyM63DJRAHTkfX-7" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turks military" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="v6NdLwwyM63DJRAHTkfX-8" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-95" y="1080" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Mu&#39;tazz billah " id="sXJ1JoJnTfPnxObBT3rr">
+    <mxGraphModel dx="1493" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ejLQYPXcezjFc3euICIP-0" />
+        <mxCell id="ejLQYPXcezjFc3euICIP-1" parent="ejLQYPXcezjFc3euICIP-0" />
+        <mxCell id="ejLQYPXcezjFc3euICIP-2" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fighting with each other" vertex="1">
+          <mxGeometry height="420" width="770" x="-380" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ejLQYPXcezjFc3euICIP-3" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Mu&#39;tazz billah coup" vertex="1">
+          <mxGeometry height="80" width="520" x="-210" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="ejLQYPXcezjFc3euICIP-4" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ejLQYPXcezjFc3euICIP-5" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Wathiq&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ejLQYPXcezjFc3euICIP-6" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="western regions (Maghariba)&amp;nbsp;military" vertex="1">
+          <mxGeometry height="60" width="200" x="30" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ejLQYPXcezjFc3euICIP-7" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turks military" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ejLQYPXcezjFc3euICIP-8" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-95" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="8gQME0x2nfW7Mx3tIZA8-0" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zanj Revolt" vertex="1">
+          <mxGeometry height="80" width="520" x="-240" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="8gQME0x2nfW7Mx3tIZA8-2" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="African slaves " vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="8gQME0x2nfW7Mx3tIZA8-3" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="led by an Arab " vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="8gQME0x2nfW7Mx3tIZA8-4" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="espoused the Shiʿi cause" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="8gQME0x2nfW7Mx3tIZA8-6" parent="ejLQYPXcezjFc3euICIP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="social uprising" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1580" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Muhtadi billah " id="GeDl4zWPTITHp9zHlYsF">
+    <mxGraphModel dx="1029" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-0" />
+        <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-1" parent="k_wtE-Z3dZ0k0DFpAo7E-0" />
+        <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-2" parent="k_wtE-Z3dZ0k0DFpAo7E-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fighting with each other" vertex="1">
+          <mxGeometry height="420" width="770" x="-380" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-3" parent="k_wtE-Z3dZ0k0DFpAo7E-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Muhtadi billah coup" vertex="1">
+          <mxGeometry height="80" width="520" x="-210" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-4" parent="k_wtE-Z3dZ0k0DFpAo7E-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-5" parent="k_wtE-Z3dZ0k0DFpAo7E-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Wathiq&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-6" parent="k_wtE-Z3dZ0k0DFpAo7E-1" style="rounded=0;whiteSpace=wrap;html=1;" value="western regions (Maghariba)&amp;nbsp;military" vertex="1">
+          <mxGeometry height="60" width="200" x="30" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-7" parent="k_wtE-Z3dZ0k0DFpAo7E-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turks military" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-8" parent="k_wtE-Z3dZ0k0DFpAo7E-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-95" y="1080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
