@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="23">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="24">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3615,6 +3615,35 @@
         </mxCell>
         <mxCell id="JzXoHBmn5chDvq7qEBUZ-15" parent="gD-5TRTn4GiIET5Cbu4g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Theophilus" vertex="1">
           <mxGeometry height="60" width="200" x="-320" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Mutawakkil " id="T_ytM1wPVjis-0-IPDE0">
+    <mxGraphModel dx="1493" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="vPXnGu63iiXcr2Vw8xsp-0" />
+        <mxCell id="vPXnGu63iiXcr2Vw8xsp-1" parent="vPXnGu63iiXcr2Vw8xsp-0" />
+        <mxCell id="vPXnGu63iiXcr2Vw8xsp-2" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Muntasir billah coup" vertex="1">
+          <mxGeometry height="80" width="520" x="-210" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-2" edge="1" parent="vPXnGu63iiXcr2Vw8xsp-1" source="vPXnGu63iiXcr2Vw8xsp-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DpwJwCWOfVWapAGXLOXm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPXnGu63iiXcr2Vw8xsp-3" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Muntasir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vPXnGu63iiXcr2Vw8xsp-4" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Mutawakkil (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="vPXnGu63iiXcr2Vw8xsp-5" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Fath b. Khaqan" vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-0" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Muʿtazz&lt;span style=&quot;display:inline;&quot;&gt; (Abassid&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwJwCWOfVWapAGXLOXm-1" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="group of Turkish officer" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
