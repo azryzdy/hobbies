@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="28">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="30">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3242,7 +3242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Harun al-Rashid" id="p94Zmjeehsv29cnGrsyF">
-    <mxGraphModel dx="536" dy="-1517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="-1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eMu5ke4CBslySgz-bn_X-0" />
         <mxCell id="eMu5ke4CBslySgz-bn_X-1" parent="eMu5ke4CBslySgz-bn_X-0" />
@@ -3407,6 +3407,18 @@
         </mxCell>
         <mxCell id="rix_zs1f8TQZHFRxV6vZ-23" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Harthama b. Aʿyan&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="940" y="8040" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf3q05pmdxybCBt7WGn0-0" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistan" vertex="1">
+          <mxGeometry height="80" width="520" x="610" y="8240" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf3q05pmdxybCBt7WGn0-1" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tahirids" vertex="1">
+          <mxGeometry height="60" width="200" x="930" y="8390" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf3q05pmdxybCBt7WGn0-2" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saffarids&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="600" y="8390" as="geometry" />
+        </mxCell>
+        <mxCell id="gU85I3iOTg5F9l7Bh1lW-0" parent="eMu5ke4CBslySgz-bn_X-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kharijite&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="600" y="8490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3623,7 +3635,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Mutawakkil " id="T_ytM1wPVjis-0-IPDE0">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vPXnGu63iiXcr2Vw8xsp-0" />
         <mxCell id="vPXnGu63iiXcr2Vw8xsp-1" parent="vPXnGu63iiXcr2Vw8xsp-0" />
@@ -3674,6 +3686,21 @@
         </mxCell>
         <mxCell id="DpwJwCWOfVWapAGXLOXm-12" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Baghir" vertex="1">
           <mxGeometry height="60" width="200" x="360" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tYWkD8eejzdZZ4EMNi-o-0" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistan" vertex="1">
+          <mxGeometry height="80" width="520" x="-250" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="tYWkD8eejzdZZ4EMNi-o-1" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yaʿqub (Saffarid) " vertex="1">
+          <mxGeometry height="60" width="200" x="-295" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="tYWkD8eejzdZZ4EMNi-o-2" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Amr b. al-Layth al-Saffar (Saffarid)" vertex="1">
+          <mxGeometry height="60" width="200" x="-295" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="tYWkD8eejzdZZ4EMNi-o-3" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tahirids " vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3BJBcgrMYRmeGm5ky1-0" parent="vPXnGu63iiXcr2Vw8xsp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasids" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="1880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3832,6 +3859,82 @@
         </mxCell>
         <mxCell id="k_wtE-Z3dZ0k0DFpAo7E-8" parent="k_wtE-Z3dZ0k0DFpAo7E-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
           <mxGeometry height="60" width="200" x="-95" y="1080" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Mu&#39;tamid ala llah" id="bCimp2qYB3NWnAEoJkgg">
+    <mxGraphModel dx="1769" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="BbOAYPO_tE7l3sBTp-ZO-0" />
+        <mxCell id="BbOAYPO_tE7l3sBTp-ZO-1" parent="BbOAYPO_tE7l3sBTp-ZO-0" />
+        <mxCell id="BbOAYPO_tE7l3sBTp-ZO-3" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Baghdad" vertex="1">
+          <mxGeometry height="80" width="520" x="-210" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-0" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Muwaffaq (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-1" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Musa b. Bugha" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-2" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saffarids" vertex="1">
+          <mxGeometry height="60" width="200" x="-260" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-3" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yaʿqub (Saffarids)" vertex="1">
+          <mxGeometry height="60" width="200" x="-220" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-4" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Muʿtamid (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-5" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tahirid downfall" vertex="1">
+          <mxGeometry height="80" width="520" x="-220" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-6" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saffarids" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-8" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nishapur " vertex="1">
+          <mxGeometry height="60" width="200" x="130" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-9" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhammad b. Tahir (Tahir)" vertex="1">
+          <mxGeometry height="60" width="200" x="130" y="-530" as="geometry" />
+        </mxCell>
+        <mxCell id="Fj6iBacDyCi7tar_OffN-10" parent="BbOAYPO_tE7l3sBTp-ZO-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yaʿqub (Saffarids)" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="-530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Mu&#39;tadid billah" id="zUN_mLxeuWA7a4bGiGg4">
+    <mxGraphModel dx="1493" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ASz2U0W_VmMIiKGYsm04-0" />
+        <mxCell id="ASz2U0W_VmMIiKGYsm04-1" parent="ASz2U0W_VmMIiKGYsm04-0" />
+        <mxCell id="ASz2U0W_VmMIiKGYsm04-8" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saffarids invasion of Transoxiana" vertex="1">
+          <mxGeometry height="80" width="520" x="-220" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="ASz2U0W_VmMIiKGYsm04-11" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Amr b. al-Layth (Saffarids)" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="-440" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb_xv-8_u11m1QHD1xl7-1" edge="1" parent="ASz2U0W_VmMIiKGYsm04-1" source="Mb_xv-8_u11m1QHD1xl7-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="ASz2U0W_VmMIiKGYsm04-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb_xv-8_u11m1QHD1xl7-0" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saffarids" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="-560" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb_xv-8_u11m1QHD1xl7-3" edge="1" parent="ASz2U0W_VmMIiKGYsm04-1" source="Mb_xv-8_u11m1QHD1xl7-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Mb_xv-8_u11m1QHD1xl7-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb_xv-8_u11m1QHD1xl7-2" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Mu&#39;tadid billah" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb_xv-8_u11m1QHD1xl7-4" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Samanids" vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="-560" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb_xv-8_u11m1QHD1xl7-8" edge="1" parent="ASz2U0W_VmMIiKGYsm04-1" source="Mb_xv-8_u11m1QHD1xl7-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Mb_xv-8_u11m1QHD1xl7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb_xv-8_u11m1QHD1xl7-5" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Mu&#39;tadid billah" vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="-690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
