@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" pages="2">
   <diagram name="Bani" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="756" dy="3164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="3370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -396,6 +396,12 @@
         <mxCell id="skmV5x8JPR5NPZOX_D1J-6" edge="1" parent="1" source="skmV5x8JPR5NPZOX_D1J-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="skmV5x8JPR5NPZOX_D1J-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iX2ljL9C1SbOVKeshryk-3" edge="1" parent="1" source="skmV5x8JPR5NPZOX_D1J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="iX2ljL9C1SbOVKeshryk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iX2ljL9C1SbOVKeshryk-4" edge="1" parent="1" source="skmV5x8JPR5NPZOX_D1J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="iX2ljL9C1SbOVKeshryk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="skmV5x8JPR5NPZOX_D1J-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Alids" vertex="1">
           <mxGeometry height="60" width="330" x="1430" y="2580" as="geometry" />
         </mxCell>
@@ -442,28 +448,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m9jwwgq78fVTW1lYHG20-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abbasid&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="330" x="1430" y="3000" as="geometry" />
+          <mxGeometry height="60" width="330" x="1430" y="4650" as="geometry" />
         </mxCell>
         <mxCell id="m9jwwgq78fVTW1lYHG20-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Mansur" vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="3000" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="4650" as="geometry" />
         </mxCell>
         <mxCell id="m9jwwgq78fVTW1lYHG20-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Saffah" vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="3100" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="4750" as="geometry" />
         </mxCell>
         <mxCell id="m9jwwgq78fVTW1lYHG20-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Sulayman b. Ali" vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="3210" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="4860" as="geometry" />
         </mxCell>
         <mxCell id="m9jwwgq78fVTW1lYHG20-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ismaʿil b. Ali&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="3310" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="4960" as="geometry" />
         </mxCell>
         <mxCell id="m9jwwgq78fVTW1lYHG20-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Salih b. Ali&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="3410" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="5060" as="geometry" />
         </mxCell>
         <mxCell id="m9jwwgq78fVTW1lYHG20-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Dawud b. Ali" vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="3510" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="5160" as="geometry" />
         </mxCell>
         <mxCell id="m9jwwgq78fVTW1lYHG20-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abd Allah b. Ali" vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="3600" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="5250" as="geometry" />
         </mxCell>
         <mxCell id="r59EUpsTojXZvJyB6L8P-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Rawh al-Muhallabi" vertex="1">
           <mxGeometry height="60" width="330" x="1810" y="1370" as="geometry" />
@@ -491,39 +497,39 @@
         </mxCell>
         <mxCell id="jR9qnLMnw3qBa1APccv5-2" edge="1" parent="1" source="H4ztvBAqec4qhuzuoVZR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="jR9qnLMnw3qBa1APccv5-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1750" y="3910" as="sourcePoint" />
-            <mxPoint x="2670" y="4010" as="targetPoint" />
+            <mxPoint x="1750" y="5560" as="sourcePoint" />
+            <mxPoint x="2670" y="5660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H4ztvBAqec4qhuzuoVZR-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Barmakid" vertex="1">
-          <mxGeometry height="60" width="330" x="1430" y="3790" as="geometry" />
+          <mxGeometry height="60" width="330" x="1430" y="5440" as="geometry" />
         </mxCell>
         <mxCell id="H4ztvBAqec4qhuzuoVZR-5" edge="1" parent="1" source="H4ztvBAqec4qhuzuoVZR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="H4ztvBAqec4qhuzuoVZR-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H4ztvBAqec4qhuzuoVZR-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Khalid b. Barmak&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="330" x="1865" y="3790" as="geometry" />
+          <mxGeometry height="60" width="330" x="1865" y="5440" as="geometry" />
         </mxCell>
         <mxCell id="EWjfNM0WFQV--pJ5glOK-4" edge="1" parent="1" source="H4ztvBAqec4qhuzuoVZR-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="EWjfNM0WFQV--pJ5glOK-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H4ztvBAqec4qhuzuoVZR-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Yahya b. Khalid" vertex="1">
-          <mxGeometry height="60" width="330" x="2300" y="3790" as="geometry" />
+          <mxGeometry height="60" width="330" x="2300" y="5440" as="geometry" />
         </mxCell>
         <mxCell id="EWjfNM0WFQV--pJ5glOK-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Fadl&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="330" x="2670" y="3790" as="geometry" />
+          <mxGeometry height="60" width="330" x="2670" y="5440" as="geometry" />
         </mxCell>
         <mxCell id="lAXUvrrFbzV2T-SUoydO-3" edge="1" parent="1" source="lAXUvrrFbzV2T-SUoydO-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="lAXUvrrFbzV2T-SUoydO-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lAXUvrrFbzV2T-SUoydO-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abnaʾ" vertex="1">
-          <mxGeometry height="60" width="330" x="1440" y="4120" as="geometry" />
+          <mxGeometry height="60" width="330" x="1440" y="5770" as="geometry" />
         </mxCell>
         <mxCell id="lAXUvrrFbzV2T-SUoydO-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Harthama b. Aʿyan " vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="4120" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="5770" as="geometry" />
         </mxCell>
         <mxCell id="jR9qnLMnw3qBa1APccv5-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="al-Fadl b. Sahl&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="330" x="2680" y="3890" as="geometry" />
+          <mxGeometry height="60" width="330" x="2680" y="5540" as="geometry" />
         </mxCell>
         <mxCell id="-TQfAvFv5kXT7oP67y2s-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nasr b. Shabath al-&lt;br&gt;Uqayli" vertex="1">
           <mxGeometry height="60" width="120" x="240" y="-1020" as="geometry" />
@@ -532,25 +538,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oeRUIboqDrzMqOErHpF5-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banu al-Furat " vertex="1">
-          <mxGeometry height="60" width="330" x="1440" y="4740" as="geometry" />
+          <mxGeometry height="60" width="330" x="1440" y="6390" as="geometry" />
         </mxCell>
         <mxCell id="oeRUIboqDrzMqOErHpF5-6" edge="1" parent="1" source="oeRUIboqDrzMqOErHpF5-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="oeRUIboqDrzMqOErHpF5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oeRUIboqDrzMqOErHpF5-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Banu al-Jarrah" vertex="1">
-          <mxGeometry height="60" width="330" x="1440" y="5010" as="geometry" />
+          <mxGeometry height="60" width="330" x="1440" y="6660" as="geometry" />
         </mxCell>
         <mxCell id="oeRUIboqDrzMqOErHpF5-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abu’l-Hasan Ali b. Muhammad b. al-Furat" vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="4740" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="6390" as="geometry" />
         </mxCell>
         <mxCell id="oeRUIboqDrzMqOErHpF5-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ali b. Isa" vertex="1">
-          <mxGeometry height="60" width="330" x="1870" y="5010" as="geometry" />
+          <mxGeometry height="60" width="330" x="1870" y="6660" as="geometry" />
+        </mxCell>
+        <mxCell id="iX2ljL9C1SbOVKeshryk-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Yahya b. al-Husayn (al-hadi li’l-haqq)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1860" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="iX2ljL9C1SbOVKeshryk-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ibn Tabataba" vertex="1">
+          <mxGeometry height="60" width="330" x="1860" y="3080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Family" id="JRI4KLBPdLJ1mRj9YX-k">
-    <mxGraphModel dx="756" dy="3164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="3370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LO4BdnToV2rFwh8t934c-0" />
         <mxCell id="LO4BdnToV2rFwh8t934c-1" parent="LO4BdnToV2rFwh8t934c-0" />
@@ -706,6 +718,27 @@
         </mxCell>
         <mxCell id="HNEACoPVDuwcDCCFFlvv-15" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abu’l-Qasim Isa b. Dulaf&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="330" x="1340" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="AMzFlNM0f3VHTf4GCjQv-2" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="AMzFlNM0f3VHTf4GCjQv-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AMzFlNM0f3VHTf4GCjQv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMzFlNM0f3VHTf4GCjQv-5" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="AMzFlNM0f3VHTf4GCjQv-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AMzFlNM0f3VHTf4GCjQv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMzFlNM0f3VHTf4GCjQv-6" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="AMzFlNM0f3VHTf4GCjQv-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AMzFlNM0f3VHTf4GCjQv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMzFlNM0f3VHTf4GCjQv-0" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Zaydi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="870" y="3140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMzFlNM0f3VHTf4GCjQv-1" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Hasan b. Zayd&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1340" y="3140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMzFlNM0f3VHTf4GCjQv-3" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Muhammad" vertex="1">
+          <mxGeometry height="60" width="330" x="1350" y="3270" as="geometry" />
+        </mxCell>
+        <mxCell id="AMzFlNM0f3VHTf4GCjQv-4" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Hasan" vertex="1">
+          <mxGeometry height="60" width="330" x="1350" y="3400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
