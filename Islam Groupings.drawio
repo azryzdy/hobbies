@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="30">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="33">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3935,6 +3935,87 @@
         </mxCell>
         <mxCell id="Mb_xv-8_u11m1QHD1xl7-5" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Mu&#39;tadid billah" vertex="1">
           <mxGeometry height="60" width="200" x="120" y="-690" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Muktafi billah" id="bqHTREYmnZlG_WFvpKfL">
+    <mxGraphModel dx="1493" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="99tNKdEKCUf8tqmuPEdX-0" />
+        <mxCell id="99tNKdEKCUf8tqmuPEdX-1" parent="99tNKdEKCUf8tqmuPEdX-0" />
+        <mxCell id="99tNKdEKCUf8tqmuPEdX-2" parent="99tNKdEKCUf8tqmuPEdX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid naval expedition" vertex="1">
+          <mxGeometry height="80" width="520" x="-220" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="99tNKdEKCUf8tqmuPEdX-7" parent="99tNKdEKCUf8tqmuPEdX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Byzantines" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="99tNKdEKCUf8tqmuPEdX-10" parent="99tNKdEKCUf8tqmuPEdX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid" vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="-690" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ibn al-Muʿtazz" id="MRHzeyJNsh3wIcHuWFAp">
+    <mxGraphModel dx="1493" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="fdzGwyoY3Zi0H5bCDj-7-0" />
+        <mxCell id="fdzGwyoY3Zi0H5bCDj-7-1" parent="fdzGwyoY3Zi0H5bCDj-7-0" />
+        <mxCell id="fdzGwyoY3Zi0H5bCDj-7-2" parent="fdzGwyoY3Zi0H5bCDj-7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Muʿtazz coup" vertex="1">
+          <mxGeometry height="80" width="520" x="-220" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="fdzGwyoY3Zi0H5bCDj-7-3" parent="fdzGwyoY3Zi0H5bCDj-7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Muʿtazz (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="fdzGwyoY3Zi0H5bCDj-7-4" parent="fdzGwyoY3Zi0H5bCDj-7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Muqtadir billah " vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="6ajrQqiilzpO6xt5rknL-0" parent="fdzGwyoY3Zi0H5bCDj-7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="His supporters" vertex="1">
+          <mxGeometry height="60" width="200" x="-310" y="-560" as="geometry" />
+        </mxCell>
+        <mxCell id="6ajrQqiilzpO6xt5rknL-1" parent="fdzGwyoY3Zi0H5bCDj-7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muʾnis " vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="-560" as="geometry" />
+        </mxCell>
+        <mxCell id="6ajrQqiilzpO6xt5rknL-2" parent="fdzGwyoY3Zi0H5bCDj-7-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Furat " vertex="1">
+          <mxGeometry height="60" width="200" x="270" y="-560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al Muqtadir billah" id="gkjFopCMdSdSYVgCGOxK">
+    <mxGraphModel dx="1493" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ZjU4BnwupWd9mbkJlfy8-0" />
+        <mxCell id="ZjU4BnwupWd9mbkJlfy8-1" parent="ZjU4BnwupWd9mbkJlfy8-0" />
+        <mxCell id="ZjU4BnwupWd9mbkJlfy8-2" parent="ZjU4BnwupWd9mbkJlfy8-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid Governance" vertex="1">
+          <mxGeometry height="80" width="520" x="-220" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjU4BnwupWd9mbkJlfy8-7" parent="ZjU4BnwupWd9mbkJlfy8-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banu al-Furat " vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjU4BnwupWd9mbkJlfy8-10" parent="ZjU4BnwupWd9mbkJlfy8-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banu al-Jarrah" vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="DyvjHRQYyrSOFUaL-ZXU-0" parent="ZjU4BnwupWd9mbkJlfy8-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid court" vertex="1">
+          <mxGeometry height="80" width="520" x="-220" y="-430" as="geometry" />
+        </mxCell>
+        <mxCell id="DyvjHRQYyrSOFUaL-ZXU-6" edge="1" parent="ZjU4BnwupWd9mbkJlfy8-1" source="DyvjHRQYyrSOFUaL-ZXU-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DyvjHRQYyrSOFUaL-ZXU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DyvjHRQYyrSOFUaL-ZXU-1" parent="ZjU4BnwupWd9mbkJlfy8-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banu al-Jarrah" vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="DyvjHRQYyrSOFUaL-ZXU-2" parent="ZjU4BnwupWd9mbkJlfy8-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banu al-Furat " vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="DyvjHRQYyrSOFUaL-ZXU-3" parent="ZjU4BnwupWd9mbkJlfy8-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Isa (Jarrahid)" vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="DyvjHRQYyrSOFUaL-ZXU-4" parent="ZjU4BnwupWd9mbkJlfy8-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu’l-Hasan Ali b. Muhammad b. al-Furat (Furat)" vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="DyvjHRQYyrSOFUaL-ZXU-5" edge="1" parent="ZjU4BnwupWd9mbkJlfy8-1" source="DyvjHRQYyrSOFUaL-ZXU-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="DyvjHRQYyrSOFUaL-ZXU-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
