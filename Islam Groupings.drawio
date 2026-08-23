@@ -3424,7 +3424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1EQnP6gc9oCoXh4nbY78" name="Al-Ma&#39;mun">
-    <mxGraphModel dx="1606" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1769" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3599,6 +3599,18 @@
         <mxCell id="GR_E3Gjf_ATygwHG0k-m-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tahir b. al-Husayn (Tahir) " vertex="1">
           <mxGeometry height="60" width="200" x="70" y="800" as="geometry" />
         </mxCell>
+        <mxCell id="fUfbsXMS6n-t1M-AXLKG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alid rebellion" vertex="1">
+          <mxGeometry height="80" width="520" x="-270" y="4030" as="geometry" />
+        </mxCell>
+        <mxCell id="fUfbsXMS6n-t1M-AXLKG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhammad b. Ibrahim (known as Ibn Tabataba)" vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="4200" as="geometry" />
+        </mxCell>
+        <mxCell id="fUfbsXMS6n-t1M-AXLKG-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid" vertex="1">
+          <mxGeometry height="60" width="200" x="50" y="4200" as="geometry" />
+        </mxCell>
+        <mxCell id="fUfbsXMS6n-t1M-AXLKG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu’l-Saraya" vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="4320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -3753,7 +3765,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Musta&#39;in " id="EcAdZWSw_fCO3Sjs8iIV">
-    <mxGraphModel dx="1293" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="v6NdLwwyM63DJRAHTkfX-0" />
         <mxCell id="v6NdLwwyM63DJRAHTkfX-1" parent="v6NdLwwyM63DJRAHTkfX-0" />
@@ -3777,6 +3789,21 @@
         </mxCell>
         <mxCell id="v6NdLwwyM63DJRAHTkfX-8" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="children of al-Mutawakkil&amp;nbsp;&lt;span style=&quot;display:inline;&quot;&gt;(Abassid&lt;/span&gt;)" vertex="1">
           <mxGeometry height="60" width="200" x="-95" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="gPifn-jHM5BCgpMUnrLR-0" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zaydi movement" vertex="1">
+          <mxGeometry height="80" width="600" x="-250" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="gPifn-jHM5BCgpMUnrLR-1" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tabaristan&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="150" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="gPifn-jHM5BCgpMUnrLR-2" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tahirids&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="-260" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="gPifn-jHM5BCgpMUnrLR-3" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zaydi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="150" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="gPifn-jHM5BCgpMUnrLR-4" parent="v6NdLwwyM63DJRAHTkfX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zaydi Imam, Hasan b. Zayd (Zaydi)" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="2180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3905,7 +3932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al Mu&#39;tadid billah" id="zUN_mLxeuWA7a4bGiGg4">
-    <mxGraphModel dx="1493" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ASz2U0W_VmMIiKGYsm04-0" />
         <mxCell id="ASz2U0W_VmMIiKGYsm04-1" parent="ASz2U0W_VmMIiKGYsm04-0" />
@@ -3935,6 +3962,33 @@
         </mxCell>
         <mxCell id="Mb_xv-8_u11m1QHD1xl7-5" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Mu&#39;tadid billah" vertex="1">
           <mxGeometry height="60" width="200" x="120" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="Sor-MPK4BaiCQtJvMSEF-0" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fall of Zaydi" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="Sor-MPK4BaiCQtJvMSEF-1" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Samanids" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sor-MPK4BaiCQtJvMSEF-6" edge="1" parent="ASz2U0W_VmMIiKGYsm04-1" source="Sor-MPK4BaiCQtJvMSEF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Sor-MPK4BaiCQtJvMSEF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sor-MPK4BaiCQtJvMSEF-7" edge="1" parent="ASz2U0W_VmMIiKGYsm04-1" source="Sor-MPK4BaiCQtJvMSEF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Sor-MPK4BaiCQtJvMSEF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sor-MPK4BaiCQtJvMSEF-2" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zaydi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="-340" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Sor-MPK4BaiCQtJvMSEF-3" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hasan" vertex="1">
+          <mxGeometry height="60" width="200" x="-470" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Sor-MPK4BaiCQtJvMSEF-4" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muhammad" vertex="1">
+          <mxGeometry height="60" width="200" x="-230" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Sor-MPK4BaiCQtJvMSEF-8" edge="1" parent="ASz2U0W_VmMIiKGYsm04-1" source="Sor-MPK4BaiCQtJvMSEF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sor-MPK4BaiCQtJvMSEF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sor-MPK4BaiCQtJvMSEF-5" parent="ASz2U0W_VmMIiKGYsm04-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tabaristan&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="-340" y="-30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
