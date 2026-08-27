@@ -4198,7 +4198,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Ṭāʾiʿ li-amri ʿllāh" id="SnNkc4b6uFNx5CV3opjR">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="3595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="34jySAs7GoYwVmZFvm8u-0" />
         <mxCell id="34jySAs7GoYwVmZFvm8u-1" parent="34jySAs7GoYwVmZFvm8u-0" />
@@ -4261,6 +4261,18 @@
         </mxCell>
         <mxCell id="69_XUMaAjeNjx9SL1Kk8-15" edge="1" parent="34jySAs7GoYwVmZFvm8u-1" source="69_XUMaAjeNjx9SL1Kk8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="69_XUMaAjeNjx9SL1Kk8-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnaBp2iqthy8wYxy89S3-0" parent="34jySAs7GoYwVmZFvm8u-1" style="rounded=0;whiteSpace=wrap;html=1;" value=" Al-Taʾiʿ(Abassid) coup" vertex="1">
+          <mxGeometry height="80" width="1070" x="-495" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="wnaBp2iqthy8wYxy89S3-1" parent="34jySAs7GoYwVmZFvm8u-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Taʾiʿ (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="100" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wnaBp2iqthy8wYxy89S3-2" parent="34jySAs7GoYwVmZFvm8u-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Qadir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="-310" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wnaBp2iqthy8wYxy89S3-3" parent="34jySAs7GoYwVmZFvm8u-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Buyids" vertex="1">
+          <mxGeometry height="60" width="200" x="-310" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
