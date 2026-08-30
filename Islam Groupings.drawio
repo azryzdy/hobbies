@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="38">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="39">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4198,7 +4198,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Ṭāʾiʿ li-amri ʿllāh" id="SnNkc4b6uFNx5CV3opjR">
-    <mxGraphModel dx="2019" dy="3595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="3019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="34jySAs7GoYwVmZFvm8u-0" />
         <mxCell id="34jySAs7GoYwVmZFvm8u-1" parent="34jySAs7GoYwVmZFvm8u-0" />
@@ -4266,13 +4266,13 @@
           <mxGeometry height="80" width="1070" x="-495" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="wnaBp2iqthy8wYxy89S3-1" parent="34jySAs7GoYwVmZFvm8u-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Taʾiʿ (Abassid)" vertex="1">
-          <mxGeometry height="60" width="200" x="100" y="140" as="geometry" />
+          <mxGeometry height="60" width="200" x="-310" y="140" as="geometry" />
         </mxCell>
         <mxCell id="wnaBp2iqthy8wYxy89S3-2" parent="34jySAs7GoYwVmZFvm8u-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Qadir (Abassid)" vertex="1">
-          <mxGeometry height="60" width="200" x="-310" y="240" as="geometry" />
+          <mxGeometry height="60" width="200" x="40" y="240" as="geometry" />
         </mxCell>
         <mxCell id="wnaBp2iqthy8wYxy89S3-3" parent="34jySAs7GoYwVmZFvm8u-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Buyids" vertex="1">
-          <mxGeometry height="60" width="200" x="-310" y="140" as="geometry" />
+          <mxGeometry height="60" width="200" x="40" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -4326,6 +4326,50 @@
         </mxCell>
         <mxCell id="AZ4B-XODktlSbvNe_R94-9" parent="4s6TzmxDEtuuM0WtKJRd-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iranian volunteer fighters" vertex="1">
           <mxGeometry height="60" width="200" x="-590" y="-970" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al-Qādir bi-&#39;llāh" id="gOh_j_CI-iZx_HpBE-Ee">
+    <mxGraphModel dx="1922" dy="3565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="7pyQ23XqkWuO16DftvKP-0" />
+        <mxCell id="7pyQ23XqkWuO16DftvKP-1" parent="7pyQ23XqkWuO16DftvKP-0" />
+        <mxCell id="7pyQ23XqkWuO16DftvKP-3" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Qadir (Abassid) sunni relation" vertex="1">
+          <mxGeometry height="80" width="520" x="-250" y="-1600" as="geometry" />
+        </mxCell>
+        <mxCell id="7pyQ23XqkWuO16DftvKP-5" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Qadir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-1440" as="geometry" />
+        </mxCell>
+        <mxCell id="7pyQ23XqkWuO16DftvKP-6" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Buyids in Iraq" vertex="1">
+          <mxGeometry height="60" width="200" x="400" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="7pyQ23XqkWuO16DftvKP-8" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ismaʿili Fatimids in Egypt" vertex="1">
+          <mxGeometry height="60" width="200" x="-260" y="-1440" as="geometry" />
+        </mxCell>
+        <mxCell id="7pyQ23XqkWuO16DftvKP-9" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sunni religious scholars" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="guPOzTZDs3TOETxlAJ9D-0" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Twelver Shiʿism" vertex="1">
+          <mxGeometry height="60" width="200" x="240" y="-1210" as="geometry" />
+        </mxCell>
+        <mxCell id="guPOzTZDs3TOETxlAJ9D-1" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qadiri Creed" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="-1020" as="geometry" />
+        </mxCell>
+        <mxCell id="guPOzTZDs3TOETxlAJ9D-2" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Qadir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="60" y="-870" as="geometry" />
+        </mxCell>
+        <mxCell id="guPOzTZDs3TOETxlAJ9D-3" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Baqillani " vertex="1">
+          <mxGeometry height="60" width="200" x="60" y="-730" as="geometry" />
+        </mxCell>
+        <mxCell id="guPOzTZDs3TOETxlAJ9D-4" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Isfaraʾini " vertex="1">
+          <mxGeometry height="60" width="200" x="320" y="-730" as="geometry" />
+        </mxCell>
+        <mxCell id="guPOzTZDs3TOETxlAJ9D-5" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Mansur al-Baghdadi " vertex="1">
+          <mxGeometry height="60" width="200" x="60" y="-630" as="geometry" />
+        </mxCell>
+        <mxCell id="guPOzTZDs3TOETxlAJ9D-6" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muʿtazili " vertex="1">
+          <mxGeometry height="60" width="200" x="-310" y="-830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
