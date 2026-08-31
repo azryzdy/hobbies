@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="39">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="40">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4370,6 +4370,92 @@
         </mxCell>
         <mxCell id="guPOzTZDs3TOETxlAJ9D-6" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muʿtazili " vertex="1">
           <mxGeometry height="60" width="200" x="-310" y="-830" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al-Qāʾim bi-amri &#39;llāh" id="PexE6vTyEYwQL0XlkVED">
+    <mxGraphModel dx="1606" dy="3164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0cJTKeOjVp0qbVQwRUJF-0" />
+        <mxCell id="0cJTKeOjVp0qbVQwRUJF-1" parent="0cJTKeOjVp0qbVQwRUJF-0" />
+        <mxCell id="0cJTKeOjVp0qbVQwRUJF-2" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuk Ghaznavids conflict" vertex="1">
+          <mxGeometry height="80" width="520" x="-250" y="-1600" as="geometry" />
+        </mxCell>
+        <mxCell id="0cJTKeOjVp0qbVQwRUJF-3" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuk" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-1440" as="geometry" />
+        </mxCell>
+        <mxCell id="0cJTKeOjVp0qbVQwRUJF-5" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ghaznavids " vertex="1">
+          <mxGeometry height="60" width="200" x="-260" y="-1440" as="geometry" />
+        </mxCell>
+        <mxCell id="0cJTKeOjVp0qbVQwRUJF-6" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turkmen" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-0" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuk Ghaznavids conflict" vertex="1">
+          <mxGeometry height="80" width="520" x="-240" y="-1030" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-1" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasid al-Qaʾim (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-890" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-2" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Malik al-Rahim (Buyids) " vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-760" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-3" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuks" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="-890" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-4" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reaction to Abassid Seljuk alliance I" vertex="1">
+          <mxGeometry height="80" width="520" x="-240" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-5" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abbasid al-Qaʾim (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-380" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-6" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuks" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-7" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zirid prince al-Muʿizz b. Badis in North Africa (Tunis) " vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-8" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fatimid" vertex="1">
+          <mxGeometry height="60" width="200" x="-220" y="-380" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-9" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iraq II" vertex="1">
+          <mxGeometry height="80" width="520" x="-220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-11" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fatimid" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-12" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuks" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-17" edge="1" parent="0cJTKeOjVp0qbVQwRUJF-1" source="3oFM52eQu0c4NisKJO8M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="3oFM52eQu0c4NisKJO8M-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-13" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Basasiri (Turkic) " vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-14" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-Muslima" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-18" edge="1" parent="0cJTKeOjVp0qbVQwRUJF-1" source="3oFM52eQu0c4NisKJO8M-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="3oFM52eQu0c4NisKJO8M-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-15" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mosul" vertex="1">
+          <mxGeometry height="60" width="200" x="300" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-16" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uqaylid tribal forces&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="300" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-19" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuks civil war" vertex="1">
+          <mxGeometry height="80" width="520" x="-200" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-20" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tughril (Seljuks) " vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-21" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alp Arslan (Seljuks)" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="3oFM52eQu0c4NisKJO8M-22" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibrahim Yinal (Seljuks)" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
