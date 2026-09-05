@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="3">
   <diagram name="Ummayad" id="m7YhJ8RQnN-Kl6xDcLwc">
     <mxGraphModel dx="1562" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,6 +144,97 @@
         </mxCell>
         <mxCell id="CB5kWWDTfhdYCPDuGdY6-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Their position was not always a comfortable one and from time to time the ashraf had to come down off the fence and side either with the government&amp;nbsp;or with the tribesmen." vertex="1">
           <mxGeometry height="90" width="260" x="670" y="1605" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al-Muqtafi (Abassids)" id="Fgp7IcPjnMUodCI0Tnkg">
+    <mxGraphModel dx="2060" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0tDVUOUNk9ZwWbS88QWC-0" />
+        <mxCell id="0tDVUOUNk9ZwWbS88QWC-1" parent="0tDVUOUNk9ZwWbS88QWC-0" />
+        <mxCell id="0tDVUOUNk9ZwWbS88QWC-5" edge="1" parent="0tDVUOUNk9ZwWbS88QWC-1" source="0tDVUOUNk9ZwWbS88QWC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0tDVUOUNk9ZwWbS88QWC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tDVUOUNk9ZwWbS88QWC-6" parent="0tDVUOUNk9ZwWbS88QWC-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids Caliph" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-1" edge="1" parent="0tDVUOUNk9ZwWbS88QWC-1" source="0tDVUOUNk9ZwWbS88QWC-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="78yoerYmpEjoPP0d9h6l-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tDVUOUNk9ZwWbS88QWC-13" parent="0tDVUOUNk9ZwWbS88QWC-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shihna" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="0tDVUOUNk9ZwWbS88QWC-24" edge="1" parent="0tDVUOUNk9ZwWbS88QWC-1" source="0tDVUOUNk9ZwWbS88QWC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tDVUOUNk9ZwWbS88QWC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tDVUOUNk9ZwWbS88QWC-25" edge="1" parent="0tDVUOUNk9ZwWbS88QWC-1" source="0tDVUOUNk9ZwWbS88QWC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tDVUOUNk9ZwWbS88QWC-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-8" edge="1" parent="0tDVUOUNk9ZwWbS88QWC-1" source="0tDVUOUNk9ZwWbS88QWC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="78yoerYmpEjoPP0d9h6l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-9" edge="1" parent="0tDVUOUNk9ZwWbS88QWC-1" source="0tDVUOUNk9ZwWbS88QWC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="78yoerYmpEjoPP0d9h6l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tDVUOUNk9ZwWbS88QWC-26" parent="0tDVUOUNk9ZwWbS88QWC-1" style="rounded=0;whiteSpace=wrap;html=1;" value="appoint directly" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-0" parent="0tDVUOUNk9ZwWbS88QWC-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Military strongman usually employed by the Seljuks" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-4" edge="1" parent="0tDVUOUNk9ZwWbS88QWC-1" source="78yoerYmpEjoPP0d9h6l-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="78yoerYmpEjoPP0d9h6l-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-2" parent="0tDVUOUNk9ZwWbS88QWC-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids coinage" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-3" parent="0tDVUOUNk9ZwWbS88QWC-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Removed Seljuks sultan name" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-5" parent="0tDVUOUNk9ZwWbS88QWC-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hashimite naqib" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-10" edge="1" parent="0tDVUOUNk9ZwWbS88QWC-1" source="78yoerYmpEjoPP0d9h6l-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="78yoerYmpEjoPP0d9h6l-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-6" parent="0tDVUOUNk9ZwWbS88QWC-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Minister" vertex="1">
+          <mxGeometry height="60" width="120" x="-170" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="78yoerYmpEjoPP0d9h6l-7" parent="0tDVUOUNk9ZwWbS88QWC-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali b. Tarrad al-Zaynabi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-170" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al-Mustanjid" id="i-RwENraTXC1RFehbr6Q">
+    <mxGraphModel dx="504" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="o7L5teSK2nweUTFgw7dp-0" />
+        <mxCell id="o7L5teSK2nweUTFgw7dp-1" parent="o7L5teSK2nweUTFgw7dp-0" />
+        <mxCell id="o7L5teSK2nweUTFgw7dp-2" edge="1" parent="o7L5teSK2nweUTFgw7dp-1" source="o7L5teSK2nweUTFgw7dp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o7L5teSK2nweUTFgw7dp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7L5teSK2nweUTFgw7dp-3" parent="o7L5teSK2nweUTFgw7dp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids Caliph" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="o7L5teSK2nweUTFgw7dp-4" edge="1" parent="o7L5teSK2nweUTFgw7dp-1" source="o7L5teSK2nweUTFgw7dp-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="o7L5teSK2nweUTFgw7dp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7L5teSK2nweUTFgw7dp-5" parent="o7L5teSK2nweUTFgw7dp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chamberlain " vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="o7L5teSK2nweUTFgw7dp-6" edge="1" parent="o7L5teSK2nweUTFgw7dp-1" source="o7L5teSK2nweUTFgw7dp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o7L5teSK2nweUTFgw7dp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7L5teSK2nweUTFgw7dp-7" edge="1" parent="o7L5teSK2nweUTFgw7dp-1" source="o7L5teSK2nweUTFgw7dp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o7L5teSK2nweUTFgw7dp-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7L5teSK2nweUTFgw7dp-10" parent="o7L5teSK2nweUTFgw7dp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="appoint directly" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="o7L5teSK2nweUTFgw7dp-11" parent="o7L5teSK2nweUTFgw7dp-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qaymaz (Turkic)" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
