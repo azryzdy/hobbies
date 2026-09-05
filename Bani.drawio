@@ -562,7 +562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Family" id="JRI4KLBPdLJ1mRj9YX-k">
-    <mxGraphModel dx="641" dy="3010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="3565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LO4BdnToV2rFwh8t934c-0" />
         <mxCell id="LO4BdnToV2rFwh8t934c-1" parent="LO4BdnToV2rFwh8t934c-0" />
@@ -799,6 +799,27 @@
         </mxCell>
         <mxCell id="tKq6MyRGw51HTvkivBC0-18" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="ʿIzz al-Dawla " vertex="1">
           <mxGeometry height="60" width="330" x="1350" y="4720" as="geometry" />
+        </mxCell>
+        <mxCell id="uyuibsJePQvG86aGowWk-5" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="uyuibsJePQvG86aGowWk-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="uyuibsJePQvG86aGowWk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uyuibsJePQvG86aGowWk-6" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="uyuibsJePQvG86aGowWk-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="uyuibsJePQvG86aGowWk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uyuibsJePQvG86aGowWk-0" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Zangids/Zangi/Zengids" vertex="1">
+          <mxGeometry height="60" width="330" x="910" y="5170" as="geometry" />
+        </mxCell>
+        <mxCell id="uyuibsJePQvG86aGowWk-8" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="uyuibsJePQvG86aGowWk-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="uyuibsJePQvG86aGowWk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uyuibsJePQvG86aGowWk-1" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="ʿImad al-Din Zangi" vertex="1">
+          <mxGeometry height="60" width="330" x="1340" y="5170" as="geometry" />
+        </mxCell>
+        <mxCell id="uyuibsJePQvG86aGowWk-2" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Nur al-Din&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="330" x="1720" y="5170" as="geometry" />
+        </mxCell>
+        <mxCell id="uyuibsJePQvG86aGowWk-4" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Atabeg Zangi" vertex="1">
+          <mxGeometry height="60" width="330" x="1340" y="5080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
