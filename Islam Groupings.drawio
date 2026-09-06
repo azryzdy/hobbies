@@ -4878,10 +4878,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Nāṣir li-Dīn Allāh" id="pW96KiMJ2OHXuNZ101ax">
-    <mxGraphModel dx="2488" dy="-124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="-136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pQQGM9zS8A89bEZXx6-B-0" />
         <mxCell id="pQQGM9zS8A89bEZXx6-B-1" parent="pQQGM9zS8A89bEZXx6-B-0" />
+        <mxCell id="JQBslOzE1PHngKXDOo3y-4" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Empower by Seljuks to bully Abassids" vertex="1">
+          <mxGeometry height="220" width="455" x="30" y="1990" as="geometry" />
+        </mxCell>
         <mxCell id="pQQGM9zS8A89bEZXx6-B-2" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid politics" vertex="1">
           <mxGeometry height="80" width="520" x="-180" y="1220" as="geometry" />
         </mxCell>
@@ -4893,6 +4896,51 @@
         </mxCell>
         <mxCell id="n2W1MAdkem1rBEFhJhzd-0" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qilij Arslan II (Rum Seljuks) " vertex="1">
           <mxGeometry height="60" width="200" x="370" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-0" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids Seljuks family" vertex="1">
+          <mxGeometry height="80" width="520" x="-180" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-1" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Nasir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-2" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuks " vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-3" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mazyadids of Hilla" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-5" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassids politics II" vertex="1">
+          <mxGeometry height="80" width="520" x="-180" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-6" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Nasir (Abassids) " vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="2520" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-7" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuks&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="2520" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-8" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khwarazm shahs" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="2650" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-10" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Post Seljuks downfall" vertex="1">
+          <mxGeometry height="80" width="520" x="-180" y="3190" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-11" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Nasir (Abassids) " vertex="1">
+          <mxGeometry height="60" width="200" x="100" y="3350" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-12" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khwarazm shahs" vertex="1">
+          <mxGeometry height="60" width="200" x="-230" y="3350" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-13" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuks downfall" vertex="1">
+          <mxGeometry height="80" width="520" x="-190" y="2770" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-14" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Nasir (Abassids) " vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="2930" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-15" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuks&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="2930" as="geometry" />
+        </mxCell>
+        <mxCell id="JQBslOzE1PHngKXDOo3y-16" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khwarazm shahs" vertex="1">
+          <mxGeometry height="60" width="200" x="170" y="3060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
