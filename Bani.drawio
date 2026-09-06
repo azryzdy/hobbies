@@ -562,7 +562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Family" id="JRI4KLBPdLJ1mRj9YX-k">
-    <mxGraphModel dx="3277" dy="4152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="3164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LO4BdnToV2rFwh8t934c-0" />
         <mxCell id="LO4BdnToV2rFwh8t934c-1" parent="LO4BdnToV2rFwh8t934c-0" />
@@ -820,6 +820,21 @@
         </mxCell>
         <mxCell id="uyuibsJePQvG86aGowWk-4" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Atabeg Zangi" vertex="1">
           <mxGeometry height="60" width="330" x="1340" y="5080" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo9QtIA559B2AMBI3g-q-3" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="Lo9QtIA559B2AMBI3g-q-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Lo9QtIA559B2AMBI3g-q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo9QtIA559B2AMBI3g-q-0" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Rum Seljuks" vertex="1">
+          <mxGeometry height="60" width="330" x="910" y="5590" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo9QtIA559B2AMBI3g-q-1" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Saljuqi Khatun " vertex="1">
+          <mxGeometry height="60" width="330" x="1720" y="5590" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo9QtIA559B2AMBI3g-q-4" edge="1" parent="LO4BdnToV2rFwh8t934c-1" source="Lo9QtIA559B2AMBI3g-q-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Lo9QtIA559B2AMBI3g-q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo9QtIA559B2AMBI3g-q-2" parent="LO4BdnToV2rFwh8t934c-1" style="whiteSpace=wrap;html=1;rounded=0;" value="Qilij Arslan II " vertex="1">
+          <mxGeometry height="60" width="330" x="1340" y="5590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
