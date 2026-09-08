@@ -4878,7 +4878,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Nāṣir li-Dīn Allāh" id="pW96KiMJ2OHXuNZ101ax">
-    <mxGraphModel dx="1711" dy="-17" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="70" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pQQGM9zS8A89bEZXx6-B-0" />
         <mxCell id="pQQGM9zS8A89bEZXx6-B-1" parent="pQQGM9zS8A89bEZXx6-B-0" />
@@ -5004,6 +5004,39 @@
         </mxCell>
         <mxCell id="NeMg3eoVmnsGf6OMdjGp-21" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sunni" vertex="1">
           <mxGeometry height="60" width="200" x="80" y="5530" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-0" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid Khwarazm relation" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="5830" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-1" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Nasir (Abassids) " vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="6040" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-2" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khwarazm&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="6040" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-3" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ghurids" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="6170" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-4" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol invasion of Khwarazm II" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="6390" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-9" edge="1" parent="pQQGM9zS8A89bEZXx6-B-1" source="_zxDL8e5wnzYKUmOoE29-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="_zxDL8e5wnzYKUmOoE29-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-5" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="ʿAla al-Din (Khwarazm) " vertex="1">
+          <mxGeometry height="60" width="200" x="-320" y="6560" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-6" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jalal al-Din (Khwarazm) " vertex="1">
+          <mxGeometry height="60" width="200" x="-320" y="6670" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-10" edge="1" parent="pQQGM9zS8A89bEZXx6-B-1" source="_zxDL8e5wnzYKUmOoE29-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="_zxDL8e5wnzYKUmOoE29-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-7" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongols" vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="6560" as="geometry" />
+        </mxCell>
+        <mxCell id="_zxDL8e5wnzYKUmOoE29-8" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Genghis Khan" vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="6690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
