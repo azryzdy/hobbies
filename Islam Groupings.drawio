@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="47">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="48">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5037,6 +5037,101 @@
         </mxCell>
         <mxCell id="_zxDL8e5wnzYKUmOoE29-8" parent="pQQGM9zS8A89bEZXx6-B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Genghis Khan" vertex="1">
           <mxGeometry height="60" width="200" x="120" y="6690" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al-Mustanṣir bi-&#39;llāh" id="v4K4JfnXF8jsWcWt8WTC">
+    <mxGraphModel dx="1354" dy="-417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="K3mIrj9lelTAxg-Mt3KA-0" />
+        <mxCell id="K3mIrj9lelTAxg-Mt3KA-1" parent="K3mIrj9lelTAxg-Mt3KA-0" />
+        <mxCell id="K3mIrj9lelTAxg-Mt3KA-2" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol invasion of Asia Minor and western Iran" vertex="1">
+          <mxGeometry height="80" width="520" x="-180" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-0" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="K3mIrj9lelTAxg-Mt3KA-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="K3mIrj9lelTAxg-Mt3KA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3mIrj9lelTAxg-Mt3KA-3" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol" vertex="1">
+          <mxGeometry height="60" width="200" x="110" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="K3mIrj9lelTAxg-Mt3KA-4" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chormaghun" vertex="1">
+          <mxGeometry height="60" width="200" x="110" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="K3mIrj9lelTAxg-Mt3KA-5" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid?" vertex="1">
+          <mxGeometry height="60" width="200" x="-260" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-1" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol invasion of Armenia" vertex="1">
+          <mxGeometry height="80" width="520" x="-180" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-2" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="AVNoVWuPyoNyMiQOui8A-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AVNoVWuPyoNyMiQOui8A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-3" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol" vertex="1">
+          <mxGeometry height="60" width="200" x="110" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-4" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chormaghun" vertex="1">
+          <mxGeometry height="60" width="200" x="110" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-5" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Armenia" vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-6" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol invasion of Georgian kingdom" vertex="1">
+          <mxGeometry height="80" width="520" x="-200" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-7" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="AVNoVWuPyoNyMiQOui8A-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AVNoVWuPyoNyMiQOui8A-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-8" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol" vertex="1">
+          <mxGeometry height="60" width="200" x="90" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-9" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chormaghun" vertex="1">
+          <mxGeometry height="60" width="200" x="90" y="2410" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-10" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Georgian" vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-11" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol invasion of Georgian kingdom" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="2610" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-12" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="AVNoVWuPyoNyMiQOui8A-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AVNoVWuPyoNyMiQOui8A-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-13" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol" vertex="1">
+          <mxGeometry height="60" width="200" x="60" y="2750" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-14" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chormaghun" vertex="1">
+          <mxGeometry height="60" width="200" x="60" y="2860" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-15" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rum Seljuk" vertex="1">
+          <mxGeometry height="60" width="200" x="-300" y="2750" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-16" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol invasion of Irbil III" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-17" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="3260" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-22" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="AVNoVWuPyoNyMiQOui8A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AVNoVWuPyoNyMiQOui8A-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-23" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="AVNoVWuPyoNyMiQOui8A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AVNoVWuPyoNyMiQOui8A-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-24" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="AVNoVWuPyoNyMiQOui8A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AVNoVWuPyoNyMiQOui8A-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-18" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Muntasir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="-300" y="3260" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-19" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iqbal al-Sharabi" vertex="1">
+          <mxGeometry height="60" width="200" x="-300" y="3560" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-20" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Baʿalbek (Ayyubid) " vertex="1">
+          <mxGeometry height="60" width="200" x="-510" y="3560" as="geometry" />
+        </mxCell>
+        <mxCell id="AVNoVWuPyoNyMiQOui8A-21" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Damascus" vertex="1">
+          <mxGeometry height="60" width="200" x="-640" y="3420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
