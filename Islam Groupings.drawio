@@ -5042,7 +5042,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Mustanṣir bi-&#39;llāh" id="v4K4JfnXF8jsWcWt8WTC">
-    <mxGraphModel dx="1354" dy="-417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="-136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K3mIrj9lelTAxg-Mt3KA-0" />
         <mxCell id="K3mIrj9lelTAxg-Mt3KA-1" parent="K3mIrj9lelTAxg-Mt3KA-0" />
@@ -5132,6 +5132,15 @@
         </mxCell>
         <mxCell id="AVNoVWuPyoNyMiQOui8A-21" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Damascus" vertex="1">
           <mxGeometry height="60" width="200" x="-640" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="PsmS5IusCo8r1vi8goE5-0" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dehli" vertex="1">
+          <mxGeometry height="80" width="520" x="-210" y="3840" as="geometry" />
+        </mxCell>
+        <mxCell id="PsmS5IusCo8r1vi8goE5-1" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="3980" as="geometry" />
+        </mxCell>
+        <mxCell id="PsmS5IusCo8r1vi8goE5-2" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iltutmish (Ghurid)" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="4100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
