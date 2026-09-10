@@ -5200,7 +5200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Mustaʿṣim bi-&#39;llāh " id="f8ut0WEofT8ChGpf4tt8">
-    <mxGraphModel dx="1562" dy="-136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1711" dy="-17" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dWWUNNZiVgz5MRks3DN0-0" />
         <mxCell id="dWWUNNZiVgz5MRks3DN0-1" parent="dWWUNNZiVgz5MRks3DN0-0" />
@@ -5212,6 +5212,30 @@
         </mxCell>
         <mxCell id="dWWUNNZiVgz5MRks3DN0-7" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rum Seljuks " vertex="1">
           <mxGeometry height="60" width="200" x="-260" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="Qant2nkPvvA-PTvrZu1g-0" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongols conquest I" vertex="1">
+          <mxGeometry height="80" width="520" x="-180" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="Qant2nkPvvA-PTvrZu1g-1" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Berke Khan (Mongol) (Islam)" vertex="1">
+          <mxGeometry height="60" width="200" x="190" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="Qant2nkPvvA-PTvrZu1g-3" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hulegu (Mongol) (Shamanist)" vertex="1">
+          <mxGeometry height="60" width="200" x="-360" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="Qant2nkPvvA-PTvrZu1g-4" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongols campaign against the Isma&#39;ili" vertex="1">
+          <mxGeometry height="80" width="520" x="-160" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="Qant2nkPvvA-PTvrZu1g-5" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hulegu (Mongol)" vertex="1">
+          <mxGeometry height="60" width="200" x="160" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qant2nkPvvA-PTvrZu1g-6" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ismaʿili " vertex="1">
+          <mxGeometry height="60" width="200" x="-320" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qant2nkPvvA-PTvrZu1g-7" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rukn al-Din Khurshah" vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="2290" as="geometry" />
+        </mxCell>
+        <mxCell id="Qant2nkPvvA-PTvrZu1g-8" edge="1" parent="dWWUNNZiVgz5MRks3DN0-1" source="Qant2nkPvvA-PTvrZu1g-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Qant2nkPvvA-PTvrZu1g-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
