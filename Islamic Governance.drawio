@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Mustaʿṣim" id="R-xPP3Ud4DVwwcW81k0G">
-    <mxGraphModel dx="605" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="603" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AWjuPmdkEKzA0Zz951AX-0" />
         <mxCell id="AWjuPmdkEKzA0Zz951AX-1" parent="AWjuPmdkEKzA0Zz951AX-0" />
@@ -262,11 +262,23 @@
         <mxCell id="AWjuPmdkEKzA0Zz951AX-7" edge="1" parent="AWjuPmdkEKzA0Zz951AX-1" source="AWjuPmdkEKzA0Zz951AX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AWjuPmdkEKzA0Zz951AX-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8A3Hp-JtPS90bN0kDNOL-2" edge="1" parent="AWjuPmdkEKzA0Zz951AX-1" source="AWjuPmdkEKzA0Zz951AX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="8A3Hp-JtPS90bN0kDNOL-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AWjuPmdkEKzA0Zz951AX-8" parent="AWjuPmdkEKzA0Zz951AX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="appoint directly" vertex="1">
           <mxGeometry height="60" width="120" x="240" y="290" as="geometry" />
         </mxCell>
         <mxCell id="AWjuPmdkEKzA0Zz951AX-9" parent="AWjuPmdkEKzA0Zz951AX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ibn al-ʿAlqami (Shi&#39;i)" vertex="1">
           <mxGeometry height="60" width="120" x="240" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="8A3Hp-JtPS90bN0kDNOL-3" edge="1" parent="AWjuPmdkEKzA0Zz951AX-1" source="8A3Hp-JtPS90bN0kDNOL-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="8A3Hp-JtPS90bN0kDNOL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A3Hp-JtPS90bN0kDNOL-0" parent="AWjuPmdkEKzA0Zz951AX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dawatdar (the keeper of the inkpot)" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="8A3Hp-JtPS90bN0kDNOL-1" parent="AWjuPmdkEKzA0Zz951AX-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aybak" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
