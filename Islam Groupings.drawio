@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="48">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="49">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
     <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5042,10 +5042,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Mustanṣir bi-&#39;llāh" id="v4K4JfnXF8jsWcWt8WTC">
-    <mxGraphModel dx="1562" dy="-136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="70" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K3mIrj9lelTAxg-Mt3KA-0" />
         <mxCell id="K3mIrj9lelTAxg-Mt3KA-1" parent="K3mIrj9lelTAxg-Mt3KA-0" />
+        <mxCell id="e6N45A9G2Cscw37am7uu-3" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Neutral" vertex="1">
+          <mxGeometry height="210" width="750" x="-375" y="4810" as="geometry" />
+        </mxCell>
         <mxCell id="K3mIrj9lelTAxg-Mt3KA-2" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol invasion of Asia Minor and western Iran" vertex="1">
           <mxGeometry height="80" width="520" x="-180" y="1220" as="geometry" />
         </mxCell>
@@ -5141,6 +5144,74 @@
         </mxCell>
         <mxCell id="PsmS5IusCo8r1vi8goE5-2" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iltutmish (Ghurid)" vertex="1">
           <mxGeometry height="60" width="200" x="80" y="4100" as="geometry" />
+        </mxCell>
+        <mxCell id="hwcsOYu4TcnfGyaJk4Tp-0" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seljuk Rum invasion of Ayyubid" vertex="1">
+          <mxGeometry height="80" width="520" x="-210" y="4410" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-0" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ayyubid " vertex="1">
+          <mxGeometry height="60" width="200" x="-320" y="4590" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-1" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mustansir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="-100" y="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-2" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;ʿAla al-Din Kayqubad (Seljuk Rum)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="200" x="110" y="4590" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-4" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol invasion of Iraq II" vertex="1">
+          <mxGeometry height="80" width="520" x="-200" y="5320" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-11" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="e6N45A9G2Cscw37am7uu-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="e6N45A9G2Cscw37am7uu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-5" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mustansir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="-280" y="5450" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-6" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol " vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="5450" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-12" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="e6N45A9G2Cscw37am7uu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="e6N45A9G2Cscw37am7uu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-13" edge="1" parent="K3mIrj9lelTAxg-Mt3KA-1" source="e6N45A9G2Cscw37am7uu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="e6N45A9G2Cscw37am7uu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-7" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ayyubid rulers " vertex="1">
+          <mxGeometry height="60" width="200" x="-280" y="5740" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-8" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Baʿalbek " vertex="1">
+          <mxGeometry height="60" width="190" x="-200" y="5870" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-9" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Damascus" vertex="1">
+          <mxGeometry height="60" width="190" x="-490" y="5870" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-10" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iqbal al-Sharabi" vertex="1">
+          <mxGeometry height="60" width="200" x="-280" y="5570" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-14" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rasulid dynasty II" vertex="1">
+          <mxGeometry height="80" width="520" x="-200" y="6120" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-15" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nur al-Din Umar b. Ali b. Rasul (Rasulid) " vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="6410" as="geometry" />
+        </mxCell>
+        <mxCell id="e6N45A9G2Cscw37am7uu-16" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mustansir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="6260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Al-Mustaʿṣim bi-&#39;llāh " id="f8ut0WEofT8ChGpf4tt8">
+    <mxGraphModel dx="1562" dy="-136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="dWWUNNZiVgz5MRks3DN0-0" />
+        <mxCell id="dWWUNNZiVgz5MRks3DN0-1" parent="dWWUNNZiVgz5MRks3DN0-0" />
+        <mxCell id="dWWUNNZiVgz5MRks3DN0-3" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mongol invasion of Rum Seljuk II" vertex="1">
+          <mxGeometry height="80" width="520" x="-180" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="dWWUNNZiVgz5MRks3DN0-6" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Baiju (Mongol) " vertex="1">
+          <mxGeometry height="60" width="200" x="100" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="dWWUNNZiVgz5MRks3DN0-7" parent="dWWUNNZiVgz5MRks3DN0-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rum Seljuks " vertex="1">
+          <mxGeometry height="60" width="200" x="-260" y="1360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
