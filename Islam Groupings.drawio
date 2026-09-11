@@ -5042,7 +5042,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Mustanṣir bi-&#39;llāh" id="v4K4JfnXF8jsWcWt8WTC">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2691" dy="-207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K3mIrj9lelTAxg-Mt3KA-0" />
         <mxCell id="K3mIrj9lelTAxg-Mt3KA-1" parent="K3mIrj9lelTAxg-Mt3KA-0" />
@@ -5196,11 +5196,23 @@
         <mxCell id="e6N45A9G2Cscw37am7uu-16" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mustansir (Abassid)" vertex="1">
           <mxGeometry height="60" width="200" x="70" y="6260" as="geometry" />
         </mxCell>
+        <mxCell id="t9UfPP-J7Bq59q5gG-td-0" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Irbil II" vertex="1">
+          <mxGeometry height="80" width="520" x="-300" y="6580" as="geometry" />
+        </mxCell>
+        <mxCell id="t9UfPP-J7Bq59q5gG-td-1" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mustansir (Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="6760" as="geometry" />
+        </mxCell>
+        <mxCell id="t9UfPP-J7Bq59q5gG-td-2" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Badr al-Din Luʾluʾ " vertex="1">
+          <mxGeometry height="60" width="200" x="-290" y="6840" as="geometry" />
+        </mxCell>
+        <mxCell id="t9UfPP-J7Bq59q5gG-td-3" parent="K3mIrj9lelTAxg-Mt3KA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mosul" vertex="1">
+          <mxGeometry height="60" width="200" x="-280" y="6740" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Mustaʿṣim bi-&#39;llāh " id="f8ut0WEofT8ChGpf4tt8">
-    <mxGraphModel dx="1711" dy="-17" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3258" dy="68" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dWWUNNZiVgz5MRks3DN0-0" />
         <mxCell id="dWWUNNZiVgz5MRks3DN0-1" parent="dWWUNNZiVgz5MRks3DN0-0" />
