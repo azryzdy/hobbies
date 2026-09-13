@@ -4331,7 +4331,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Qādir bi-&#39;llāh" id="gOh_j_CI-iZx_HpBE-Ee">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="3446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7pyQ23XqkWuO16DftvKP-0" />
         <mxCell id="7pyQ23XqkWuO16DftvKP-1" parent="7pyQ23XqkWuO16DftvKP-0" />
@@ -4371,11 +4371,26 @@
         <mxCell id="guPOzTZDs3TOETxlAJ9D-6" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muʿtazili " vertex="1">
           <mxGeometry height="60" width="200" x="-310" y="-830" as="geometry" />
         </mxCell>
+        <mxCell id="t05Mn_-TelGKx29XQeIB-0" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ghaznavid" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="-330" as="geometry" />
+        </mxCell>
+        <mxCell id="t05Mn_-TelGKx29XQeIB-1" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ghaznavid" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="t05Mn_-TelGKx29XQeIB-2" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Buyid" vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="t05Mn_-TelGKx29XQeIB-3" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Samanids " vertex="1">
+          <mxGeometry height="60" width="200" x="-270" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="t05Mn_-TelGKx29XQeIB-4" parent="7pyQ23XqkWuO16DftvKP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mahmud of Ghazna (Ghaznavid) " vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Qāʾim bi-amri &#39;llāh" id="PexE6vTyEYwQL0XlkVED">
-    <mxGraphModel dx="1493" dy="3019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1855" dy="3550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0cJTKeOjVp0qbVQwRUJF-0" />
         <mxCell id="0cJTKeOjVp0qbVQwRUJF-1" parent="0cJTKeOjVp0qbVQwRUJF-0" />
@@ -4495,6 +4510,15 @@
         </mxCell>
         <mxCell id="yXDI-Irl-8XRjAI6VLov-4" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mazyadids" vertex="1">
           <mxGeometry height="60" width="200" x="-540" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="JwPhUMORlRQIArhuXjh6-0" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zirid " vertex="1">
+          <mxGeometry height="80" width="520" x="-250" y="2780" as="geometry" />
+        </mxCell>
+        <mxCell id="JwPhUMORlRQIArhuXjh6-1" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zirid " vertex="1">
+          <mxGeometry height="60" width="200" x="60" y="3060" as="geometry" />
+        </mxCell>
+        <mxCell id="JwPhUMORlRQIArhuXjh6-2" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid " vertex="1">
+          <mxGeometry height="60" width="200" x="60" y="2940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
