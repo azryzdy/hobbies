@@ -4209,6 +4209,15 @@
         <mxCell id="ieC_Tz_lV9xFaaV2zYol-6" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Mustakfi coup" vertex="1">
           <mxGeometry height="80" width="520" x="-200" y="-1060" as="geometry" />
         </mxCell>
+        <mxCell id="eUyZEjux5nnPFePqKn1b-0" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aleppo" vertex="1">
+          <mxGeometry height="80" width="520" x="-230" y="-590" as="geometry" />
+        </mxCell>
+        <mxCell id="eUyZEjux5nnPFePqKn1b-1" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hamdanids " vertex="1">
+          <mxGeometry height="60" width="200" x="60" y="-430" as="geometry" />
+        </mxCell>
+        <mxCell id="eUyZEjux5nnPFePqKn1b-2" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ikhshidids " vertex="1">
+          <mxGeometry height="60" width="200" x="-250" y="-430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -4405,7 +4414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Qāʾim bi-amri &#39;llāh" id="PexE6vTyEYwQL0XlkVED">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1855" dy="3550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0cJTKeOjVp0qbVQwRUJF-0" />
         <mxCell id="0cJTKeOjVp0qbVQwRUJF-1" parent="0cJTKeOjVp0qbVQwRUJF-0" />
@@ -4534,6 +4543,15 @@
         </mxCell>
         <mxCell id="JwPhUMORlRQIArhuXjh6-2" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abassid " vertex="1">
           <mxGeometry height="60" width="200" x="60" y="2940" as="geometry" />
+        </mxCell>
+        <mxCell id="CpNHWHlHoHYuS_kDiroT-0" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fall of Buyids" vertex="1">
+          <mxGeometry height="80" width="520" x="-210" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="CpNHWHlHoHYuS_kDiroT-1" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turkic Seljuks " vertex="1">
+          <mxGeometry height="60" width="200" x="90" y="3530" as="geometry" />
+        </mxCell>
+        <mxCell id="CpNHWHlHoHYuS_kDiroT-2" parent="0cJTKeOjVp0qbVQwRUJF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Buyids " vertex="1">
+          <mxGeometry height="60" width="200" x="-280" y="3530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
