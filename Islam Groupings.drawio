@@ -4175,7 +4175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Mustakfī bi-ʾllāh" id="JF5xx7UDOQ_XixvE-g6h">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="3010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oqjQTMHCnZaGp4oBd8vB-0" />
         <mxCell id="oqjQTMHCnZaGp4oBd8vB-1" parent="oqjQTMHCnZaGp4oBd8vB-0" />
@@ -4193,6 +4193,21 @@
         </mxCell>
         <mxCell id="H8Kj6kk30TNaThkc8Rwx-1" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mutiʿ(Abassid)" vertex="1">
           <mxGeometry height="60" width="200" x="130" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="ieC_Tz_lV9xFaaV2zYol-2" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Buyids " vertex="1">
+          <mxGeometry height="60" width="200" x="110" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="ieC_Tz_lV9xFaaV2zYol-3" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Mustakfi (Abassid) " vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="ieC_Tz_lV9xFaaV2zYol-4" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hamdanids " vertex="1">
+          <mxGeometry height="60" width="200" x="-240" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="ieC_Tz_lV9xFaaV2zYol-5" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="al-Mutiʿ(Abassid)" vertex="1">
+          <mxGeometry height="60" width="200" x="110" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="ieC_Tz_lV9xFaaV2zYol-6" parent="oqjQTMHCnZaGp4oBd8vB-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al-Mustakfi coup" vertex="1">
+          <mxGeometry height="80" width="520" x="-200" y="-1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -4390,7 +4405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Al-Qāʾim bi-amri &#39;llāh" id="PexE6vTyEYwQL0XlkVED">
-    <mxGraphModel dx="1855" dy="3550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0cJTKeOjVp0qbVQwRUJF-0" />
         <mxCell id="0cJTKeOjVp0qbVQwRUJF-1" parent="0cJTKeOjVp0qbVQwRUJF-0" />
