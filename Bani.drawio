@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" pages="3">
   <diagram name="Bani" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="919" dy="3370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="709" dy="3153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,6 +557,15 @@
         </mxCell>
         <mxCell id="iX2ljL9C1SbOVKeshryk-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ibn Tabataba" vertex="1">
           <mxGeometry height="60" width="330" x="1860" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="AggKTUShWD3s0qcyzlhC-4" edge="1" parent="1" source="AggKTUShWD3s0qcyzlhC-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AggKTUShWD3s0qcyzlhC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AggKTUShWD3s0qcyzlhC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Bakr" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="-1910" as="geometry" />
+        </mxCell>
+        <mxCell id="AggKTUShWD3s0qcyzlhC-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muthana bin Harisa" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="-1910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
