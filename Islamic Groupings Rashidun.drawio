@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="w60m8WIyoJxLE3rOSVDg">
-    <mxGraphModel>
+    <mxGraphModel dx="1711" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nVAWy4OIQIlhX9wqcSl5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Prelude to Arab conquest of Persia" vertex="1">
+          <mxGeometry height="80" width="460" x="-200" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nVAWy4OIQIlhX9wqcSl5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Bakar" vertex="1">
+          <mxGeometry height="60" width="230" x="40" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="nVAWy4OIQIlhX9wqcSl5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muthana bin Harisa (Bakr)" vertex="1">
+          <mxGeometry height="60" width="230" x="340" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="nVAWy4OIQIlhX9wqcSl5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khalid bin Al Walid" vertex="1">
+          <mxGeometry height="60" width="230" x="40" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="nVAWy4OIQIlhX9wqcSl5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hormuz (Sassanian)" vertex="1">
+          <mxGeometry height="60" width="230" x="-380" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="nVAWy4OIQIlhX9wqcSl5-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Empress Buran (Sassanian)" vertex="1">
+          <mxGeometry height="60" width="230" x="-380" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="nVAWy4OIQIlhX9wqcSl5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Madhaar" vertex="1">
+          <mxGeometry height="60" width="230" x="340" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="nVAWy4OIQIlhX9wqcSl5-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Harmalah " vertex="1">
+          <mxGeometry height="60" width="230" x="30" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="nVAWy4OIQIlhX9wqcSl5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Salama " vertex="1">
+          <mxGeometry height="60" width="230" x="340" y="700" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
