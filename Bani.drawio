@@ -303,13 +303,6 @@
         <mxCell id="r59EUpsTojXZvJyB6L8P-2" edge="1" parent="1" source="7fHL11S82EaweBNOzoeL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="r59EUpsTojXZvJyB6L8P-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GExbEahdvl2ZTJkVOt9B-2" edge="1" parent="1" source="7fHL11S82EaweBNOzoeL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="GExbEahdvl2ZTJkVOt9B-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1565" y="1780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7fHL11S82EaweBNOzoeL-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Azd" vertex="1">
           <mxGeometry height="60" width="330" x="1400" y="1460" as="geometry" />
         </mxCell>
@@ -573,6 +566,13 @@
         </mxCell>
         <mxCell id="AggKTUShWD3s0qcyzlhC-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muthana bin Harisa" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="-1910" as="geometry" />
+        </mxCell>
+        <mxCell id="GExbEahdvl2ZTJkVOt9B-2" edge="1" parent="1" source="7fHL11S82EaweBNOzoeL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="GExbEahdvl2ZTJkVOt9B-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1565" y="1780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GExbEahdvl2ZTJkVOt9B-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Tribe of Khuz&#39;a" vertex="1">
           <mxGeometry height="60" width="330" x="3150" y="1750" as="geometry" />
