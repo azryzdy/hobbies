@@ -1269,7 +1269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Umar" id="uEkYC7JuCOBjctCHZX0U">
-    <mxGraphModel dx="1363" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0g6hFQXNE55nwzumCWPD-0" />
         <mxCell id="0g6hFQXNE55nwzumCWPD-1" parent="0g6hFQXNE55nwzumCWPD-0" />
@@ -1307,22 +1307,25 @@
           <mxGeometry height="60" width="120" x="80" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="WqevHzVO6ywa5yNhNVjW-9" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muthana (Bakar)" vertex="1">
-          <mxGeometry height="60" width="120" x="-170" y="1500" as="geometry" />
+          <mxGeometry height="60" width="120" x="-450" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="WqevHzVO6ywa5yNhNVjW-10" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Ubayd" vertex="1">
-          <mxGeometry height="60" width="120" x="-100" y="1410" as="geometry" />
+          <mxGeometry height="60" width="120" x="-190" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="WqevHzVO6ywa5yNhNVjW-11" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bahma" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="1500" as="geometry" />
         </mxCell>
         <mxCell id="WqevHzVO6ywa5yNhNVjW-12" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saleet bin Qeis" vertex="1">
-          <mxGeometry height="60" width="120" x="-310" y="1500" as="geometry" />
+          <mxGeometry height="60" width="120" x="-440" y="1610" as="geometry" />
         </mxCell>
-        <mxCell id="WqevHzVO6ywa5yNhNVjW-13" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jabr ibn Muthana (Bakar)" vertex="1">
-          <mxGeometry height="60" width="120" x="-170" y="1600" as="geometry" />
+        <mxCell id="WqevHzVO6ywa5yNhNVjW-13" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jabr&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="1520" as="geometry" />
         </mxCell>
-        <mxCell id="WqevHzVO6ywa5yNhNVjW-14" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Hakam (Bakar)" vertex="1">
-          <mxGeometry height="60" width="120" x="-170" y="1700" as="geometry" />
+        <mxCell id="WqevHzVO6ywa5yNhNVjW-14" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Mihjan" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="WqevHzVO6ywa5yNhNVjW-15" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Hakam&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-250" y="1520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
