@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" pages="3">
   <diagram name="Bani" id="TrGZFDelVthUmvKt1ggT">
-    <mxGraphModel dx="2714" dy="3509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="742" dy="3198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,6 +600,33 @@
         </mxCell>
         <mxCell id="qKNmuocpfj1QscOHjGrN-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Mikhnaf b. Sulaymān" vertex="1">
           <mxGeometry height="60" width="330" x="1810" y="2140" as="geometry" />
+        </mxCell>
+        <mxCell id="IwvSk4hEHRyW7zClGUuH-3" edge="1" parent="1" source="IwvSk4hEHRyW7zClGUuH-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="IwvSk4hEHRyW7zClGUuH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IwvSk4hEHRyW7zClGUuH-6" edge="1" parent="1" source="IwvSk4hEHRyW7zClGUuH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="IwvSk4hEHRyW7zClGUuH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IwvSk4hEHRyW7zClGUuH-7" edge="1" parent="1" source="IwvSk4hEHRyW7zClGUuH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="IwvSk4hEHRyW7zClGUuH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IwvSk4hEHRyW7zClGUuH-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Saqeef" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="IwvSk4hEHRyW7zClGUuH-9" edge="1" parent="1" source="IwvSk4hEHRyW7zClGUuH-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="IwvSk4hEHRyW7zClGUuH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IwvSk4hEHRyW7zClGUuH-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Ubayd" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="IwvSk4hEHRyW7zClGUuH-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Mihjan" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="IwvSk4hEHRyW7zClGUuH-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Hakam&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="IwvSk4hEHRyW7zClGUuH-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jabr" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="-570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
