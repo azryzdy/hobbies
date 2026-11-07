@@ -1246,7 +1246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abu Bakar" id="83rlQQ7PDwor_I7lq4Mb">
-    <mxGraphModel dx="3528" dy="3574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qQsethSqkqEpOzW3vHwH-0" />
         <mxCell id="qQsethSqkqEpOzW3vHwH-1" parent="qQsethSqkqEpOzW3vHwH-0" />
@@ -1265,11 +1265,14 @@
         <mxCell id="qQsethSqkqEpOzW3vHwH-16" parent="qQsethSqkqEpOzW3vHwH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Christians Arab army " vertex="1">
           <mxGeometry height="60" width="120" x="40" y="590" as="geometry" />
         </mxCell>
+        <mxCell id="nbP9tLj3LnvYnz81zKTP-0" parent="qQsethSqkqEpOzW3vHwH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Hira" vertex="1">
+          <mxGeometry height="80" width="480" x="-200" y="810" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Umar" id="uEkYC7JuCOBjctCHZX0U">
-    <mxGraphModel dx="1730" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1743" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0g6hFQXNE55nwzumCWPD-0" />
         <mxCell id="0g6hFQXNE55nwzumCWPD-1" parent="0g6hFQXNE55nwzumCWPD-0" />
@@ -1307,7 +1310,7 @@
           <mxGeometry height="60" width="120" x="80" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="WqevHzVO6ywa5yNhNVjW-9" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muthana (Bakar)" vertex="1">
-          <mxGeometry height="60" width="120" x="-450" y="1520" as="geometry" />
+          <mxGeometry height="60" width="120" x="-440" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="WqevHzVO6ywa5yNhNVjW-10" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Ubayd" vertex="1">
           <mxGeometry height="60" width="120" x="-190" y="1400" as="geometry" />
@@ -1326,6 +1329,15 @@
         </mxCell>
         <mxCell id="WqevHzVO6ywa5yNhNVjW-15" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Al Hakam&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="-250" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="62rdzIHD3-Hs9IcVZ16Z-2" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="62rdzIHD3-Hs9IcVZ16Z-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="WqevHzVO6ywa5yNhNVjW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62rdzIHD3-Hs9IcVZ16Z-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saqeef tribe" vertex="1">
+          <mxGeometry height="60" width="120" x="-420" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="62rdzIHD3-Hs9IcVZ16Z-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Asim bin Amr" vertex="1">
+          <mxGeometry height="60" width="120" x="-440" y="1710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
