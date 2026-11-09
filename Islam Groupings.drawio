@@ -1272,7 +1272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Umar" id="uEkYC7JuCOBjctCHZX0U">
-    <mxGraphModel dx="1466" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1746" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0g6hFQXNE55nwzumCWPD-0" />
         <mxCell id="0g6hFQXNE55nwzumCWPD-1" parent="0g6hFQXNE55nwzumCWPD-0" />
@@ -1389,6 +1389,30 @@
         </mxCell>
         <mxCell id="eb27Vd35iXnx5yKmX6Ue-16" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Masud (Bakr)" vertex="1">
           <mxGeometry height="60" width="120" x="-550" y="2370" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iraq Raid I" vertex="1">
+          <mxGeometry height="80" width="480" x="-240" y="3200" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-1" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qutba bin Qatada " vertex="1">
+          <mxGeometry height="60" width="120" x="-230" y="3390" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-2" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Persian" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="3390" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-3" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shareeh bin Amr " vertex="1">
+          <mxGeometry height="60" width="120" x="-320" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Utba bin Ghazwan" vertex="1">
+          <mxGeometry height="60" width="120" x="-150" y="3510" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-5" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="2nd Battle of Uballa" vertex="1">
+          <mxGeometry height="80" width="480" x="-230" y="3690" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-6" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Utba bin Ghazwan" vertex="1">
+          <mxGeometry height="60" width="120" x="-170" y="3830" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-7" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Persian" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="3830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
