@@ -1414,6 +1414,21 @@
         <mxCell id="MQdnwgAh_GgR4cfHwj6i-7" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Persian" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="3830" as="geometry" />
         </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-8" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muslims disrupting Persian supply lines" vertex="1">
+          <mxGeometry height="80" width="480" x="-240" y="3990" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-9" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Utba bin Ghazwan" vertex="1">
+          <mxGeometry height="60" width="120" x="-170" y="4140" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-10" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Persian" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="4140" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-11" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mugheerah bin Shu&#39;ba " vertex="1">
+          <mxGeometry height="60" width="120" x="-270" y="4270" as="geometry" />
+        </mxCell>
+        <mxCell id="MQdnwgAh_GgR4cfHwj6i-12" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Feelhan" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="4290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
