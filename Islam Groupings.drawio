@@ -1339,7 +1339,7 @@
         <mxCell id="62rdzIHD3-Hs9IcVZ16Z-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Asim bin Amr" vertex="1">
           <mxGeometry height="60" width="120" x="-440" y="1710" as="geometry" />
         </mxCell>
-        <mxCell id="eb27Vd35iXnx5yKmX6Ue-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Al Qadissiyah " vertex="1">
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Buweb" vertex="1">
           <mxGeometry height="80" width="480" x="-210" y="2240" as="geometry" />
         </mxCell>
         <mxCell id="eb27Vd35iXnx5yKmX6Ue-1" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muthana (Bakr)" vertex="1">
@@ -1377,6 +1377,15 @@
         </mxCell>
         <mxCell id="eb27Vd35iXnx5yKmX6Ue-12" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rustam" vertex="1">
           <mxGeometry height="60" width="120" x="110" y="2370" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-13" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mardanshah " vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="2590" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-14" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Adi bin Hatim " vertex="1">
+          <mxGeometry height="60" width="120" x="-390" y="2470" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-15" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mu&#39;anna (Bakr)" vertex="1">
+          <mxGeometry height="60" width="120" x="-400" y="2370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
