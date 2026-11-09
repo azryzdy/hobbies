@@ -1272,7 +1272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Umar" id="uEkYC7JuCOBjctCHZX0U">
-    <mxGraphModel dx="1743" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0g6hFQXNE55nwzumCWPD-0" />
         <mxCell id="0g6hFQXNE55nwzumCWPD-1" parent="0g6hFQXNE55nwzumCWPD-0" />
@@ -1338,6 +1338,45 @@
         </mxCell>
         <mxCell id="62rdzIHD3-Hs9IcVZ16Z-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Asim bin Amr" vertex="1">
           <mxGeometry height="60" width="120" x="-440" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Al Qadissiyah " vertex="1">
+          <mxGeometry height="80" width="480" x="-210" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-1" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muthana (Bakr)" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="2370" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-2" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Local tribes of Zu Qar" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-5" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="eb27Vd35iXnx5yKmX6Ue-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="eb27Vd35iXnx5yKmX6Ue-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-3" parent="0g6hFQXNE55nwzumCWPD-1" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1" value="Tribe of Bajila/Bajeela" vertex="1">
+          <mxGeometry height="60" width="120" x="-390" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-4" parent="0g6hFQXNE55nwzumCWPD-1" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1" value="Jareer bin Abdullah " vertex="1">
+          <mxGeometry height="60" width="120" x="-390" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-9" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="eb27Vd35iXnx5yKmX6Ue-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="eb27Vd35iXnx5yKmX6Ue-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-10" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="eb27Vd35iXnx5yKmX6Ue-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="eb27Vd35iXnx5yKmX6Ue-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-6" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Christian Arabs" vertex="1">
+          <mxGeometry height="60" width="120" x="-610" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-7" parent="0g6hFQXNE55nwzumCWPD-1" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1" value="Trribes of Namr&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-740" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-8" parent="0g6hFQXNE55nwzumCWPD-1" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1" value="Trribes of Taghlib" vertex="1">
+          <mxGeometry height="60" width="120" x="-550" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-11" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mihran " vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="2470" as="geometry" />
+        </mxCell>
+        <mxCell id="eb27Vd35iXnx5yKmX6Ue-12" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rustam" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="2370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
