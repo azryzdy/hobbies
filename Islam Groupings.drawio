@@ -1439,28 +1439,28 @@
           <mxGeometry height="60" width="120" x="140" y="4290" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Al Qadissiyah " vertex="1">
-          <mxGeometry height="80" width="480" x="-210" y="4940" as="geometry" />
+          <mxGeometry height="80" width="480" x="-210" y="6020" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-2" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sa&#39;d bin Abi Waqqas " vertex="1">
-          <mxGeometry height="60" width="120" x="-190" y="5090" as="geometry" />
+          <mxGeometry height="60" width="120" x="-190" y="6170" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-3" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Persians" vertex="1">
-          <mxGeometry height="60" width="120" x="100" y="5090" as="geometry" />
+          <mxGeometry height="60" width="120" x="100" y="6170" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tribes in&amp;nbsp;Northern Arabia " vertex="1">
-          <mxGeometry height="60" width="120" x="-310" y="5170" as="geometry" />
+          <mxGeometry height="60" width="120" x="-310" y="6250" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-5" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Asad " vertex="1">
-          <mxGeometry height="60" width="120" x="-310" y="5280" as="geometry" />
+          <mxGeometry height="60" width="120" x="-310" y="6360" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-8" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="_IktJnPLSjU5ZKN041vB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_IktJnPLSjU5ZKN041vB-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-6" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Tameem" vertex="1">
-          <mxGeometry height="60" width="120" x="-150" y="5280" as="geometry" />
+          <mxGeometry height="60" width="120" x="-150" y="6360" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-7" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tuleiha the Impostor" vertex="1">
-          <mxGeometry height="60" width="120" x="-150" y="5410" as="geometry" />
+          <mxGeometry height="60" width="120" x="-150" y="6490" as="geometry" />
         </mxCell>
         <mxCell id="73B4yVHdj-oohTQlYhyu-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iraq VI" vertex="1">
           <mxGeometry height="80" width="480" x="-210" y="4470" as="geometry" />
@@ -1476,6 +1476,51 @@
         </mxCell>
         <mxCell id="73B4yVHdj-oohTQlYhyu-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rest of war council" vertex="1">
           <mxGeometry height="60" width="120" x="-220" y="4700" as="geometry" />
+        </mxCell>
+        <mxCell id="_IktJnPLSjU5ZKN041vB-9" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abu Ubayda " vertex="1">
+          <mxGeometry height="60" width="120" x="-485" y="6360" as="geometry" />
+        </mxCell>
+        <mxCell id="_IktJnPLSjU5ZKN041vB-10" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ash&#39;as bin Qeis" vertex="1">
+          <mxGeometry height="60" width="120" x="-485" y="6460" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-1" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Yarmuk" vertex="1">
+          <mxGeometry height="80" width="480" x="-240" y="5140" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-2" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Romans" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="5270" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-3" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Khalid al Walid" vertex="1">
+          <mxGeometry height="60" width="120" x="-200" y="5270" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qeis bin Hubeira" vertex="1">
+          <mxGeometry height="60" width="120" x="-480" y="5480" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-5" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Amr bin Madi Karib" vertex="1">
+          <mxGeometry height="60" width="120" x="-310" y="5480" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-10" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="42yXCarwIyLlkgZ1-XbG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="42yXCarwIyLlkgZ1-XbG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-6" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hadramaut&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-310" y="5360" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-9" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="42yXCarwIyLlkgZ1-XbG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="42yXCarwIyLlkgZ1-XbG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-8" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tribes from the&lt;br&gt;Yemen&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-480" y="5360" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-13" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="42yXCarwIyLlkgZ1-XbG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="42yXCarwIyLlkgZ1-XbG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-11" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Murad" vertex="1">
+          <mxGeometry height="60" width="120" x="-130" y="5360" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-12" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qeis bin Hubeira" vertex="1">
+          <mxGeometry height="60" width="120" x="-130" y="5480" as="geometry" />
+        </mxCell>
+        <mxCell id="42yXCarwIyLlkgZ1-XbG-14" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="42yXCarwIyLlkgZ1-XbG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="42yXCarwIyLlkgZ1-XbG-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
