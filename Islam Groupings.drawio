@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" pages="51">
   <diagram name="PBUH time" id="C8i3WLQxmWEh302RJsA9">
-    <mxGraphModel dx="1470" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="2299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1242,6 +1242,15 @@
         <mxCell id="Qe5ka3AdiSXzaQ8QT8G_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sufyanids" vertex="1">
           <mxGeometry height="60" width="120" x="-100" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="wZLMUojjdszhUJ6Cz2gI-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Battle of Uhud" vertex="1">
+          <mxGeometry height="60" width="1560" x="70" y="-900" as="geometry" />
+        </mxCell>
+        <mxCell id="wZLMUojjdszhUJ6Cz2gI-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PBUH" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="-760" as="geometry" />
+        </mxCell>
+        <mxCell id="wZLMUojjdszhUJ6Cz2gI-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sa&#39;d bin Abi Waqqas" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="-645" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1272,7 +1281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Umar" id="uEkYC7JuCOBjctCHZX0U">
-    <mxGraphModel dx="1746" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0g6hFQXNE55nwzumCWPD-0" />
         <mxCell id="0g6hFQXNE55nwzumCWPD-1" parent="0g6hFQXNE55nwzumCWPD-0" />
@@ -1428,6 +1437,21 @@
         </mxCell>
         <mxCell id="MQdnwgAh_GgR4cfHwj6i-12" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Feelhan" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="4290" as="geometry" />
+        </mxCell>
+        <mxCell id="73B4yVHdj-oohTQlYhyu-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iraq VI" vertex="1">
+          <mxGeometry height="80" width="480" x="-210" y="4470" as="geometry" />
+        </mxCell>
+        <mxCell id="73B4yVHdj-oohTQlYhyu-1" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Talha bin Ubaydullah " vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="4700" as="geometry" />
+        </mxCell>
+        <mxCell id="73B4yVHdj-oohTQlYhyu-2" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali bin Abi Talib" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="4610" as="geometry" />
+        </mxCell>
+        <mxCell id="73B4yVHdj-oohTQlYhyu-3" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abdur Rahman bin Auf" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="4610" as="geometry" />
+        </mxCell>
+        <mxCell id="73B4yVHdj-oohTQlYhyu-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rest of war council" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="4700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
