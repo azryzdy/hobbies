@@ -1281,7 +1281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Umar" id="uEkYC7JuCOBjctCHZX0U">
-    <mxGraphModel dx="1468" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2445" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0g6hFQXNE55nwzumCWPD-0" />
         <mxCell id="0g6hFQXNE55nwzumCWPD-1" parent="0g6hFQXNE55nwzumCWPD-0" />
@@ -1527,6 +1527,27 @@
         </mxCell>
         <mxCell id="42yXCarwIyLlkgZ1-XbG-15" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zuhra bin AI Hawiya&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="-310" y="6690" as="geometry" />
+        </mxCell>
+        <mxCell id="mn5lRAdhMjZR0bR7NPeM-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Persian reaction to 2nd muslim invasion II" vertex="1">
+          <mxGeometry height="80" width="480" x="-250" y="2770" as="geometry" />
+        </mxCell>
+        <mxCell id="mn5lRAdhMjZR0bR7NPeM-1" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rustam" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="2890" as="geometry" />
+        </mxCell>
+        <mxCell id="mn5lRAdhMjZR0bR7NPeM-2" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Feerzan" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="2890" as="geometry" />
+        </mxCell>
+        <mxCell id="mn5lRAdhMjZR0bR7NPeM-3" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Noman bin Muqarrin" vertex="1">
+          <mxGeometry height="60" width="120" x="-680" y="6250" as="geometry" />
+        </mxCell>
+        <mxCell id="mn5lRAdhMjZR0bR7NPeM-5" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Muanna bin Harisa" vertex="1">
+          <mxGeometry height="60" width="120" x="-910" y="6250" as="geometry" />
+        </mxCell>
+        <mxCell id="mn5lRAdhMjZR0bR7NPeM-6" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Asim bin Amr " vertex="1">
+          <mxGeometry height="60" width="120" x="-790" y="6360" as="geometry" />
+        </mxCell>
+        <mxCell id="mn5lRAdhMjZR0bR7NPeM-7" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mugheerah bin Zurara /&amp;nbsp;Al Mugheerah " vertex="1">
+          <mxGeometry height="60" width="120" x="-670" y="6460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
