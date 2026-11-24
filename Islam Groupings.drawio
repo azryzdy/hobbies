@@ -1445,7 +1445,7 @@
           <mxGeometry height="60" width="120" x="-190" y="6170" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-3" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Persians" vertex="1">
-          <mxGeometry height="60" width="120" x="100" y="6170" as="geometry" />
+          <mxGeometry height="60" width="120" x="100" y="6180" as="geometry" />
         </mxCell>
         <mxCell id="_IktJnPLSjU5ZKN041vB-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tribes in&amp;nbsp;Northern Arabia " vertex="1">
           <mxGeometry height="60" width="120" x="-310" y="6250" as="geometry" />
@@ -1548,6 +1548,36 @@
         </mxCell>
         <mxCell id="mn5lRAdhMjZR0bR7NPeM-7" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mugheerah bin Zurara /&amp;nbsp;Al Mugheerah " vertex="1">
           <mxGeometry height="60" width="120" x="-670" y="6460" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jalinus " vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="6410" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-1" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rustam " vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="6280" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-3" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bahman&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="6410" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-4" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Amr bin Madi karib " vertex="1">
+          <mxGeometry height="60" width="120" x="-485" y="6690" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-5" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tuleiha bin Khuweilad" vertex="1">
+          <mxGeometry height="60" width="120" x="-670" y="6690" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-6" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Qeis&lt;br&gt;bin Hubeira&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-310" y="6460" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-8" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="haRMP9myfKNRd0AwDHqm-7" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="haRMP9myfKNRd0AwDHqm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-7" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Mazhij" vertex="1">
+          <mxGeometry height="60" width="120" x="-485" y="6590" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-10" edge="1" parent="0g6hFQXNE55nwzumCWPD-1" source="haRMP9myfKNRd0AwDHqm-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="haRMP9myfKNRd0AwDHqm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haRMP9myfKNRd0AwDHqm-9" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Asad" vertex="1">
+          <mxGeometry height="60" width="120" x="-670" y="6590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
