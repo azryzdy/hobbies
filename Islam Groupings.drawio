@@ -1579,6 +1579,9 @@
         <mxCell id="haRMP9myfKNRd0AwDHqm-9" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bani Asad" vertex="1">
           <mxGeometry height="60" width="120" x="-670" y="6590" as="geometry" />
         </mxCell>
+        <mxCell id="Syj0qfTtEI-7s-4vRXpX-0" parent="0g6hFQXNE55nwzumCWPD-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Rab&#39;i bin Ami" vertex="1">
+          <mxGeometry height="60" width="120" x="-840" y="6590" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
